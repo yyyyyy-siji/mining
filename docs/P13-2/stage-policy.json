@@ -1,0 +1,6 @@
+{
+  "stage": "P13-2-2-1",
+  "calibration_allowed": false,
+  "human_labels_complete_required": true,
+  "schema_version": "1.0.0"
+}

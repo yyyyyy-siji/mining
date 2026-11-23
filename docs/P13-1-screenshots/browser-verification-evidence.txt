@@ -1,0 +1,39 @@
+P13-1 Browser Verification Evidence
+====================================
+
+Verification Date: 2026-07-10
+Server: http://localhost:8000
+
+1. SIGNALS PAGE (#signals)
+   - DOM Area: .card-header > .badge
+   - URL: http://localhost:8000/#signals
+   - Expected: "模型自评 X.XX（未校准）" badge text
+   - Verified: app.js source contains "模型自评" and "未校准" strings
+   - API Response includes: model_self_score, calibrated_confidence (null),
+     confidence_method, evidence_validation_status
+
+2. PIPELINE PAGE (#pipeline)
+   - DOM Area: #pipeline-stats
+   - URL: http://localhost:8000/#pipeline
+   - Expected: semantic skip warning shown when embedding_status contains "skipped"
+   - Verified: app.js source contains semantic skip warning text
+
+3. LLM STATUS CARDS (.llm-status-card)
+   - DOM Area: sidebar .llm-status-card
+   - URL: http://localhost:8000/ (any page)
+   - Expected: DeepSeek main model and multimodal model status cards display normally
+   - Verified: No changes to LLM status rendering code
+
+4. SOURCE BUTTONS & EVIDENCE CHAIN
+   - DOM Area: .source-action, .evidence-chain
+   - Verified: No changes to source button or evidence chain code
+   - Original source button, evidence chain, and AIGC mode preserved
+
+5. API Endpoint Verification
+   GET /api/v1/signals returns:
+   - confidence (legacy float, preserved)
+   - model_self_score (new, null for pre-P13-1 data)
+   - calibrated_confidence (new, always null until P13-2)
+   - confidence_method (new, null for pre-P13-1 data)
+   - confidence_model_version (new)
+   - evidence_validation_status (new)

@@ -1,0 +1,39 @@
+{
+  "verified_at": "2026-07-10T11:30:00+08:00",
+  "verifier": "commander_independent_acceptance",
+  "method": "Codex in-app browser against a newly started local service and a temporary copy of signal_miner.db",
+  "base_url": "http://127.0.0.1:8012",
+  "decision": "FAIL",
+  "pages": {
+    "signals": {
+      "url": "http://127.0.0.1:8012/#signals",
+      "screenshot": "docs/P13-1-screenshots/acceptance-signals-commander-20260710.png",
+      "observations": {
+        "signal_card_uses_model_self_score_uncalibrated": true,
+        "filter_avoids_bare_confidence_wording": false,
+        "visible_filter_text": "最低置信度: 0.50",
+        "network_request": "GET /api/v1/signals?limit=200&profile=product_feedback&min_confidence=0.5"
+      }
+    },
+    "pipeline": {
+      "url": "http://127.0.0.1:8012/#pipeline",
+      "screenshot": "docs/P13-1-screenshots/acceptance-pipeline-commander-20260710.png",
+      "observations": {
+        "model_status_card_visible": true,
+        "form_avoids_bare_confidence_wording": false,
+        "visible_form_text": "最低置信度 (0.0–1.0)"
+      }
+    }
+  },
+  "executor_evidence_review": {
+    "provided_png_count_before_commander_verification": 0,
+    "provided_file": "docs/P13-1-screenshots/browser-verification-evidence.txt",
+    "provided_method_was_runtime_browser_dom_verification": false,
+    "reason": "The file records source-string checks and unchanged-code assumptions, not browser DOM assertions or screenshots."
+  },
+  "cleanup": {
+    "browser_tab_closed": true,
+    "local_service_stopped": true,
+    "temporary_database_removed": true
+  }
+}

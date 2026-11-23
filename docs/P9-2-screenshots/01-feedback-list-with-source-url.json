@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rfb_4daf870258cf4f5cbe21",
+    "source_type": "manual",
+    "subject": "批量测试3",
+    "text_preview": "批量导入测试：video_url字段",
+    "processing_state": "pending",
+    "signal_count": 0,
+    "external_url": "https://example.com/batch-video-url",
+    "source_url": "https://example.com/batch-video-url",
+    "pipeline_profile": "product_feedback",
+    "created_at": "2026-06-24T13:08:38.499623"
+  },
+  {
+    "id": "rfb_714b395e583b40ea9748",
+    "source_type": "video_douyin",
+    "subject": "丝滑变装教程",
+    "text_preview": "这个变装视频的转场太丝滑了！用了3个关键帧，配合鼓点卡拍，完播率绝对高",
+    "processing_state": "pending",
+    "signal_count": 0,
+    "external_url": "https://example.com/aigc-video-source",
+    "source_url": "https://example.com/aigc-video-source",
+    "pipeline_profile": "aigc_video",
+    "created_at": "2026-06-24T13:08:33.312120"
+  },
+  {
+    "id": "rfb_cb6670c871a447559e29",
+    "source_type": "manual",
+    "subject": "性能反馈",
+    "text_preview": "界面加载速度太慢了，我每次打开都要等5秒以上",
+    "processing_state": "pending",
+    "signal_count": 0,
+    "external_url": "https://example.com/product-feedback-source",
+    "source_url": "https://example.com/product-feedback-source",
+    "pipeline_profile": "product_feedback",
+    "created_at": "2026-06-24T13:08:31.154279"
+  }
+]

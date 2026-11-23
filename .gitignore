@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+
+# D3-M1: isolated third-party runtime, login profiles and per-task outputs
+tools/mediacrawler-runtime/
+
+# Runtime & acceptance artifacts (SQLite DBs, logs, captured snapshots)
+outputs/
+*.tar.gz
+*.zip

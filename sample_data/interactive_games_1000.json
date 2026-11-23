@@ -1,0 +1,7002 @@
+[
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "B站UP主_446",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了大麦，主播说没看到，尴尬死了。",
+    "author": "氪金大佬_488",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个鲜花性价比太高了",
+    "text": "这个鲜花性价比太高了，刷一个就能出43个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "老司机_191",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "游戏狂热粉_489",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "B站UP主_765",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了千纸鹤，主播说没看到，尴尬死了。",
+    "author": "萌新一枚_224",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "主播小陈_805",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "主播小陈_721",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_130",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少5秒",
+    "text": "礼物互动延迟至少5秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "战神归来_147",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "主播小陈_676",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 送了鲜花之后游戏里过了23秒才",
+    "text": "送了鲜花之后游戏里过了23秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "萌新一枚_470",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "B站UP主_155",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "吃瓜群众_467",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少18秒",
+    "text": "礼物互动延迟至少18秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "B站UP主_970",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下小刀的刷出频率",
+    "text": "建议限制一下小刀的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "主播小陈_670",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "氪金大佬_177",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "萌新一枚_835",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "主播小陈_498",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "萌新一枚_175",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "游戏狂热粉_999",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "修仙中人_148",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "游戏狂热粉_760",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "B站UP主_710",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "氪金大佬_364",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "抖音小助手_658",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "战神归来_988",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少14秒",
+    "text": "礼物互动延迟至少14秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "B站UP主_101",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的防御塔天生比蓝方强，现在大家都只投红方。",
+    "author": "抖音小助手_106",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "吃瓜群众_445",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "主播小陈_817",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "战神归来_465",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "游戏狂热粉_966",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "主播小陈_819",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "抖音小助手_460",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了跑车，主播说没看到，尴尬死了。",
+    "author": "修仙中人_588",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "修仙中人_905",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "萌新一枚_864",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送跑车的时候",
+    "text": "每次观众疯狂送跑车的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "B站UP主_360",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_359",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "吃瓜群众_128",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_761",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "修仙中人_448",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下火箭的刷出频率",
+    "text": "建议限制一下火箭的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "游戏狂热粉_615",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 送了跑车之后游戏里过了25秒才",
+    "text": "送了跑车之后游戏里过了25秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_376",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "老司机_689",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "氪金大佬_947",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "修仙中人_910",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "战神归来_595",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "吃瓜群众_628",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "战神归来_423",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "抖音小助手_164",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "氪金大佬_266",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "战神归来_752",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下小刀的刷出频率",
+    "text": "建议限制一下小刀的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "修仙中人_139",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "B站UP主_517",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "主播小陈_516",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "主播小陈_774",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_120",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_780",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "老司机_638",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "B站UP主_731",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "萌新一枚_133",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "战神归来_981",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_891",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色巨龙皮肤。",
+    "author": "B站UP主_855",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了火箭，主播说没看到，尴尬死了。",
+    "author": "抖音小助手_830",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了火箭之后游戏里过了7秒才有",
+    "text": "送了火箭之后游戏里过了7秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "萌新一枚_614",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "老司机_437",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "主播小陈_620",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "主播小陈_140",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_503",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下小刀的刷出频率",
+    "text": "建议限制一下小刀的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "战神归来_979",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "氪金大佬_968",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "吃瓜群众_650",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "抖音小助手_350",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "修仙中人_571",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "主播小陈_577",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_692",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "游戏狂热粉_722",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "抖音小助手_477",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "B站UP主_331",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "吃瓜群众_858",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "主播小陈_109",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "老司机_842",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_523",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了跑车，主播说没看到，尴尬死了。",
+    "author": "萌新一枚_481",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "氪金大佬_115",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "主播小陈_180",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送嘉年华的时候",
+    "text": "每次观众疯狂送嘉年华的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "B站UP主_617",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "B站UP主_439",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "抖音小助手_189",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "老司机_341",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_331",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 这个大麦性价比太高了",
+    "text": "这个大麦性价比太高了，刷一个就能出39个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "战神归来_971",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了大麦，主播说没看到，尴尬死了。",
+    "author": "抖音小助手_836",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 这个跑车性价比太高了",
+    "text": "这个跑车性价比太高了，刷一个就能出36个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "修仙中人_301",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "B站UP主_974",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "战神归来_864",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少20秒",
+    "text": "礼物互动延迟至少20秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "氪金大佬_806",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 这个嘉年华性价比太高了",
+    "text": "这个嘉年华性价比太高了，刷一个就能出37个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "萌新一枚_453",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少29秒",
+    "text": "礼物互动延迟至少29秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "抖音小助手_815",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "主播小陈_981",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "修仙中人_283",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "B站UP主_776",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "B站UP主_916",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的防御塔天生比蓝方强，现在大家都只投红方。",
+    "author": "B站UP主_966",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "战神归来_786",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_392",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "修仙中人_849",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "抖音小助手_907",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送火箭的时候",
+    "text": "每次观众疯狂送火箭的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "游戏狂热粉_226",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "修仙中人_989",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少14秒",
+    "text": "礼物互动延迟至少14秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_984",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "游戏狂热粉_102",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "萌新一枚_521",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的狂战士都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "游戏狂热粉_769",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "老司机_545",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 送了火箭之后游戏里过了16秒才",
+    "text": "送了火箭之后游戏里过了16秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "老司机_838",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "抖音小助手_417",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "B站UP主_658",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "游戏狂热粉_793",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "主播小陈_915",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "B站UP主_454",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "抖音小助手_805",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "吃瓜群众_256",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色弓箭手皮肤。",
+    "author": "抖音小助手_871",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "吃瓜群众_131",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "主播小陈_612",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "萌新一枚_195",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "老司机_802",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "萌新一枚_411",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "吃瓜群众_717",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "氪金大佬_160",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "修仙中人_710",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "氪金大佬_495",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少20秒",
+    "text": "礼物互动延迟至少20秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "战神归来_559",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "游戏狂热粉_818",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "修仙中人_936",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "氪金大佬_697",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下千纸鹤的刷出频率",
+    "text": "建议限制一下千纸鹤的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "战神归来_322",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "老司机_543",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "主播小陈_855",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "B站UP主_346",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "抖音小助手_635",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "萌新一枚_568",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "老司机_548",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少5秒",
+    "text": "礼物互动延迟至少5秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "萌新一枚_981",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "主播小陈_960",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个火箭性价比太高了",
+    "text": "这个火箭性价比太高了，刷一个就能出28个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "主播小陈_837",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送跑车的时候",
+    "text": "每次观众疯狂送跑车的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "抖音小助手_773",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "抖音小助手_127",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "主播小陈_625",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "B站UP主_704",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "老司机_187",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "抖音小助手_714",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_421",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少10秒",
+    "text": "礼物互动延迟至少10秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "吃瓜群众_687",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "战神归来_414",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "B站UP主_278",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "主播小陈_571",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "战神归来_345",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "主播小陈_844",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_103",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "主播小陈_671",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "战神归来_361",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_712",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "游戏狂热粉_198",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少5秒",
+    "text": "礼物互动延迟至少5秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "修仙中人_105",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_890",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "B站UP主_341",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "游戏狂热粉_563",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "修仙中人_213",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "战神归来_242",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "老司机_795",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "抖音小助手_907",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "修仙中人_976",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "B站UP主_975",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "战神归来_287",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "萌新一枚_547",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "吃瓜群众_990",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "老司机_685",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "老司机_274",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_880",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "抖音小助手_750",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "抖音小助手_184",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下鲜花的刷出频率",
+    "text": "建议限制一下鲜花的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "抖音小助手_533",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_314",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的弓箭手天生比蓝方强，现在大家都只投红方。",
+    "author": "抖音小助手_363",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "主播小陈_194",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_785",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_819",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少16秒",
+    "text": "礼物互动延迟至少16秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "游戏狂热粉_357",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "老司机_364",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "战神归来_147",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "抖音小助手_803",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "游戏狂热粉_227",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "游戏狂热粉_826",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "氪金大佬_210",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "战神归来_483",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色弓箭手皮肤。",
+    "author": "游戏狂热粉_505",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "吃瓜群众_192",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "氪金大佬_914",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个跑车性价比太高了",
+    "text": "这个跑车性价比太高了，刷一个就能出26个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "吃瓜群众_606",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "萌新一枚_893",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少22秒",
+    "text": "礼物互动延迟至少22秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "氪金大佬_553",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "修仙中人_231",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了小刀，主播说没看到，尴尬死了。",
+    "author": "B站UP主_607",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "抖音小助手_180",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_173",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "老司机_763",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了跑车，主播说没看到，尴尬死了。",
+    "author": "B站UP主_535",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "主播小陈_310",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了嘉年华，主播说没看到，尴尬死了。",
+    "author": "抖音小助手_216",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "战神归来_539",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_592",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "B站UP主_278",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "修仙中人_800",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "抖音小助手_428",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "战神归来_911",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "战神归来_550",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_543",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "主播小陈_139",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送鲜花的时候",
+    "text": "每次观众疯狂送鲜花的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "老司机_600",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "修仙中人_532",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的狂战士都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "氪金大佬_941",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "游戏狂热粉_174",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_612",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "B站UP主_617",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少18秒",
+    "text": "礼物互动延迟至少18秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_227",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "修仙中人_659",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少23秒",
+    "text": "礼物互动延迟至少23秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "B站UP主_306",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "氪金大佬_168",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "老司机_106",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "主播小陈_579",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少14秒",
+    "text": "礼物互动延迟至少14秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "氪金大佬_590",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "修仙中人_774",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 建议限制一下鲜花的刷出频率",
+    "text": "建议限制一下鲜花的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "战神归来_716",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_201",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "萌新一枚_465",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 送了鲜花之后游戏里过了28秒才",
+    "text": "送了鲜花之后游戏里过了28秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "抖音小助手_991",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "老司机_283",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_498",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "B站UP主_859",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "游戏狂热粉_256",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "战神归来_729",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "萌新一枚_948",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_547",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "主播小陈_525",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送鲜花的时候",
+    "text": "每次观众疯狂送鲜花的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "战神归来_168",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "萌新一枚_481",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的弓箭手都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "老司机_752",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送啤酒的时候",
+    "text": "每次观众疯狂送啤酒的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "游戏狂热粉_600",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "老司机_910",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少9秒",
+    "text": "礼物互动延迟至少9秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "氪金大佬_795",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "主播小陈_201",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个嘉年华性价比太高了",
+    "text": "这个嘉年华性价比太高了，刷一个就能出40个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "萌新一枚_738",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色巨龙皮肤。",
+    "author": "氪金大佬_640",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色弓箭手皮肤。",
+    "author": "萌新一枚_721",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了跑车之后游戏里过了23秒才",
+    "text": "送了跑车之后游戏里过了23秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_251",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "修仙中人_698",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色弓箭手皮肤。",
+    "author": "主播小陈_953",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "老司机_753",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "抖音小助手_880",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "氪金大佬_267",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "萌新一枚_738",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "战神归来_581",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 这个鲜花性价比太高了",
+    "text": "这个鲜花性价比太高了，刷一个就能出41个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "游戏狂热粉_241",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送大麦的时候",
+    "text": "每次观众疯狂送大麦的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "老司机_789",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "萌新一枚_644",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "战神归来_697",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_802",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "吃瓜群众_475",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "修仙中人_780",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "氪金大佬_152",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送千纸鹤的时候",
+    "text": "每次观众疯狂送千纸鹤的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "抖音小助手_752",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "氪金大佬_487",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "吃瓜群众_920",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "萌新一枚_280",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "游戏狂热粉_842",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "抖音小助手_920",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的弓箭手天生比蓝方强，现在大家都只投红方。",
+    "author": "吃瓜群众_451",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "老司机_434",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_733",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "游戏狂热粉_452",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下火箭的刷出频率",
+    "text": "建议限制一下火箭的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "游戏狂热粉_553",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "主播小陈_141",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了火箭，主播说没看到，尴尬死了。",
+    "author": "主播小陈_664",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "抖音小助手_394",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_731",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "吃瓜群众_856",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_151",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "战神归来_452",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "老司机_438",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "战神归来_465",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_237",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "氪金大佬_102",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "游戏狂热粉_777",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "氪金大佬_215",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_293",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的弓箭手都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "B站UP主_363",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色法师皮肤。",
+    "author": "修仙中人_412",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "氪金大佬_801",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "氪金大佬_668",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "抖音小助手_164",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "游戏狂热粉_178",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "老司机_654",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 这个火箭性价比太高了",
+    "text": "这个火箭性价比太高了，刷一个就能出17个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "萌新一枚_643",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "主播小陈_795",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "修仙中人_868",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "修仙中人_762",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送千纸鹤的时候",
+    "text": "每次观众疯狂送千纸鹤的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "战神归来_173",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "吃瓜群众_458",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "萌新一枚_198",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "修仙中人_255",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的防御塔都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "游戏狂热粉_722",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "老司机_964",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "修仙中人_202",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "战神归来_485",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "氪金大佬_268",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下大麦的刷出频率",
+    "text": "建议限制一下大麦的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "修仙中人_197",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "氪金大佬_331",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_666",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "主播小陈_559",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少19秒",
+    "text": "礼物互动延迟至少19秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "游戏狂热粉_989",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "B站UP主_838",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "萌新一枚_384",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "B站UP主_784",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "主播小陈_466",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的巨龙天生比蓝方强，现在大家都只投红方。",
+    "author": "萌新一枚_275",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "老司机_597",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "游戏狂热粉_191",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个嘉年华性价比太高了",
+    "text": "这个嘉年华性价比太高了，刷一个就能出27个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "吃瓜群众_966",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个鲜花性价比太高了",
+    "text": "这个鲜花性价比太高了，刷一个就能出49个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "B站UP主_894",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "主播小陈_619",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "修仙中人_554",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "氪金大佬_180",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "战神归来_453",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送啤酒的时候",
+    "text": "每次观众疯狂送啤酒的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "氪金大佬_105",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "氪金大佬_207",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "游戏狂热粉_725",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "修仙中人_922",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_945",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了大麦，主播说没看到，尴尬死了。",
+    "author": "萌新一枚_999",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送跑车的时候",
+    "text": "每次观众疯狂送跑车的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "吃瓜群众_102",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送火箭的时候",
+    "text": "每次观众疯狂送火箭的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "吃瓜群众_591",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "抖音小助手_125",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色狂战士皮肤。",
+    "author": "吃瓜群众_717",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "主播小陈_877",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的弓箭手天生比蓝方强，现在大家都只投红方。",
+    "author": "战神归来_451",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下大麦的刷出频率",
+    "text": "建议限制一下大麦的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "B站UP主_301",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 送了火箭之后游戏里过了10秒才",
+    "text": "送了火箭之后游戏里过了10秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "战神归来_983",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "吃瓜群众_214",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "主播小陈_292",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "氪金大佬_513",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "修仙中人_802",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "氪金大佬_263",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_830",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "老司机_734",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "氪金大佬_900",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "老司机_296",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "修仙中人_241",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "游戏狂热粉_687",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色巨龙皮肤。",
+    "author": "抖音小助手_780",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "战神归来_995",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "修仙中人_145",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_595",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "抖音小助手_302",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "游戏狂热粉_906",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "老司机_164",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "主播小陈_144",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "萌新一枚_550",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少11秒",
+    "text": "礼物互动延迟至少11秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "吃瓜群众_481",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "战神归来_979",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_475",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "吃瓜群众_189",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "修仙中人_563",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "战神归来_308",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "修仙中人_905",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 这个火箭性价比太高了",
+    "text": "这个火箭性价比太高了，刷一个就能出43个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "抖音小助手_377",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "主播小陈_769",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "抖音小助手_272",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "修仙中人_234",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "主播小陈_678",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了嘉年华，主播说没看到，尴尬死了。",
+    "author": "老司机_852",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的防御塔都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "游戏狂热粉_104",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "主播小陈_799",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "抖音小助手_208",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少18秒",
+    "text": "礼物互动延迟至少18秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "战神归来_632",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了大麦，主播说没看到，尴尬死了。",
+    "author": "B站UP主_419",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "战神归来_867",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了跑车之后游戏里过了27秒才",
+    "text": "送了跑车之后游戏里过了27秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "修仙中人_348",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "主播小陈_452",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "氪金大佬_235",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "战神归来_416",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "老司机_392",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的狂战士都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "抖音小助手_325",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了火箭，主播说没看到，尴尬死了。",
+    "author": "战神归来_796",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "萌新一枚_240",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色法师皮肤。",
+    "author": "游戏狂热粉_829",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了火箭，主播说没看到，尴尬死了。",
+    "author": "老司机_589",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_452",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了千纸鹤，主播说没看到，尴尬死了。",
+    "author": "抖音小助手_976",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "B站UP主_103",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_228",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "战神归来_518",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "抖音小助手_438",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "游戏狂热粉_794",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "萌新一枚_571",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了啤酒，主播说没看到，尴尬死了。",
+    "author": "修仙中人_411",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下跑车的刷出频率",
+    "text": "建议限制一下跑车的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "吃瓜群众_494",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "B站UP主_164",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "游戏狂热粉_557",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "游戏狂热粉_725",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "游戏狂热粉_557",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "萌新一枚_795",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "氪金大佬_719",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "游戏狂热粉_132",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "抖音小助手_828",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "修仙中人_998",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "萌新一枚_590",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "吃瓜群众_222",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "战神归来_291",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "游戏狂热粉_444",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_191",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "主播小陈_760",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了啤酒，主播说没看到，尴尬死了。",
+    "author": "抖音小助手_144",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "修仙中人_359",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色弓箭手皮肤。",
+    "author": "氪金大佬_759",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 送了鲜花之后游戏里过了20秒才",
+    "text": "送了鲜花之后游戏里过了20秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_584",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "主播小陈_677",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "主播小陈_115",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_503",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "修仙中人_687",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "吃瓜群众_626",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "氪金大佬_560",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "抖音小助手_179",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "萌新一枚_350",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的防御塔都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "吃瓜群众_842",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "游戏狂热粉_138",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "抖音小助手_165",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "战神归来_217",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "老司机_262",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "老司机_197",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "B站UP主_923",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "抖音小助手_147",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "抖音小助手_588",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "萌新一枚_848",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了千纸鹤，主播说没看到，尴尬死了。",
+    "author": "游戏狂热粉_262",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "B站UP主_838",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色狂战士皮肤。",
+    "author": "氪金大佬_412",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "萌新一枚_220",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下跑车的刷出频率",
+    "text": "建议限制一下跑车的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "氪金大佬_921",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "氪金大佬_889",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "B站UP主_596",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少21秒",
+    "text": "礼物互动延迟至少21秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "B站UP主_403",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 这个火箭性价比太高了",
+    "text": "这个火箭性价比太高了，刷一个就能出47个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "修仙中人_438",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "氪金大佬_710",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "修仙中人_396",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "老司机_969",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "战神归来_978",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "吃瓜群众_214",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "吃瓜群众_929",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "氪金大佬_815",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "吃瓜群众_287",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_658",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "B站UP主_260",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "萌新一枚_844",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "修仙中人_126",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "主播小陈_438",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "B站UP主_944",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "吃瓜群众_176",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "萌新一枚_593",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "游戏狂热粉_313",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "老司机_105",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色狂战士皮肤。",
+    "author": "萌新一枚_452",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "老司机_415",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "游戏狂热粉_343",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "B站UP主_211",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "主播小陈_359",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送千纸鹤的时候",
+    "text": "每次观众疯狂送千纸鹤的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "战神归来_853",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_835",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_426",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "萌新一枚_559",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了火箭，主播说没看到，尴尬死了。",
+    "author": "萌新一枚_839",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "游戏狂热粉_968",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下火箭的刷出频率",
+    "text": "建议限制一下火箭的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "抖音小助手_780",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "氪金大佬_860",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的弓箭手都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "主播小陈_997",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "氪金大佬_867",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "吃瓜群众_903",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "氪金大佬_254",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "抖音小助手_427",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "吃瓜群众_416",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "战神归来_159",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的狂战士天生比蓝方强，现在大家都只投红方。",
+    "author": "修仙中人_639",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "氪金大佬_174",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了千纸鹤，主播说没看到，尴尬死了。",
+    "author": "氪金大佬_216",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "游戏狂热粉_938",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "抖音小助手_416",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 建议限制一下大麦的刷出频率",
+    "text": "建议限制一下大麦的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "萌新一枚_356",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "主播小陈_728",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "B站UP主_117",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了小刀，主播说没看到，尴尬死了。",
+    "author": "B站UP主_641",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少9秒",
+    "text": "礼物互动延迟至少9秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "抖音小助手_386",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "战神归来_802",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "游戏狂热粉_303",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "主播小陈_456",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "老司机_831",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少21秒",
+    "text": "礼物互动延迟至少21秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "B站UP主_256",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "吃瓜群众_456",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "氪金大佬_276",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "主播小陈_528",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "氪金大佬_732",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "战神归来_624",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 建议限制一下大麦的刷出频率",
+    "text": "建议限制一下大麦的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "主播小陈_662",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "游戏狂热粉_511",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "主播小陈_834",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "抖音小助手_609",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下鲜花的刷出频率",
+    "text": "建议限制一下鲜花的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "老司机_173",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "氪金大佬_130",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "战神归来_798",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "修仙中人_544",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "氪金大佬_928",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "B站UP主_280",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "B站UP主_990",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "氪金大佬_825",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少27秒",
+    "text": "礼物互动延迟至少27秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "主播小陈_284",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_237",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "B站UP主_472",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "修仙中人_725",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "战神归来_691",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少7秒",
+    "text": "礼物互动延迟至少7秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_536",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "游戏狂热粉_406",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "老司机_392",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "抖音小助手_410",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少17秒",
+    "text": "礼物互动延迟至少17秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_755",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "老司机_379",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "萌新一枚_571",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的弓箭手都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "老司机_523",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "氪金大佬_611",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "主播小陈_486",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "吃瓜群众_356",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送啤酒的时候",
+    "text": "每次观众疯狂送啤酒的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "老司机_919",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_213",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "萌新一枚_888",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "老司机_731",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "萌新一枚_402",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "吃瓜群众_551",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "萌新一枚_517",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "氪金大佬_704",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "吃瓜群众_757",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "修仙中人_582",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "吃瓜群众_509",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的防御塔天生比蓝方强，现在大家都只投红方。",
+    "author": "氪金大佬_535",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送鲜花的时候",
+    "text": "每次观众疯狂送鲜花的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "游戏狂热粉_637",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "萌新一枚_870",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "氪金大佬_270",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "老司机_791",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送千纸鹤的时候",
+    "text": "每次观众疯狂送千纸鹤的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "修仙中人_963",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "B站UP主_392",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "抖音小助手_106",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的防御塔都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "战神归来_785",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "主播小陈_194",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "游戏狂热粉_277",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少10秒",
+    "text": "礼物互动延迟至少10秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "主播小陈_432",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "战神归来_536",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "氪金大佬_340",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_434",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "吃瓜群众_149",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_670",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "吃瓜群众_724",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "抖音小助手_730",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "吃瓜群众_548",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "氪金大佬_493",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "氪金大佬_237",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "修仙中人_754",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "游戏狂热粉_222",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个啤酒性价比太高了",
+    "text": "这个啤酒性价比太高了，刷一个就能出38个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "萌新一枚_189",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "老司机_685",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "老司机_917",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "战神归来_582",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "吃瓜群众_668",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "抖音小助手_222",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少30秒",
+    "text": "礼物互动延迟至少30秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "抖音小助手_406",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "抖音小助手_184",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "战神归来_581",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "修仙中人_277",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下千纸鹤的刷出频率",
+    "text": "建议限制一下千纸鹤的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "萌新一枚_443",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 这个大麦性价比太高了",
+    "text": "这个大麦性价比太高了，刷一个就能出16个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "老司机_408",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "主播小陈_954",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "主播小陈_770",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "战神归来_679",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "主播小陈_267",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的弓箭手天生比蓝方强，现在大家都只投红方。",
+    "author": "抖音小助手_548",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "萌新一枚_789",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "抖音小助手_421",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送千纸鹤的时候",
+    "text": "每次观众疯狂送千纸鹤的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "老司机_917",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "吃瓜群众_138",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "战神归来_630",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "老司机_283",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "抖音小助手_727",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的狂战士都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "抖音小助手_195",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "游戏狂热粉_458",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "老司机_277",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "B站UP主_648",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "老司机_218",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "萌新一枚_665",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "游戏狂热粉_593",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "B站UP主_546",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_463",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "吃瓜群众_400",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "B站UP主_158",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "B站UP主_186",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "B站UP主_865",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "B站UP主_797",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "萌新一枚_956",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "抖音小助手_753",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "吃瓜群众_951",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少21秒",
+    "text": "礼物互动延迟至少21秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "游戏狂热粉_678",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "氪金大佬_795",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "修仙中人_599",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "老司机_635",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "老司机_662",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "萌新一枚_630",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "游戏狂热粉_974",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的狂战士天生比蓝方强，现在大家都只投红方。",
+    "author": "抖音小助手_873",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "老司机_870",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "抖音小助手_906",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "B站UP主_812",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了啤酒，主播说没看到，尴尬死了。",
+    "author": "主播小陈_683",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "游戏狂热粉_216",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "萌新一枚_284",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 送了大麦之后游戏里过了8秒才有",
+    "text": "送了大麦之后游戏里过了8秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "战神归来_603",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了嘉年华，主播说没看到，尴尬死了。",
+    "author": "氪金大佬_220",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "修仙中人_446",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "游戏狂热粉_609",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "战神归来_971",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了千纸鹤之后游戏里过了27秒",
+    "text": "送了千纸鹤之后游戏里过了27秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "主播小陈_622",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "萌新一枚_178",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "吃瓜群众_752",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "抖音小助手_450",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "主播小陈_689",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_107",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "B站UP主_666",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的狂战士天生比蓝方强，现在大家都只投红方。",
+    "author": "B站UP主_847",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "战神归来_958",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少28秒",
+    "text": "礼物互动延迟至少28秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "主播小陈_413",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "萌新一枚_696",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了火箭，主播说没看到，尴尬死了。",
+    "author": "氪金大佬_710",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "主播小陈_986",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "氪金大佬_364",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "抖音小助手_431",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "老司机_281",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "战神归来_718",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_210",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "主播小陈_143",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "抖音小助手_160",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送啤酒的时候",
+    "text": "每次观众疯狂送啤酒的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "萌新一枚_267",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "B站UP主_162",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "氪金大佬_139",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "战神归来_932",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "B站UP主_103",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "主播小陈_140",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "修仙中人_153",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "抖音小助手_809",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "修仙中人_204",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "老司机_891",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "B站UP主_313",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "萌新一枚_802",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "氪金大佬_246",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_897",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "抖音小助手_799",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "战神归来_286",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "吃瓜群众_224",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "氪金大佬_784",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "萌新一枚_788",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "游戏狂热粉_615",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下跑车的刷出频率",
+    "text": "建议限制一下跑车的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "B站UP主_577",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了大麦，主播说没看到，尴尬死了。",
+    "author": "游戏狂热粉_775",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "修仙中人_332",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "老司机_916",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "战神归来_130",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 送了跑车之后游戏里过了8秒才有",
+    "text": "送了跑车之后游戏里过了8秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "主播小陈_421",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "游戏狂热粉_778",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "老司机_361",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "游戏狂热粉_770",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "氪金大佬_222",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了嘉年华，主播说没看到，尴尬死了。",
+    "author": "战神归来_536",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 送了火箭之后游戏里过了13秒才",
+    "text": "送了火箭之后游戏里过了13秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_817",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送鲜花的时候",
+    "text": "每次观众疯狂送鲜花的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "主播小陈_689",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "吃瓜群众_505",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "吃瓜群众_868",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "吃瓜群众_308",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "B站UP主_854",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "B站UP主_154",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "萌新一枚_977",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个千纸鹤性价比太高了",
+    "text": "这个千纸鹤性价比太高了，刷一个就能出24个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "抖音小助手_475",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "抖音小助手_240",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的弓箭手天生比蓝方强，现在大家都只投红方。",
+    "author": "战神归来_387",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "游戏狂热粉_684",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "主播小陈_856",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "修仙中人_155",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 送了小刀之后游戏里过了22秒才",
+    "text": "送了小刀之后游戏里过了22秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "战神归来_823",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_950",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下大麦的刷出频率",
+    "text": "建议限制一下大麦的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "战神归来_252",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "B站UP主_888",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "B站UP主_624",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 送了鲜花之后游戏里过了23秒才",
+    "text": "送了鲜花之后游戏里过了23秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "修仙中人_538",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "抖音小助手_828",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "吃瓜群众_333",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "战神归来_348",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "萌新一枚_337",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的狂战士天生比蓝方强，现在大家都只投红方。",
+    "author": "修仙中人_180",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "战神归来_959",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 这个啤酒性价比太高了",
+    "text": "这个啤酒性价比太高了，刷一个就能出21个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "萌新一枚_207",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_294",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了嘉年华之后游戏里过了21秒",
+    "text": "送了嘉年华之后游戏里过了21秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "氪金大佬_652",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 这个千纸鹤性价比太高了",
+    "text": "这个千纸鹤性价比太高了，刷一个就能出40个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "吃瓜群众_258",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "萌新一枚_961",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送小刀的时候",
+    "text": "每次观众疯狂送小刀的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "B站UP主_652",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "抖音小助手_552",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "萌新一枚_736",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了跑车，主播说没看到，尴尬死了。",
+    "author": "主播小陈_352",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "抖音小助手_520",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "修仙中人_558",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色法师皮肤。",
+    "author": "老司机_773",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "氪金大佬_763",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "游戏狂热粉_440",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "吃瓜群众_128",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "老司机_249",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "萌新一枚_745",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "氪金大佬_953",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "氪金大佬_873",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "吃瓜群众_762",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了大麦，主播说没看到，尴尬死了。",
+    "author": "氪金大佬_456",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少26秒",
+    "text": "礼物互动延迟至少26秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "吃瓜群众_320",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个千纸鹤性价比太高了",
+    "text": "这个千纸鹤性价比太高了，刷一个就能出29个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "吃瓜群众_416",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "B站UP主_338",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "抖音小助手_601",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "B站UP主_967",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "B站UP主_668",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "B站UP主_709",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "氪金大佬_751",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "萌新一枚_959",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "B站UP主_647",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送千纸鹤的时候",
+    "text": "每次观众疯狂送千纸鹤的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "氪金大佬_879",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "萌新一枚_417",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "吃瓜群众_954",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "老司机_177",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "战神归来_427",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "游戏狂热粉_111",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "抖音小助手_794",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "抖音小助手_669",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送鲜花的时候",
+    "text": "每次观众疯狂送鲜花的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "吃瓜群众_429",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "主播小陈_527",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 送了千纸鹤之后游戏里过了13秒",
+    "text": "送了千纸鹤之后游戏里过了13秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "修仙中人_737",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "B站UP主_399",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "氪金大佬_370",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "游戏狂热粉_711",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "战神归来_607",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "B站UP主_878",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少20秒",
+    "text": "礼物互动延迟至少20秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "抖音小助手_485",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了千纸鹤，主播说没看到，尴尬死了。",
+    "author": "萌新一枚_506",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_623",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 这个鲜花性价比太高了",
+    "text": "这个鲜花性价比太高了，刷一个就能出37个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "氪金大佬_191",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "战神归来_827",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_509",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "抖音小助手_674",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的防御塔天生比蓝方强，现在大家都只投红方。",
+    "author": "主播小陈_455",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 这个嘉年华性价比太高了",
+    "text": "这个嘉年华性价比太高了，刷一个就能出23个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "萌新一枚_712",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "氪金大佬_851",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "吃瓜群众_978",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_709",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "B站UP主_885",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "游戏狂热粉_342",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "游戏狂热粉_861",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "战神归来_933",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "抖音小助手_828",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "游戏狂热粉_163",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "老司机_309",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了嘉年华，主播说没看到，尴尬死了。",
+    "author": "主播小陈_124",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "B站UP主_690",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_659",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "氪金大佬_406",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "老司机_152",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "抖音小助手_141",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "B站UP主_359",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了鲜花，主播说没看到，尴尬死了。",
+    "author": "游戏狂热粉_248",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "游戏狂热粉_357",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，火箭太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "氪金大佬_270",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下小刀的刷出频率",
+    "text": "建议限制一下小刀的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "游戏狂热粉_301",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "老司机_250",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下小刀的刷出频率",
+    "text": "建议限制一下小刀的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "吃瓜群众_400",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "抖音小助手_263",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "战神归来_627",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "主播小陈_333",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "战神归来_263",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "吃瓜群众_208",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了大麦之后游戏里过了7秒才有",
+    "text": "送了大麦之后游戏里过了7秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_230",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "B站UP主_840",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "氪金大佬_778",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送火箭的时候",
+    "text": "每次观众疯狂送火箭的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "修仙中人_687",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的巨龙天生比蓝方强，现在大家都只投红方。",
+    "author": "B站UP主_258",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了千纸鹤，主播说没看到，尴尬死了。",
+    "author": "战神归来_822",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "修仙中人_749",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "B站UP主_225",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "老司机_284",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "战神归来_810",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "吃瓜群众_510",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "修仙中人_955",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "游戏狂热粉_885",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "修仙中人_259",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "抖音小助手_527",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "萌新一枚_378",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "抖音小助手_941",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "氪金大佬_463",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "B站UP主_475",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "抖音小助手_216",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "修仙中人_736",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "萌新一枚_162",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "主播小陈_786",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "B站UP主_264",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "战神归来_588",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送嘉年华的时候",
+    "text": "每次观众疯狂送嘉年华的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "战神归来_275",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "抖音小助手_844",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "吃瓜群众_659",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少15秒",
+    "text": "礼物互动延迟至少15秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "游戏狂热粉_132",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "老司机_444",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 这个火箭性价比太高了",
+    "text": "这个火箭性价比太高了，刷一个就能出10个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "B站UP主_309",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "萌新一枚_573",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "氪金大佬_683",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "吃瓜群众_126",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 这个啤酒性价比太高了",
+    "text": "这个啤酒性价比太高了，刷一个就能出30个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "游戏狂热粉_773",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "战神归来_997",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "修仙中人_488",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "萌新一枚_224",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "抖音小助手_736",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "战神归来_564",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 这个鲜花性价比太高了",
+    "text": "这个鲜花性价比太高了，刷一个就能出49个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "氪金大佬_279",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "氪金大佬_892",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少19秒",
+    "text": "礼物互动延迟至少19秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_226",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "萌新一枚_779",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 建议限制一下啤酒的刷出频率",
+    "text": "建议限制一下啤酒的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "修仙中人_191",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_575",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了鲜花，主播说没看到，尴尬死了。",
+    "author": "战神归来_643",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "主播小陈_738",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "老司机_212",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_662",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "吃瓜群众_292",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "老司机_638",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "萌新一枚_353",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "抖音小助手_990",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送嘉年华的时候",
+    "text": "每次观众疯狂送嘉年华的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "战神归来_796",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色狂战士皮肤。",
+    "author": "吃瓜群众_305",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "氪金大佬_523",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "萌新一枚_478",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "吃瓜群众_627",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "B站UP主_826",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "老司机_514",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "抖音小助手_835",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "B站UP主_661",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "修仙中人_848",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "游戏狂热粉_836",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "氪金大佬_889",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "抖音小助手_590",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的法师都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "老司机_974",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_818",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "吃瓜群众_519",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "吃瓜群众_256",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "老司机_423",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "主播小陈_941",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "萌新一枚_726",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "老司机_477",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "萌新一枚_382",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "吃瓜群众_326",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "游戏狂热粉_513",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的骷髅怪天生比蓝方强，现在大家都只投红方。",
+    "author": "主播小陈_790",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "抖音小助手_657",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "氪金大佬_166",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "老司机_179",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送小刀的时候",
+    "text": "每次观众疯狂送小刀的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "氪金大佬_484",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "氪金大佬_633",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "战神归来_772",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下千纸鹤的刷出频率",
+    "text": "建议限制一下千纸鹤的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "吃瓜群众_169",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 送了火箭之后游戏里过了13秒才",
+    "text": "送了火箭之后游戏里过了13秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "游戏狂热粉_759",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_685",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "游戏狂热粉_986",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "B站UP主_340",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "战神归来_739",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 建议限制一下千纸鹤的刷出频率",
+    "text": "建议限制一下千纸鹤的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "氪金大佬_663",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "游戏狂热粉_518",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少6秒",
+    "text": "礼物互动延迟至少6秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_847",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "萌新一枚_366",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "游戏狂热粉_976",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "游戏狂热粉_630",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "老司机_516",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 希望能加入主播亲自扮演Boss",
+    "text": "希望能加入主播亲自扮演Boss的设计，观众刷礼物来围剿主播，这样互动性更强。",
+    "author": "老司机_943",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "B站UP主_793",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "游戏狂热粉_863",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的巨龙都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "萌新一枚_714",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了啤酒之后游戏里过了19秒才",
+    "text": "送了啤酒之后游戏里过了19秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "主播小陈_628",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "游戏狂热粉_158",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "战神归来_194",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个嘉年华直接全屏秒",
+    "text": "氪金大佬刷一个嘉年华直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "主播小陈_549",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "B站UP主_162",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_271",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "游戏狂热粉_760",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "氪金大佬_811",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的法师天生比蓝方强，现在大家都只投红方。",
+    "author": "游戏狂热粉_838",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "主播小陈_651",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "修仙中人_878",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "游戏狂热粉_809",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 送了鲜花之后游戏里过了11秒才",
+    "text": "送了鲜花之后游戏里过了11秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "战神归来_417",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 这个火箭性价比太高了",
+    "text": "这个火箭性价比太高了，刷一个就能出20个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "抖音小助手_269",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色狂战士皮肤。",
+    "author": "B站UP主_426",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "战神归来_800",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "游戏狂热粉_408",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个火箭直接全屏秒杀",
+    "text": "氪金大佬刷一个火箭直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "老司机_293",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "抖音小助手_163",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "游戏狂热粉_692",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "氪金大佬_856",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "氪金大佬_323",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 送了小刀之后游戏里过了25秒才",
+    "text": "送了小刀之后游戏里过了25秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_517",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "修仙中人_389",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "游戏狂热粉_373",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 送了小刀之后游戏里过了24秒才",
+    "text": "送了小刀之后游戏里过了24秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "游戏狂热粉_300",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色巨龙皮肤。",
+    "author": "战神归来_483",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个小刀性价比太高了",
+    "text": "这个小刀性价比太高了，刷一个就能出20个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "游戏狂热粉_841",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 目前只有两个阵营",
+    "text": "目前只有两个阵营，能不能出个大乱斗模式？支持四个阵营同时混战。",
+    "author": "抖音小助手_831",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "主播小陈_539",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "游戏狂热粉_564",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 由于游戏内含有部分血腥特效",
+    "text": "由于游戏内含有部分血腥特效，在某些平台开播会被自动限流，建议出个绿血或者萌化版本。",
+    "author": "修仙中人_179",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "氪金大佬_937",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "COMPLIANCE: 这个礼物对战机制有点像押注赌博",
+    "text": "这个礼物对战机制有点像押注赌博，今天在抖音直播直接被封禁了10分钟，求官方出个安全版说明。",
+    "author": "修仙中人_444",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 这个嘉年华性价比太高了",
+    "text": "这个嘉年华性价比太高了，刷一个就能出19个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "吃瓜群众_322",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "修仙中人_450",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "战神归来_116",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色巨龙皮肤。",
+    "author": "抖音小助手_723",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "修仙中人_255",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "萌新一枚_266",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "老司机_741",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "吃瓜群众_609",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "游戏狂热粉_255",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "B站UP主_609",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "氪金大佬_342",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "B站UP主_881",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 红方和蓝方的平衡性有很大问题",
+    "text": "红方和蓝方的平衡性有很大问题，红方的弓箭手天生比蓝方强，现在大家都只投红方。",
+    "author": "吃瓜群众_904",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 手机直播这个游戏发热太严重了",
+    "text": "手机直播这个游戏发热太严重了，才播了半小时温度就烫手，游戏帧率掉到20帧。",
+    "author": "抖音小助手_416",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "游戏狂热粉_207",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "游戏狂热粉_111",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "游戏狂热粉_201",
+    "segment": "developer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 有些小礼物的CD太短了",
+    "text": "有些小礼物的CD太短了，一直刷一直有，画面全是垃圾特效，角色都看不见了。",
+    "author": "修仙中人_457",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送大麦的时候",
+    "text": "每次观众疯狂送大麦的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "修仙中人_156",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了跑车，主播说没看到，尴尬死了。",
+    "author": "战神归来_265",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "游戏狂热粉_479",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "战神归来_574",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的狂战士都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "主播小陈_408",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 建议限制一下嘉年华的刷出频率",
+    "text": "建议限制一下嘉年华的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "萌新一枚_635",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "战神归来_602",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 建议增加一个‘精简特效’开关",
+    "text": "建议增加一个‘精简特效’开关，不然满屏幕小兵动起来的时候，中低端电脑根本吃不消。",
+    "author": "主播小陈_577",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "萌新一枚_152",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了啤酒，主播说没看到，尴尬死了。",
+    "author": "战神归来_643",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 增加一个观众贡献榜和周榜",
+    "text": "增加一个观众贡献榜和周榜，刺激土豪观众刷礼物争夺榜首，现在的榜单太简陋了。",
+    "author": "战神归来_704",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "主播小陈_409",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "战神归来_959",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "氪金大佬_522",
+    "segment": "developer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "BALANCE: 氪金大佬刷一个跑车直接全屏秒杀",
+    "text": "氪金大佬刷一个跑车直接全屏秒杀，普通观众发弹幕召唤的小兵就是送人头，毫无体验。",
+    "author": "游戏狂热粉_348",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "游戏狂热粉_605",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "老司机_112",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "抖音小助手_394",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "主播小陈_863",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色骷髅怪皮肤。",
+    "author": "抖音小助手_902",
+    "segment": "viewer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 送了鲜花之后游戏里过了30秒才",
+    "text": "送了鲜花之后游戏里过了30秒才有反应，延迟太高了，粉丝都在骂。",
+    "author": "B站UP主_555",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "吃瓜群众_877",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色巨龙皮肤。",
+    "author": "B站UP主_178",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "BALANCE: 这个大麦性价比太高了",
+    "text": "这个大麦性价比太高了，刷一个就能出49个怪，直接把对面推平了，根本没有策略可言。",
+    "author": "吃瓜群众_497",
+    "segment": "streamer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "LATENCY: 弹幕延迟太严重了",
+    "text": "弹幕延迟太严重了，我的骷髅怪都死了，观众送的血包才刷出来，根本无法配合。",
+    "author": "B站UP主_791",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "MONETIZATION: 充值系统经常报错",
+    "text": "充值系统经常报错，粉丝反馈微信支付付款成功了，但游戏币没有到账，客服快处理下！",
+    "author": "老司机_356",
+    "segment": "developer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 分成比例太低了",
+    "text": "分成比例太低了，平台拿走一大半，游戏开发商又拿走一部分，我们小主播根本赚不到钱。",
+    "author": "修仙中人_222",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 建议增加‘免费弹幕抽奖’功能",
+    "text": "建议增加‘免费弹幕抽奖’功能，让没有送礼物的观众通过扣数字也有机会参与互动。",
+    "author": "B站UP主_370",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "PERFORMANCE: 满屏的特效导致游戏直接闪退了",
+    "text": "满屏的特效导致游戏直接闪退了，这游戏优化做得太垃圾了，主播根本播不下去。",
+    "author": "吃瓜群众_127",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，跑车太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "氪金大佬_567",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "氪金大佬_543",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "萌新一枚_385",
+    "segment": "streamer",
+    "source": "app_review"
+  },
+  {
+    "title": "BALANCE: 建议限制一下鲜花的刷出频率",
+    "text": "建议限制一下鲜花的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "萌新一枚_522",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少23秒",
+    "text": "礼物互动延迟至少23秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "氪金大佬_182",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 这游戏内存泄漏太严重了",
+    "text": "这游戏内存泄漏太严重了，播到第3个小时必定崩溃，必须要重启游戏才行。",
+    "author": "修仙中人_978",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "LATENCY: 网络同步太差",
+    "text": "网络同步太差，B站直播间送的礼物，游戏主控端根本收不到，白花钱了。",
+    "author": "战神归来_955",
+    "segment": "streamer",
+    "source": "douyin"
+  },
+  {
+    "title": "MONETIZATION: 现在的首充礼包性价比太低",
+    "text": "现在的首充礼包性价比太低，没人愿意买，建议把首充奖励改成限时特色防御塔皮肤。",
+    "author": "B站UP主_618",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "COMPLIANCE: 平台规则更新了",
+    "text": "平台规则更新了，禁止直播间出现PK胜负的直接物质赌注，希望游戏逻辑能适配新规。",
+    "author": "游戏狂热粉_429",
+    "segment": "viewer",
+    "source": "bilibili"
+  },
+  {
+    "title": "PERFORMANCE: 每次观众疯狂送啤酒的时候",
+    "text": "每次观众疯狂送啤酒的时候，我的电脑就卡得飞起，OBS直接掉帧到个位数。",
+    "author": "游戏狂热粉_215",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 微信小程序端好像不支持礼物接口",
+    "text": "微信小程序端好像不支持礼物接口回调，我们在微信里播这个一直无法互动，有什么解决办法吗？",
+    "author": "修仙中人_448",
+    "segment": "viewer",
+    "source": "app_review"
+  },
+  {
+    "title": "LATENCY: 礼物互动延迟至少25秒",
+    "text": "礼物互动延迟至少25秒，玩对战游戏这个延迟是致命的，体验很差。",
+    "author": "老司机_473",
+    "segment": "developer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "BALANCE: 建议限制一下跑车的刷出频率",
+    "text": "建议限制一下跑车的刷出频率，不然几个土豪一直刷，游戏平衡直接崩溃。",
+    "author": "游戏狂热粉_249",
+    "segment": "viewer",
+    "source": "support_ticket"
+  },
+  {
+    "title": "COMPLIANCE: 审核又被拒绝了",
+    "text": "审核又被拒绝了，平台说涉嫌诱导消费，能不能把送礼物的提示改得温和一些？",
+    "author": "抖音小助手_406",
+    "segment": "viewer",
+    "source": "douyin"
+  },
+  {
+    "title": "GAMEPLAY: 玩法太单一了",
+    "text": "玩法太单一了，就是纯粹的兵线对撞，玩了十分钟就腻了，能不能增加一些手动控制的防御塔？",
+    "author": "战神归来_351",
+    "segment": "developer",
+    "source": "bilibili"
+  },
+  {
+    "title": "MONETIZATION: 礼物定价不太合理",
+    "text": "礼物定价不太合理，嘉年华太贵了，能不能出一些1块钱左右的互动礼物，让白嫖党也能参与。",
+    "author": "B站UP主_511",
+    "segment": "streamer",
+    "source": "bilibili"
+  },
+  {
+    "title": "GAMEPLAY: 建议增加PK模式的背景音乐切换",
+    "text": "建议增加PK模式的背景音乐切换，或者随着礼物级别自动变换战斗场景，会更刺激。",
+    "author": "吃瓜群众_943",
+    "segment": "streamer",
+    "source": "kuaishou"
+  },
+  {
+    "title": "LATENCY: 主播和观众看到的画面不同步",
+    "text": "主播和观众看到的画面不同步，观众说送了跑车，主播说没看到，尴尬死了。",
+    "author": "修仙中人_165",
+    "segment": "viewer",
+    "source": "app_review"
+  }
+]

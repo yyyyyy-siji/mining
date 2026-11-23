@@ -1,0 +1,9 @@
+6:from html import escape as _html_escape
+49:def _render_source_link(url: str | None, label: str = "") -> None:
+56:    safe_url = _html_escape(url, quote=True)
+57:    safe_label = _html_escape(label) if label else safe_url
+290:                    "数据来源 URL（可选）" if is_zh else "Source URL (Optional)",
+385:                _render_source_link(source_url, '数据来源' if is_zh else 'Source')
+461:                _render_source_link(source_url, '查看原始来源' if is_zh else 'View Original Source')
+532:                        _render_source_link(ev.get('source_url') or ev.get('external_url'), '查看原始来源' if is_zh else 'View Source')
+588:                        _render_source_link(ev.get('source_url') or ev.get('external_url'), '查看原始来源' if is_zh else 'View Source')

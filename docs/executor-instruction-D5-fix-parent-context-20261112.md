@@ -1,0 +1,9 @@
+# D5 窄范围返修：父正文关系不得命中同页其他评论
+
+独立审读发现，strict材料上下文的parent_feedback_ids使用parent_url与其他材料external_url相等作为备用匹配。一个父页面下的所有评论都可能保存相同external_url，因此会把兄弟评论误标为父正文。
+
+仅修改D5质量Executor拥有的pipeline父正文匹配逻辑、新增测试和D5交付报告。不要动前端、Chrome模块、旧测试、业务库。
+
+要求：仅本批可确认的正文类材料能成为父正文候选；comment不得成为另一个comment的父正文。优先使用真实parent_id和post.external_id，缺少ID时的URL备用匹配也须满足正文实体边界。无法确认类型时保持无父正文匹配，不擅自补外部材料。
+
+新增一正文+两条同URL评论的回归，断言每条评论的parent_feedback_ids只有该正文，不含兄弟评论；缺失正文时均为空。复验strict与旧机会测试，交付更新真实退出码与最终SHA，随后冻结供Commander继续独立验收。

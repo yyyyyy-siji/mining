@@ -1,0 +1,14 @@
+{
+  "status": "BLOCKED_INSUFFICIENT_AUTHORIZED_SAMPLES",
+  "passed": false,
+  "eligible_count": 0,
+  "required_minimum": 100,
+  "rejected_count": 1257,
+  "rejected_by_reason": {
+    "missing_or_invalid_authorization": 1257,
+    "missing_source_platform": 1257
+  },
+  "profile_distribution": {},
+  "source_distribution": {},
+  "capture_method_distribution": {}
+}

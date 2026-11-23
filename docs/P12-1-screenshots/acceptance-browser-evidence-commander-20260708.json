@@ -1,0 +1,98 @@
+{
+  "productImportDom": {
+    "bodyHasCaptureMethod": true,
+    "bodyHasOptionalUrl": false,
+    "bodyHasRequiredUrl": true,
+    "guideText": "微博公开内容可页面采集；登录/反爬限制时用截图/OCR，保留微博详情页 URL。",
+    "methodValues": [
+      "crawler",
+      "manual_browser",
+      "browser_screenshot"
+    ],
+    "profileValue": "product_feedback",
+    "sourceCount": 29,
+    "sourceValues": [
+      "weibo",
+      "zhihu",
+      "xiaohongshu",
+      "tieba",
+      "csdn",
+      "juejin",
+      "cnblogs",
+      "weixin_mp",
+      "bilibili",
+      "baidu_search",
+      "sogou_search",
+      "so360_search",
+      "google_search",
+      "bing_search",
+      "taobao",
+      "tmall",
+      "jd",
+      "pinduoduo",
+      "app_review",
+      "xianyu",
+      "zhuanzhuan",
+      "aihuishou",
+      "github",
+      "manual",
+      "support_ticket",
+      "csv",
+      "json",
+      "api",
+      "webhook"
+    ]
+  },
+  "baiduRuntimeDom": {
+    "guideText": "百度搜索来源必须保存搜索结果落地页 URL，不把搜索结果列表页当作证据。",
+    "methodValues": [
+      "official_api",
+      "manual_browser",
+      "browser_screenshot"
+    ],
+    "sourceValue": "baidu_search"
+  },
+  "missingUrlRuntimeDom": {
+    "externalUrlValue": "",
+    "toastText": "必须提供真实可点击来源 URL"
+  },
+  "currentImportDom": {
+    "bodyHasOptionalUrl": false,
+    "bodyHasRequiredUrl": false,
+    "bodyHasVideoRequired": true,
+    "guideText": "抖音优先使用开放平台授权接口；页面受限时用浏览器打开视频页并截图/OCR，可导入的 URL 必须是原视频页。",
+    "methodValues": [
+      "official_api",
+      "manual_browser",
+      "browser_screenshot"
+    ],
+    "profileOptions": [
+      "product_feedback",
+      "aigc_video"
+    ],
+    "profileValue": "aigc_video",
+    "sourceCount": 9,
+    "sourceValues": [
+      "video_douyin",
+      "video_bilibili",
+      "video_kuaishou",
+      "video_xiaohongshu",
+      "video_youku",
+      "video_iqiyi",
+      "video_tencent",
+      "video_youtube",
+      "video_manual"
+    ],
+    "title": "📥 导入反馈 — SignalMiner",
+    "url": "http://127.0.0.1:8000/?v=20260708-trusted-source-ingest#import"
+  },
+  "feedbackRuntimeDom": {
+    "emptyState": false,
+    "hasSourceButtonText": true,
+    "sourceActionCount": 100,
+    "sourceDisabledCount": 100,
+    "sourceLinkCount": 0,
+    "title": "📋 原始反馈 — SignalMiner",
+    "url": "http://127.0.0.1:8000/?v=20260708-trusted-source-ingest#feedback"
+  }
+}

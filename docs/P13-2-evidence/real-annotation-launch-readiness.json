@@ -1,0 +1,172 @@
+{
+  "batch_id": null,
+  "batch_id_components": {},
+  "blockers": [
+    "annotation_governance",
+    "human_roles",
+    "pack_trust",
+    "production_signing_key",
+    "real_candidates",
+    "split_isolation",
+    "task_candidate_binding",
+    "task_identity",
+    "test_blind_leakage"
+  ],
+  "calibration_allowed": false,
+  "check_passed": {
+    "annotation_governance": false,
+    "group_isolation": true,
+    "human_roles": false,
+    "pack_trust": false,
+    "pii_scan": true,
+    "production_signing_key": false,
+    "real_candidates": false,
+    "split_isolation": false,
+    "task_candidate_binding": false,
+    "task_identity": false,
+    "test_blind_leakage": false
+  },
+  "checks": {
+    "annotation_governance": {
+      "access_covers_roles": false,
+      "access_list_valid": false,
+      "allowed_access_role_ids": [],
+      "annotation_window_end": null,
+      "annotation_window_start": null,
+      "retention_until": null,
+      "retention_valid": false,
+      "window_valid": false
+    },
+    "double_label_recomputed": {
+      "double_label_actual_count": 0,
+      "double_label_sample_ids": [],
+      "slot_isolation_ok": true,
+      "slot_violations": []
+    },
+    "group_isolation": {
+      "cross_split_groups": [],
+      "groups_checked": 0,
+      "missing_group_metadata": false,
+      "missing_group_rows": []
+    },
+    "human_roles": {
+      "access_boundary_ok": false,
+      "adjudicator_pseudonym": null,
+      "adjudicator_ready": false,
+      "annotator_a_pseudonym": null,
+      "annotator_a_ready": false,
+      "annotator_b_pseudonym": null,
+      "annotator_b_ready": false,
+      "double_label_plan_count": 0,
+      "double_label_ratio": 0.0,
+      "meets_double_label_minimum": false,
+      "roles_distinct": false
+    },
+    "pack_trust": {
+      "dataset_manifest_path": null,
+      "errors": [],
+      "manifest_path": null,
+      "task_dir": null,
+      "valid": false
+    },
+    "pii_scan": {
+      "pii_hit_count": 0,
+      "pii_patterns_hit": [],
+      "scanned_count": 0
+    },
+    "production_signing_key": {
+      "environment": "",
+      "key_algorithm": "HMAC-SHA256",
+      "key_id": null,
+      "prod_key_present": false,
+      "substitute_detected": false,
+      "substitute_reason": null
+    },
+    "real_candidates": {
+      "_candidate_index": {},
+      "authorized_count": 0,
+      "count_recompute_match": true,
+      "dataset_id_match": false,
+      "declared_eligible_count": 0,
+      "duplicate_content_hashes": [],
+      "duplicate_sample_ids": [],
+      "fixture_contamination": [],
+      "incomplete_count": 0,
+      "per_row_errors": [],
+      "rejected_count": 1257,
+      "rejected_count_declared": 1257,
+      "rejection_count_match": true,
+      "rejection_reasons": {
+        "missing_or_invalid_authorization": 1257,
+        "missing_source_platform": 1257
+      },
+      "rejection_reasons_declared": {
+        "missing_or_invalid_authorization": 1257,
+        "missing_source_platform": 1257
+      },
+      "row_count": 0
+    },
+    "split_isolation": {
+      "calibration_count": 0,
+      "candidate_coverage_match": false,
+      "cross_split_overlap": [],
+      "development_count": 0,
+      "minimums_met": false,
+      "test_count": 0
+    },
+    "task_candidate_binding": {
+      "a_b_content_hash_mismatches": [],
+      "binding_errors": [],
+      "tasks_checked": 0
+    },
+    "task_identity": {
+      "calibration_tasks": 0,
+      "development_tasks": 0,
+      "empty_packs": [],
+      "hash_mismatches": [],
+      "tasks_scanned": 0,
+      "test_a_tasks": 0,
+      "test_b_tasks": 0
+    },
+    "test_blind_leakage": {
+      "leakage_count": 0,
+      "leaked_fields": [],
+      "leaked_samples": [],
+      "test_blind_count": 0,
+      "test_unique_task_count": 0
+    }
+  },
+  "dataset_id": null,
+  "dataset_manifest_sha256": null,
+  "disagreement_adjudicated": true,
+  "errors": [
+    "[missing] real_candidates: no real authorized candidates: authorized=0 < 100",
+    "[missing] production_signing_key: ANNOTATION_PACK_SIGNING_KEY not set",
+    "[missing] human_roles: roles config not provided",
+    "[missing] pack_trust: pack manifest not provided",
+    "[missing] task_identity: task_dir not provided",
+    "[missing] task_candidate_binding: task_dir not provided",
+    "[missing] test_blind_leakage: test packs not provided",
+    "[missing] split_isolation: splits not provided",
+    "[missing] annotation_governance: governance config not provided"
+  ],
+  "exit_code": 2,
+  "fixture_substitute_detected": false,
+  "generated_at": "2026-07-15T15:47:10.431056+00:00",
+  "human_labels_complete": false,
+  "human_verified_count": 0,
+  "kappa": 0.0,
+  "kappa_threshold": 0.7,
+  "minimums": {
+    "authorized_candidates": 100,
+    "calibration": 25,
+    "development": 50,
+    "double_label": 20,
+    "double_label_ratio": 0.2,
+    "test_blind": 25
+  },
+  "pack_manifest_sha256": null,
+  "passed": false,
+  "schema_version": "readiness-2.1.0",
+  "status": "BLOCKED_INPUT_REQUIRED"
+}

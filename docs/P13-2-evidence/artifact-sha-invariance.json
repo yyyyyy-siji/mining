@@ -1,0 +1,18 @@
+{
+  "focused_test_sha_before": {
+    "sample_data/p13_2/manifest.json": "5bf92b95c12bef1a",
+    "sample_data/p13_2/positive/candidates.json": "12156bf3e3847aad",
+    "sample_data/p13_2/positive/preannotations.json": "85226ab46d6f8013",
+    "sample_data/p13_2/positive/annotation_pack_test_A.json": "03e8c0068c8c779f",
+    "sample_data/p13_2/positive/annotation_pack_test_B.json": "b7d172e5f22727d6",
+    "sample_data/p13_2/positive/annotation_pack_development.json": "36dccc0cd1f9f74b",
+    "sample_data/p13_2/positive/annotation_pack_calibration.json": "503ccf8f404c857f",
+    "docs/P13-2-evidence/goldset-contract-metrics.json": "21ca6681760a6692",
+    "docs/P13-2-evidence/mutation-gate.json": "a0e1122719c4a2de"
+  },
+  "focused_test_changed": {},
+  "mutation_gate_changed": {},
+  "test_zero_pollution": true,
+  "mutation_gate_only_output": true,
+  "passed": true
+}

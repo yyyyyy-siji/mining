@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>SignalMiner 人工标注工作台</title>
+  <link rel="stylesheet" href="./annotation-workbench.css">
+</head>
+<body>
+  <!--
+  设计假设：
+  - 这是一个离线、单标注员、单任务槽位的本地工具，不连接生产数据库。
+  - 普通标注员不应该编辑 JSON；页面负责生成严格字段和 evidence 字符区间。
+  - assisted-review 可以显示已脱敏 suggestion；blind 永远不显示 suggestion。
+  - 导出的 JSON 仍需经过项目 importer 和 validator，页面不自行宣布金标通过。
+  -->
+  <header class="app-header">
+    <div class="brand-block">
+      <span class="brand-mark" aria-hidden="true">SM</span>
+      <div>
+        <p class="eyebrow">SignalMiner · P13-2</p>
+        <h1>人工标注工作台</h1>
+      </div>
+    </div>
+    <div class="header-status" aria-live="polite">
+      <span class="status-label">当前批次</span>
+      <strong id="batchLabel">尚未导入任务包</strong>
+      <span id="modeBadge" class="mode-badge neutral">未开始</span>
+    </div>
+    <div class="header-actions">
+      <label class="button secondary" for="packInput">导入任务包</label>
+      <input id="packInput" type="file" accept="application/json,.json" multiple hidden>
+      <label class="button quiet" for="annotationInput">恢复标注</label>
+      <input id="annotationInput" type="file" accept="application/json,.json" hidden>
+      <button id="exportJsonButton" class="button primary" type="button" disabled>导出系统 JSON</button>
+      <button id="exportCsvButton" class="button quiet" type="button" disabled>导出 CSV</button>
+    </div>
+  </header>
+
+  <main class="workspace" id="workspace">
+    <aside class="task-panel" aria-label="任务队列">
+      <div class="panel-heading">
+        <div>
+          <p class="eyebrow">任务队列</p>
+          <h2 id="taskCountLabel">0 条任务</h2>
+        </div>
+        <button id="clearWorkspaceButton" class="text-button danger-text" type="button" disabled>清空草稿</button>
+      </div>
+
+      <div class="progress-block">
+        <div class="progress-copy">
+          <span id="progressLabel">完成 0 / 0</span>
+          <span id="progressPercent">0%</span>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <span id="progressFill"></span>
+        </div>
+      </div>
+
+      <div class="task-filters" role="group" aria-label="任务筛选">
+        <button class="filter-button active" type="button" data-filter="all">全部</button>
+        <button class="filter-button" type="button" data-filter="pending">未完成</button>
+        <button class="filter-button" type="button" data-filter="complete">已完成</button>
+      </div>
+
+      <div id="taskList" class="task-list" tabindex="0"></div>
+
+      <div class="demo-block">
+        <p>没有真实任务包时，可先熟悉操作。演示数据始终标记为 fixture。</p>
+        <div class="demo-actions">
+          <button id="demoAssistedButton" class="text-button" type="button">辅助标注演示</button>
+          <button id="demoBlindButton" class="text-button" type="button">盲标演示</button>
+        </div>
+      </div>
+    </aside>
+
+    <section class="reading-panel" aria-label="待标注原文">
+      <div id="emptyState" class="empty-state">
+        <div class="empty-state-number">01</div>
+        <h2>先导入一个人工任务包</h2>
+        <p>支持项目生成的 <code>human_tasks_*.json</code>。development 和 calibration 可以同时导入；A、B任务包必须分开操作。</p>
+        <label class="button primary large" for="packInput">选择任务包</label>
+        <p class="privacy-note">所有内容只保存在当前浏览器，不会自动上传。</p>
+      </div>
+
+      <div id="taskWorkspace" class="task-workspace" hidden>
+        <div id="blindBanner" class="blind-banner" hidden>
+          <strong>盲标模式</strong>
+          <span>机器建议、模型身份、Prompt和分数已隐藏。请独立判断。</span>
+        </div>
+
+        <div class="sample-heading">
+          <div>
+            <p id="samplePosition" class="eyebrow">样本 0 / 0</p>
+            <h2 id="sampleTitle">—</h2>
+          </div>
+          <div class="sample-meta" id="sampleMeta"></div>
+        </div>
+
+        <article class="document-sheet">
+          <div class="document-label-row">
+            <span>脱敏原文</span>
+            <span id="characterCount">0 字</span>
+          </div>
+          <p id="sourceText" class="source-text" tabindex="0"></p>
+          <div class="selection-bar">
+            <div>
+              <span class="selection-label">当前选区</span>
+              <strong id="selectionPreview">请在原文中划选证据</strong>
+            </div>
+            <button id="addEvidenceButton" class="button evidence" type="button" disabled>添加到当前信号</button>
+          </div>
+        </article>
+
+        <section id="suggestionPanel" class="suggestion-panel" hidden>
+          <div class="suggestion-heading">
+            <div>
+              <p class="eyebrow">机器建议 · 仅供人工复核</p>
+              <h3>不得默认接受</h3>
+            </div>
+            <button id="applySuggestionButton" class="button secondary" type="button">采用并继续检查</button>
+          </div>
+          <div id="suggestionContent"></div>
+        </section>
+
+        <section class="quick-guide" aria-label="标注规则速查">
+          <details>
+            <summary>标注规则速查</summary>
+            <div class="guide-grid">
+              <div>
+                <strong>什么是信号</strong>
+                <p>具体、可操作、可用于产品或内容决策的反馈。纯情绪、闲聊和无指向文本不提取。</p>
+              </div>
+              <div>
+                <strong>证据怎么选</strong>
+                <p>直接划选原文；必须逐字引用，不概括。多个不连续证据可以分别添加。</p>
+              </div>
+              <div>
+                <strong>多条信号</strong>
+                <p>两个独立需求拆成两条信号，每条都要有自己的摘要和证据。</p>
+              </div>
+            </div>
+          </details>
+        </section>
+
+        <nav class="sample-navigation" aria-label="样本导航">
+          <button id="previousTaskButton" class="button quiet" type="button">上一条</button>
+          <span>快捷键：⌥← / ⌥→ 切换，⌘/Ctrl + Enter 完成</span>
+          <button id="nextTaskButton" class="button quiet" type="button">下一条</button>
+        </nav>
+      </div>
+    </section>
+
+    <aside class="editor-panel" aria-label="标签编辑器">
+      <div class="panel-heading editor-heading">
+        <div>
+          <p class="eyebrow">人工判断</p>
+          <h2>标签记录</h2>
+        </div>
+        <span id="saveState" class="save-state">等待任务</span>
+      </div>
+
+      <div class="identity-block">
+        <label for="pseudonymInput">标注员 pseudonym</label>
+        <div class="inline-field">
+          <input id="pseudonymInput" type="text" autocomplete="off" placeholder="例如 anno_12位哈希" disabled>
+          <button id="identityGeneratorToggle" class="text-button" type="button" disabled>本地生成</button>
+        </div>
+        <div id="identityGenerator" class="identity-generator" hidden>
+          <label for="identitySeedInput">输入仅用于本地生成，不会保存</label>
+          <div class="inline-field">
+            <input id="identitySeedInput" type="password" autocomplete="off" placeholder="姓名、工号或个人口令">
+            <button id="generatePseudonymButton" class="button quiet" type="button">生成</button>
+          </div>
+        </div>
+      </div>
+
+      <fieldset id="signalDecision" class="decision-block" disabled>
+        <legend>原文中是否有可提取信号？</legend>
+        <div class="segmented-control">
+          <button type="button" data-has-signals="true">有信号</button>
+          <button type="button" data-has-signals="false">无信号</button>
+        </div>
+      </fieldset>
+
+      <fieldset id="reviewActionBlock" class="decision-block" disabled hidden>
+        <legend>对机器建议的处理</legend>
+        <div class="segmented-control three">
+          <button type="button" data-review-action="accepted">接受</button>
+          <button type="button" data-review-action="modified">修改</button>
+          <button type="button" data-review-action="rejected">拒绝</button>
+        </div>
+      </fieldset>
+
+      <div id="signalEditor" class="signal-editor">
+        <div class="editor-placeholder">选择任务后开始标注。</div>
+      </div>
+
+      <button id="addSignalButton" class="add-signal-button" type="button" disabled>添加一条信号</button>
+
+      <div id="validationSummary" class="validation-summary" aria-live="polite"></div>
+
+      <div class="editor-footer">
+        <button id="saveDraftButton" class="button quiet" type="button" disabled>保存草稿</button>
+        <button id="completeTaskButton" class="button primary grow" type="button" disabled>校验并完成</button>
+      </div>
+    </aside>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script id="profileData" type="application/json">
+  {
+    "product_feedback": [
+      "feature_request", "bug_report", "usability_issue", "question",
+      "praise", "complaint", "churn_risk"
+    ],
+    "aigc_video": [
+      "viral_hook", "content_pattern", "visual_technique", "audio_strategy",
+      "engagement_trigger", "platform_algorithm", "topic_trend", "monetization_pattern"
+    ]
+  }
+  </script>
+  <script type="module" src="./autoload-packaged-tasks.js?v=20260803"></script>
+  <script src="./annotation-workbench.js?v=20260803-3"></script>
+</body>
+</html>

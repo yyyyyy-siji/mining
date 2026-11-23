@@ -1,0 +1,3612 @@
+{
+  "annotations": [
+    {
+      "annotation_id": "fixann_gs_deac3f6a0d74_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_deac3f6a0d74",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101782+00:00",
+      "completed_at": "2026-07-13T05:19:25.101782+00:00",
+      "task_hash": "8a2f2653fb6114fa4d3a6e1113f370429be6ce141c97dc78f4d540b69fa686ca",
+      "content_hash": "0137d61612d1a651e292249b1c81c3e863f35f43771622c15cfdeba5aac16ca9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_329878b39d42_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_329878b39d42",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_329878b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "协作权限只有读和写两种，不够精细"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101800+00:00",
+      "completed_at": "2026-07-13T05:19:25.101800+00:00",
+      "task_hash": "1115d17e3379645e491fefa16b0f0bdf91ad51bc96898af1351dab41dc6c627c",
+      "content_hash": "041ac729394cccce2290340874e018867e4c7aece693e9584a785535a356b65b",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_5a7f4964754d_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_5a7f4964754d",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "content_pattern",
+          "summary": "[fixture] content_pattern signal in sample gs_5a7f496",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "同一内容发抖音和B站，分别用娱乐风格和深"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101807+00:00",
+      "completed_at": "2026-07-13T05:19:25.101807+00:00",
+      "task_hash": "3b8601ecbfc081272249244245ba53f5cc8b3c584a9757b14615e37efd516c2c",
+      "content_hash": "0b4ff2f0f605f6b8dacbe20d9d3726db6122ddf07a3b953750a91707ad1c012f",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_e41c9ecf3a10_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e41c9ecf3a10",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_e41c9ec",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "字体大小调整后排版会乱，兼容性不好"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101816+00:00",
+      "completed_at": "2026-07-13T05:19:25.101816+00:00",
+      "task_hash": "6e2a1eb8be93418ca2efbb0f0c40fe1e6f28b6006b2fa8622c1451969b25a81e",
+      "content_hash": "0cc88309f403a50e494a21d35709f4f3afcf1f0af86a5bd414d2aca478bac7ea",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_55d93171e6da_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_55d93171e6da",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_55d9317",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "建议增加语音输入功能，尤其是移动端打字不"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101822+00:00",
+      "completed_at": "2026-07-13T05:19:25.101822+00:00",
+      "task_hash": "ce1de91a9fe199535f3819ea013648f10713dc8f82586ea5f812d9a8e623d0bb",
+      "content_hash": "100b7b265462c8d07b38c9e45d05e084b3ec159f5dce5ffcbd997951e3680278",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_4ff3f4be07a6_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_4ff3f4be07a6",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_4ff3f4b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "利用评论区神回复做续集视频，联动效果好"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101827+00:00",
+      "completed_at": "2026-07-13T05:19:25.101827+00:00",
+      "task_hash": "bec86b67e2f85e235aa8a8b3ce6002a892b7f070c04f51554c379471a25f1a88",
+      "content_hash": "12751769126e50dbf5b6081af75d8e220a73fda5ff54018f0cd46cebfc0aacd7",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_bf08ee8bcb05_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_bf08ee8bcb05",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_bf08ee8",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "希望支持Markdown实时预览，写文档"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101830+00:00",
+      "completed_at": "2026-07-13T05:19:25.101830+00:00",
+      "task_hash": "92db05534b7c287c89cd2056f6d71d971bf35cefde24729f243ad5d72097c884",
+      "content_hash": "1387be51ac3640d6ee04b8757850599fd4a97da038167b1aed29fafcb3e62070",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_453ccf014328_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_453ccf014328",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101836+00:00",
+      "completed_at": "2026-07-13T05:19:25.101836+00:00",
+      "task_hash": "b4ba9e7f2f109b484bbe59abe2f2472081669d1d6538940b02dbe40d31f6900e",
+      "content_hash": "17683194c6f39a2eddefbce0e6ee1e4cccd2093e1d6e9a9a3ed56d864d65c7ee",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_0842bc6fb44d_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_0842bc6fb44d",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_0842bc6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "自动化规则只支持AND条件，不支持OR分"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101841+00:00",
+      "completed_at": "2026-07-13T05:19:25.101841+00:00",
+      "task_hash": "db680e423644d2ee6291eab91dfaaf41fc0f7ed1386127480cce07d5c24ad7e5",
+      "content_hash": "1d87541051b2cfb4c39ad904e52109ee1a095517e7e24bab2cb35ba725a81428",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_a4ec6563c4e1_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_a4ec6563c4e1",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_a4ec656",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "抖音上这个3秒钩子太厉害了，第一帧就抛出"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101847+00:00",
+      "completed_at": "2026-07-13T05:19:25.101847+00:00",
+      "task_hash": "ad240cbea173c3a0394bea2a038f470b6d97b3f62c2f93c54ba3982f15d26f97",
+      "content_hash": "20dc085ade6e74c012fab2108258853287e83868217ca6749a6250c80310c007",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_aeb937a04bd7_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_aeb937a04bd7",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_aeb937a",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "滚动加载到500条以后就开始卡顿了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101852+00:00",
+      "completed_at": "2026-07-13T05:19:25.101852+00:00",
+      "task_hash": "f8b7421b531faa5a0dbf5e343393c70a912ad99797e36a1af7b6edb8e428c5f2",
+      "content_hash": "20f1cb0c516835a60e11bd05b8dbe6d96e85bd023753be0372e4694e42d16823",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_faaad9deaa8f_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_faaad9deaa8f",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101856+00:00",
+      "completed_at": "2026-07-13T05:19:25.101856+00:00",
+      "task_hash": "063e391a8a7e97882899bb69c4c3d5431579ecc008cbe8ebc4e2351637fcf48b",
+      "content_hash": "23408ac5b4a129e96b23d1aebc5565593f9df5481bc7a115f5770560c8e40558",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b0461ac8aba7_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b0461ac8aba7",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_b0461ac",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "建议增加标签颜色自定义，现在只有6种"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101860+00:00",
+      "completed_at": "2026-07-13T05:19:25.101860+00:00",
+      "task_hash": "233cbb8d0c513235c4a882fbba094b65aea660ba55af91627586f2984bc3ab32",
+      "content_hash": "238c26c564964139573237aa31479758d5e5429437fdddcaaf7e5d750747df33",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_05024050d9df_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_05024050d9df",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_0502405",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 14,
+              "text": "能不能加一个夜间定时发送功能"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101864+00:00",
+      "completed_at": "2026-07-13T05:19:25.101864+00:00",
+      "task_hash": "fe366ad406b86adc169365b794181372ca7743d5f725f99015c33d007448c50e",
+      "content_hash": "23a3aafa857d6bdcbf9482a435caa56688bc119dbfc0d10410a60c66a90a6e5d",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_47a7c3435d28_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_47a7c3435d28",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_47a7c34",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "流程图绘制不支持自动对齐，线条歪歪扭扭"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101868+00:00",
+      "completed_at": "2026-07-13T05:19:25.101868+00:00",
+      "task_hash": "f60165a6b4bfeae5b7598b5c0ca1d4f76dae018653d547bc3cb3d87684ed121f",
+      "content_hash": "270cd0a044a4bc6260e2abd95b4f2f2db706d932d6b07a07bfda3dfe4d40cbe2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_646e96d07251_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_646e96d07251",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101873+00:00",
+      "completed_at": "2026-07-13T05:19:25.101873+00:00",
+      "task_hash": "453ad46c0b3a83270be1933e54a2f0f040f438c698a5bf351d2cfe554b8c379c",
+      "content_hash": "27f13046f1ee504bae26732c78f5be028b2ff53ec91ffe5690307ca524fa66f8",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_a4042bbece60_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_a4042bbece60",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_a4042bb",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "情感类AI视频的公式：问题-共鸣-解决方"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101877+00:00",
+      "completed_at": "2026-07-13T05:19:25.101877+00:00",
+      "task_hash": "94497845a75a2c8f05a981e2c430d35822f82363797bae8caa6ab5b2803326d6",
+      "content_hash": "2b1b134178683ffdfb94cc0aefb9b84b747d4c070dfe70d8c79e4f1267e5b118",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_8b68c55f6554_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_8b68c55f6554",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_8b68c55",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "表单填写太麻烦，希望支持从上次填写导入"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101881+00:00",
+      "completed_at": "2026-07-13T05:19:25.101881+00:00",
+      "task_hash": "de02a582375bf64a3a9be3787a679a53497b58267a23bd3f9141e67e39930124",
+      "content_hash": "2dee929b412fcb66cf89c66472371b3504694378fee66b221338b8b811655f29",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_d1cad96bda70_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_d1cad96bda70",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_d1cad96",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "你们的竞品支持AI总结，你们什么时候上"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101885+00:00",
+      "completed_at": "2026-07-13T05:19:25.101885+00:00",
+      "task_hash": "dfe54809e5b034b3bf8140abe8dc9c57ff94a0293edde44473c197eb2af11c7c",
+      "content_hash": "34dde8079dfb67aa286656790488f8a806a9168c23a400af6133e7e81d31218f",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_89d6ba4d8461_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_89d6ba4d8461",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_89d6ba4",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "能加一个阅读进度条吗，长文章找不到位置"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101888+00:00",
+      "completed_at": "2026-07-13T05:19:25.101888+00:00",
+      "task_hash": "c0f3b454384e545202dd3d28be674ea0e65e1b564d5a02cb5d4f3ebfb7408d16",
+      "content_hash": "36336c1d01dbfcebb8431bf5444b32d7ab187e64d9ade18e3bafd1016b149f88",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_f53e5f594376_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_f53e5f594376",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_f53e5f5",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "新版本UI改的不好看，还是老版本舒服"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101892+00:00",
+      "completed_at": "2026-07-13T05:19:25.101892+00:00",
+      "task_hash": "8464bc547749027e377995f59d2bd658c67a8b2475fee1c5849bf8f08de783a6",
+      "content_hash": "3a6cc379b9f4a0378aeb322814130a46bcef095e1326c504f5bd974a476e3ebf",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_e1e00900fd59_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e1e00900fd59",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101896+00:00",
+      "completed_at": "2026-07-13T05:19:25.101896+00:00",
+      "task_hash": "358df37b99e34cc9ac5cf95e2400cf20e3699b5ca58fd02fe5224a6544929205",
+      "content_hash": "3a83eb9605c966975c22a9212148b20753b61f3c04a4d32fb0d491c3f965621c",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_3ee5f4ecb24a_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3ee5f4ecb24a",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_3ee5f4e",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "快捷键冲突，Ctrl+S有时候是保存有时"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101899+00:00",
+      "completed_at": "2026-07-13T05:19:25.101899+00:00",
+      "task_hash": "d47c3b0b8d3f4275f79092df8372bcf48eb02991ee14c1a31726f6976dfbb3a4",
+      "content_hash": "3ca62842c66dd563c148eb9501b2df6fae5141c1574397ced17503de30c3ef83",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_4eafad8ca8f0_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_4eafad8ca8f0",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_4eafad8",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "隐私设置太复杂，十几个选项分不清"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101903+00:00",
+      "completed_at": "2026-07-13T05:19:25.101903+00:00",
+      "task_hash": "c1de0e606f7b094a15b0aa36d639b74e15b44467888ac47fd0c1f50e3937c80b",
+      "content_hash": "3f0f30c9502c71c7b7a3a6532a10434792cc44d874dfd76c4cff427a9b25c0f3",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_84cc67a9677f_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_84cc67a9677f",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_84cc67a",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "YouTube Shorts扶持政策延续"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101909+00:00",
+      "completed_at": "2026-07-13T05:19:25.101909+00:00",
+      "task_hash": "ba0fd698a72ef06dbf69155fff2820546a8ba187a7044a17ec664d58404a0109",
+      "content_hash": "40d3e6cc3e67ae43eb127eb3795ca6fa34e15a657fcf83802c3f3e8b3c23e866",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_23ac99230f56_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_23ac99230f56",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101912+00:00",
+      "completed_at": "2026-07-13T05:19:25.101912+00:00",
+      "task_hash": "1a213f23f29049c0c51ec76ade6ac856a51155e488b92922be6d9670a78f9b98",
+      "content_hash": "4782ff1aace9856e0fcc113d08baac158b278bb52141a8deffaa2936a1f61d81",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_ed675ed87553_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_ed675ed87553",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_ed675ed",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "现在短视频变现新方向是知识付费加社群运营"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101915+00:00",
+      "completed_at": "2026-07-13T05:19:25.101915+00:00",
+      "task_hash": "dfd529655a7ab54769d601a0b9ad5fbcabe86736fbed4fb2eaa12ae53158daf4",
+      "content_hash": "4832d11f4110efe1631879f383332c45983def8048254eb7b07b924af0f1b8ad",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_bf63df0eb05c_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_bf63df0eb05c",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_bf63df0",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "数据统计面板能不能支持自定义时间范围"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101918+00:00",
+      "completed_at": "2026-07-13T05:19:25.101918+00:00",
+      "task_hash": "9591146ffe3338d57de29b01bfe1f0602f1f33119ec811bc72ae9e238cd95fb0",
+      "content_hash": "4e3f6e726e229be575fd6e603929f42c006df62af00b6bd377411507add1668e",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b2982d107b55_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b2982d107b55",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101920+00:00",
+      "completed_at": "2026-07-13T05:19:25.101920+00:00",
+      "task_hash": "17c28a344cae78e2542e5897c16fb8e1b19d92b68805b69ddd1b198260241bad",
+      "content_hash": "528274afddd425bc1d8affdf23cfbc2899a4670039d0599cf05e29f5e4c9c16d",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_e04c5ac164f1_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e04c5ac164f1",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101924+00:00",
+      "completed_at": "2026-07-13T05:19:25.101924+00:00",
+      "task_hash": "ace6a56b7c6e9d6d085548c2a97d964d4fed844ec7c5d595eac007e03e1d3e83",
+      "content_hash": "5666c1ab65ff81555cd902d61a9c9113652a665c99c9077d551a9dcb9e79bd4f",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_3946bfca277b_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3946bfca277b",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_3946bfc",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "搜索功能找不到历史记录，每次都要重新输入"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101927+00:00",
+      "completed_at": "2026-07-13T05:19:25.101927+00:00",
+      "task_hash": "a0bb0becf6f391ab49d46ca37bdb1e8fcafe27c9f0fe45cb13b6e7186fd6366a",
+      "content_hash": "58abfc5a465b34c28c5a34da2621ca4c469515c5539f834aecad79b15fceae04",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_4ba01d481bb2_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_4ba01d481bb2",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_4ba01d4",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "是否支持数据导出到Notion"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101931+00:00",
+      "completed_at": "2026-07-13T05:19:25.101931+00:00",
+      "task_hash": "7887e79a6e97d9c156ea747160ea6aad7a63cf27d0be3c06509de796cf80b93b",
+      "content_hash": "5a3e23fccffdddc348e20c669fa622dbce09a6fca2257491b1587cbbdccf0eaf",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_86f8632ad039_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_86f8632ad039",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101935+00:00",
+      "completed_at": "2026-07-13T05:19:25.101935+00:00",
+      "task_hash": "1f0c9e0ed1e935226efc76a61d161e3a7945da4a72f30a933f9d43688287385a",
+      "content_hash": "5a7222f61bad36fb6d2776c146f9c6acd7b02f09cf4a67d4c2bdb190cb7d2826",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_81b7950718a3_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_81b7950718a3",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_81b7950",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "文件上传大小限制只有10MB，太小了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101941+00:00",
+      "completed_at": "2026-07-13T05:19:25.101941+00:00",
+      "task_hash": "c6eef75227ae6c474bd29763732d850c222e197a19ec94cf72f74799dc150993",
+      "content_hash": "5ad8cf9820275a08814958d8a48acc4dedd1850f09880280dea1a7cbcc9e887c",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_11f79d558a1b_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_11f79d558a1b",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "visual_technique",
+          "summary": "[fixture] visual_technique signal in sample gs_11f79d5",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用AI批量生成小红书封面花的钱不到人工的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101946+00:00",
+      "completed_at": "2026-07-13T05:19:25.101946+00:00",
+      "task_hash": "e152f1f30f5700cdd394000f79208b95e8df8ce02daed3d6a2f339b23697b499",
+      "content_hash": "5b57498c895f340b9aa9398d29570be8fa88859590fc64876b2a1db3bf8799f0",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_71720d23e7ea_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_71720d23e7ea",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_71720d2",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "希望可以自定义快捷键，现在必须用默认的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101948+00:00",
+      "completed_at": "2026-07-13T05:19:25.101948+00:00",
+      "task_hash": "82aee89e9e362c4541c6a755a546803dc41e4e8a41f26b5b212d31dfb7d678d3",
+      "content_hash": "5e01f2b42ef6608f1eec3eef921f6beaffd5b7716b2a49ba1869274eb5233c7a",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_91b59f7e06e7_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_91b59f7e06e7",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_91b59f7",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "有没有计划支持WebDAV同步"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101954+00:00",
+      "completed_at": "2026-07-13T05:19:25.101954+00:00",
+      "task_hash": "e824d0fe9aa19e5197ee5d0cf5a381b02d5db7a491294a77d1f585d831059b91",
+      "content_hash": "5f29db5567101ed5e6ed31c931c81215655ecec625e0f22461f175fcaf83905a",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_346bf6b8aa58_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_346bf6b8aa58",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_346bf6b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "能加一个离线模式吗，地铁上没信号用不了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101959+00:00",
+      "completed_at": "2026-07-13T05:19:25.101959+00:00",
+      "task_hash": "220ac106e137b297ba50feb7c9d946bc0e3cb39f318bdaec2ece113bf19ca087",
+      "content_hash": "5f8eee16f97988a3d0f58cbc2a64ea3833f4e797d1396583d19329080fa9cebf",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_3f14f254e2a2_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3f14f254e2a2",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101963+00:00",
+      "completed_at": "2026-07-13T05:19:25.101963+00:00",
+      "task_hash": "295d328cb0b8653919e7dea497328371424b69eb5be37dad4e59c50de3a32d23",
+      "content_hash": "601e1bb92d5e6b6865f95f7a9a17a89f6909e59cce0b075c158848be10f3fcdb",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_c8a232d03efb_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_c8a232d03efb",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101966+00:00",
+      "completed_at": "2026-07-13T05:19:25.101966+00:00",
+      "task_hash": "30419c003a4527082b18e6011dbe4f3e0f4adea90353568f0ebe970f0726cfee",
+      "content_hash": "641f643db7f9f1e886a1009e5bc86d06e558627311a7e602d363fbe3ef22d627",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_5dc8879a03ec_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_5dc8879a03ec",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_5dc8879",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "批量操作功能很好用，效率提高了很多"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101969+00:00",
+      "completed_at": "2026-07-13T05:19:25.101969+00:00",
+      "task_hash": "cd40a6abb701e3c8abaf5896534a966645ea85cce04194d2324d28ee45586ba5",
+      "content_hash": "65c566003e920bdb312e54d10270ecee265240dfb4ab6a7f2c6d781bd11367d9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_84e1c768b681_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_84e1c768b681",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_84e1c76",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "App更新后闪退频繁，iOS和Andro"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101972+00:00",
+      "completed_at": "2026-07-13T05:19:25.101972+00:00",
+      "task_hash": "a6023480763af8a163804d94b0962bedd949b4a061397d069fb62cb8f46f50fa",
+      "content_hash": "69bdfc2e8c38a88481cd9439a63f0bba34b62c9f54da1af03bce61e886ab08d2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_c94f6fe2942b_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_c94f6fe2942b",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_c94f6fe",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "热点话题蹭流量的最佳窗口是发布后2小时内"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101978+00:00",
+      "completed_at": "2026-07-13T05:19:25.101978+00:00",
+      "task_hash": "cd5b3aa3024e470c9675c7cdfcb5519f6786f7b0a81da84361a5fc7642786fbf",
+      "content_hash": "6bf3acf1f9c5645d61695f83128c2aebe1b3cec1b598b6e053c51cfc2ff5e01a",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_ec106f3324b2_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_ec106f3324b2",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_ec106f3",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 14,
+              "text": "移动端加载太慢了WiFi也慢"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.101982+00:00",
+      "completed_at": "2026-07-13T05:19:25.101982+00:00",
+      "task_hash": "95c8e6af8a0fb62193a33ca08c52a2a054782efae3770af4ce695c09a257250f",
+      "content_hash": "6d6e887acaa28450968fa0b9fefbd64dd1bddb30952a3c707c49fd901a67d9be",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_808058f47c3c_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_808058f47c3c",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_808058f",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "能不能出一个开发者API，我们自己集成"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101986+00:00",
+      "completed_at": "2026-07-13T05:19:25.101986+00:00",
+      "task_hash": "6bfae0ef5967b56f0b93ca3858fdd396244c5462190b8473ee98fb2ffb078669",
+      "content_hash": "6e7203a28a65f9b2d14978ed5fed43f64dfd11489f5f9d38bb96418d7a8227c0",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_fdc0f762791b_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_fdc0f762791b",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101990+00:00",
+      "completed_at": "2026-07-13T05:19:25.101990+00:00",
+      "task_hash": "faa0446386bc1f810a2259dc99f114aa2bcc74b9be72adf7044d059ba8f644b2",
+      "content_hash": "7495f4943ac29ea6a8705dec7078e905d600e9e1168aec9e7401317a064e9ed0",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_fd25e3266aac_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_fd25e3266aac",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_fd25e32",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用AI生成文案配口播，产出一条视频时间缩"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.101996+00:00",
+      "completed_at": "2026-07-13T05:19:25.101996+00:00",
+      "task_hash": "44f087cc99e907bfaa2fee87aed86c2bc55b12ba6224d8e90c7a614ae6402174",
+      "content_hash": "768caa502b05812ea0461a276f5887188ca5840732bea237d33375fae77c6f49",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_31eedb3c05d6_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_31eedb3c05d6",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_31eedb3",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "搜索支持正则吗？找特定格式数据很需要"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102000+00:00",
+      "completed_at": "2026-07-13T05:19:25.102000+00:00",
+      "task_hash": "4a72d5259bcc462acaa2c3accb2f6b8a9c8c4a868bb57543f97cde2cb35e1ec3",
+      "content_hash": "7a711a9c913e57b67d234e961cd30289d5299a532e649b4e7a779a1c909a5cd9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_a86a9476bf3a_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_a86a9476bf3a",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102004+00:00",
+      "completed_at": "2026-07-13T05:19:25.102004+00:00",
+      "task_hash": "65e908a871de9b07152506ceef65058c85ef81fd765702007aad86e6d9d07dea",
+      "content_hash": "7bf08346015dff526e04f75e30e34dca758cebf8f204677d9c2e9fd08feb7d58",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_7c97f5dadaaf_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_7c97f5dadaaf",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_7c97f5d",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用AI工具自动生成多个视频封面对比测试，"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102007+00:00",
+      "completed_at": "2026-07-13T05:19:25.102007+00:00",
+      "task_hash": "ce28b58398b6a920fe1a1c9286b5abfcc4b7a93237ede38cb7161e8112e0fb0d",
+      "content_hash": "7d1b9e9e0481ea2fb2b5ca1c6abf8cc7827840bb872430355578792f36513bd3",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_daf4c01139aa_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_daf4c01139aa",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_daf4c01",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "建议增加文件对比功能，查看两个版本的差异"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102146+00:00",
+      "completed_at": "2026-07-13T05:19:25.102146+00:00",
+      "task_hash": "ef716959e52c52606d5b22345f6dfb0fe28e92d9c2ce142da821ea09ce30d468",
+      "content_hash": "8208e550aa581ecdec74537a93a21481abed6b64cec9c97fe90f18b0f235624d",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_3ab6568e6daa_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3ab6568e6daa",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_3ab6568",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "版本回退功能没有，升级后出了问题只能干着"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.102150+00:00",
+      "completed_at": "2026-07-13T05:19:25.102150+00:00",
+      "task_hash": "bd49b23b26730b0362d44ceb518ed165d0ac99fa95281640aaf22997e9452646",
+      "content_hash": "85c5fd500eece0dea4ef3194505f97ed4bfae60402388cbeeffaad157b64eb32",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_e0534a26233b_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e0534a26233b",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_e0534a2",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "对比三条爆款视频的共同点：都有问题式开头"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.102157+00:00",
+      "completed_at": "2026-07-13T05:19:25.102157+00:00",
+      "task_hash": "aaa85fee4892b787c209d5fe93b4e4e11f6892408829351efeced7ca47f58367",
+      "content_hash": "86ec56e0c757c8e5ed3127cd743c698daee1e0bf887ef63fe9bc27187dd3c478",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_2b44106603fb_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_2b44106603fb",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102159+00:00",
+      "completed_at": "2026-07-13T05:19:25.102159+00:00",
+      "task_hash": "f06422469d20c98ba03630153e3778f94a318ce2164f4130e4ec6111705296cb",
+      "content_hash": "8745c636581a1e648ed9a246766d274d9653d94e5db33d8d78c5e389907b72b3",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b39623200a7c_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b39623200a7c",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[fixture] usability_issue signal in sample gs_b396232",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "登录验证码经常收不到，短信延迟很大"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102163+00:00",
+      "completed_at": "2026-07-13T05:19:25.102163+00:00",
+      "task_hash": "33ca2bccb5814b5a972a43d7bbe41c88257c3f977600a39d32dce753cb1d612f",
+      "content_hash": "890ccf34e4639a346da69ae6752d00216c6c3bc4569511c387baf602c5e5353f",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_56c1c3c398f3_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_56c1c3c398f3",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_56c1c3c",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用CapCut的这组特效组合能提升20%"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102168+00:00",
+      "completed_at": "2026-07-13T05:19:25.102168+00:00",
+      "task_hash": "c1f74a331eee08128632ecef440b0ff0d3a28e626c26c9022dc0ff5734bf0a72",
+      "content_hash": "8b39bd375e252a9e9ab4cbbd7a1159bf72299ce4876859edd12a003edcb8f188",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_fffc1a420586_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_fffc1a420586",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_fffc1a4",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "AI生成的虚拟主播配真人配音，观众居然分"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102174+00:00",
+      "completed_at": "2026-07-13T05:19:25.102174+00:00",
+      "task_hash": "f7ff29582cd6fa9a2813951219e6b7518dceff8e7996af35e40e9967575a23d6",
+      "content_hash": "8d980d9871901572eb3635152d6a620ff32932a1118020cc65468c6cb60c6579",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_40db7be44755_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_40db7be44755",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_40db7be",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "删除确认框位置不在视野内，经常误触"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102179+00:00",
+      "completed_at": "2026-07-13T05:19:25.102179+00:00",
+      "task_hash": "2d2bfde57a851d9a18527967004ce96580a50e3e088955ec008753b0aa14d9d0",
+      "content_hash": "8df2b4b67aa5747becaeb38b9bd62194cc13484c61cc3fa2cfe4045c2031a7d8",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_bc978e1a3d62_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_bc978e1a3d62",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_bc978e1",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "邮件通知的格式在手机上看是乱的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102183+00:00",
+      "completed_at": "2026-07-13T05:19:25.102183+00:00",
+      "task_hash": "8ebe09eea49adcd48cbc71fbd32b8df5b76c513b56f307d9c52d53a140eebddd",
+      "content_hash": "8fcd04fe4da6099a7d213e496c4145db56766e8f3790d1ebc11d837fac003d42",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_4f8cdd6181db_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_4f8cdd6181db",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_4f8cdd6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "菜单层级太深，找设置要翻四五层，很累"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102186+00:00",
+      "completed_at": "2026-07-13T05:19:25.102186+00:00",
+      "task_hash": "9ca308096e5da202a44ede2de6d3d24e8c8729edc8bbdbb8e22fd092d22a4319",
+      "content_hash": "90343f029914d097146bd4fb0d587d584366b570e66c16753c5f2e01dcbe239c",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_eaae227523fd_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_eaae227523fd",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_eaae227",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "能不能出一份新手引导教程，刚开始用不知道"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102189+00:00",
+      "completed_at": "2026-07-13T05:19:25.102189+00:00",
+      "task_hash": "ee16368fe41f99586d1a7f26a1ef89e2e826990cb3c658ab1a97d0527cad542d",
+      "content_hash": "9370d8c5141f22f911b91e52deb7ccdec0d9c56009e3396100773d692908822f",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_be306d6ec023_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_be306d6ec023",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "churn_risk",
+          "summary": "[fixture] churn_risk signal in sample gs_be306d6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "再这样频繁涨价我就考虑换竞品了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102194+00:00",
+      "completed_at": "2026-07-13T05:19:25.102194+00:00",
+      "task_hash": "f20171af571bd4c948eb6dfd7b5ee71475558e7d26359489e9696bb9f5752780",
+      "content_hash": "9395c7d17658991c77a860d8ad0206aebd919074ae68c2dd4ab4bcfd53849df4",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_e79d0112585f_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e79d0112585f",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102197+00:00",
+      "completed_at": "2026-07-13T05:19:25.102197+00:00",
+      "task_hash": "f89c1e38ae87cec673463e3095dfd6a965313d9304fbb64e6193604a5eb05dc0",
+      "content_hash": "97e458e2c5814f944dacc6eba00846513f284b839fa3d389b80c27ca75e42be4",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_7cac385ad1b2_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_7cac385ad1b2",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_7cac385",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "知识付费类选题用3分钟深度解析+评论区送"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102201+00:00",
+      "completed_at": "2026-07-13T05:19:25.102201+00:00",
+      "task_hash": "29886318996553cf5e191103cf81fe4b735c8c5ae2951f8d57a8bd257e174f83",
+      "content_hash": "a2a58ddda817099e4c1483790efdb04c4731b04955748e2f9d3f777991302f2a",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_5b611219c469_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_5b611219c469",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[fixture] usability_issue signal in sample gs_5b61121",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "抖音热门BGM「晚风」配合慢动作转场效果"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.102205+00:00",
+      "completed_at": "2026-07-13T05:19:25.102205+00:00",
+      "task_hash": "c5cfef21461a0951e5fb234c78b95a800b1f254f7616d7463ea1c0fb4821f609",
+      "content_hash": "a2dc407cf2e53c1b8dceac849ef2966bdcd924940daeba8ce48bfbe0e79bcd7d",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_3acd1df3ef50_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3acd1df3ef50",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102210+00:00",
+      "completed_at": "2026-07-13T05:19:25.102210+00:00",
+      "task_hash": "949e4801ab02e4f25d5bc58d420b9423227802e6cfc8caa960116b80e1b30d9f",
+      "content_hash": "a391ee6eadab4fefeae5950978a20eca3b311e368324b4047f5908e2b1bb6e45",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_2604fb86d2ad_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_2604fb86d2ad",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_2604fb8",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "能不能加个自动保存草稿，写一半退出全没了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102219+00:00",
+      "completed_at": "2026-07-13T05:19:25.102219+00:00",
+      "task_hash": "01bda485b7b730522af1462dd4130e13b5a4171b5fa10c8e5465775b514a5fd1",
+      "content_hash": "a46d3dabcac3c5455d99b10fc05cf7ec0dc8b4a3e8e929940d21bf2b3f295c71",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_9a68f5676376_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_9a68f5676376",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_9a68f56",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "视频开头3秒的悬念钩子公式：who+wh"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.102222+00:00",
+      "completed_at": "2026-07-13T05:19:25.102222+00:00",
+      "task_hash": "e280bed484485f0b5723fc740e096caac67909cfe8184a76ac6ad88ac1316901",
+      "content_hash": "a5104c800ab88e238ca36712dd757fca5fd947f31b2bf7549f58574dea3fd2b9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_3f73c9100058_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3f73c9100058",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_3f73c91",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "通知太多太杂，分不清重要和广告"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102224+00:00",
+      "completed_at": "2026-07-13T05:19:25.102224+00:00",
+      "task_hash": "1c10206f708e1a152e4bc0c84bf013098ab7517aa2ba1e8db5e1814f339d6cf6",
+      "content_hash": "a5dd2af65db14068dfb39ce163181fab7b2f66e5a128dc8fdffe594e38d0e835",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_5ab34f2f6b9e_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_5ab34f2f6b9e",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_5ab34f2",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "快手三农赛道最近算法调整，推荐机制从完播"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102240+00:00",
+      "completed_at": "2026-07-13T05:19:25.102240+00:00",
+      "task_hash": "b8ba59ca4f3befaae749191b66d4ba485cd3139129b1575d2b94211fd17dd325",
+      "content_hash": "a8e71065105437b888e3aaeb9e5d9c53ddf51dd0be4bc48bc82863e143ec3a53",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_6c101e924dea_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_6c101e924dea",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_6c101e9",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "会员开通后功能没解锁，需要重新登录"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.102244+00:00",
+      "completed_at": "2026-07-13T05:19:25.102244+00:00",
+      "task_hash": "2bcfaa156e2d17df2ebc2f7d72433e87f1e1c758e1d95022ffed10cb16ae6983",
+      "content_hash": "ad10d6b396917d8b5f910a5d343d23d7d99e18bc618381fa2a60dab14cf9699b",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_98c226a01cbd_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_98c226a01cbd",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_98c226a",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "最近崩溃次数多了，三天闪退了四次"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102248+00:00",
+      "completed_at": "2026-07-13T05:19:25.102248+00:00",
+      "task_hash": "5e26aa112079a96226edd4edf9d4e50fc132de72f4ea089cb95a89ec6b589706",
+      "content_hash": "af154f3eba0d3fd8e4b0c3792e873dadbaec183994e746e6e53e5a4886afc8cc",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_f01d41a3f76c_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_f01d41a3f76c",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_f01d41a",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "通知设置里面没有按时间静音的选项"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "modified",
+      "started_at": "2026-07-13T05:19:25.102251+00:00",
+      "completed_at": "2026-07-13T05:19:25.102251+00:00",
+      "task_hash": "54358cbc227a302673b54f9af4189c77b48428c43c5d48e2e26c8a02c46d4555",
+      "content_hash": "b0118d22a1d4fae7d1c1a32f8b2acf0b4c3688e99a4b55bc2ed72a491f500237",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_54325566b432_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_54325566b432",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_5432556",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "直播间的憋单话术：库存告急+倒计时+限购"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102256+00:00",
+      "completed_at": "2026-07-13T05:19:25.102256+00:00",
+      "task_hash": "4f203e3a99392dafc5693d6272b3bb248af0b12f86940f685718b553f28218ba",
+      "content_hash": "b677969b8799f6dc9110046d41650e2bafbe54631689edc713621c30de384a75",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_1f797fbc84ad_assisted",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_1f797fbc84ad",
+      "annotator_slot": "assisted",
+      "annotator_pseudonym": "anno_fixture_assisted_assisted",
+      "annotation_mode": "assisted_review",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "visual_technique",
+          "summary": "[fixture] visual_technique signal in sample gs_1f797fb",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "字幕字体和颜色对观众停留时间有影响，白色"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": "accepted",
+      "started_at": "2026-07-13T05:19:25.102260+00:00",
+      "completed_at": "2026-07-13T05:19:25.102260+00:00",
+      "task_hash": "5b5cab839f017f092649a201008790bac815e6383cbd0ed8fdfe39974139c23d",
+      "content_hash": "b6e02d87f3abed01eaebdd6891b145322aea4aeda76dfe507148d355b29a682f",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_1fc75923a21b_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_1fc75923a21b",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_23a21b_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_1fc7592",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "优惠码输入框经常提示格式错误但格式是对的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102330+00:00",
+      "completed_at": "2026-07-13T05:19:25.102330+00:00",
+      "task_hash": "4fe3868f40af0fc6b0a84cbe1807f0e6e3889ca314774918a8f14a2343e704ec",
+      "content_hash": "b70d941863bd9548e34e8baf7691b4226929498a5eea3ce8c9a82c661d2bd621",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_7c086dffc3e2_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_7c086dffc3e2",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_ffc3e2_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_7c086df",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "视频号的算法推荐偏好友圈，冷启动要做好友"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102333+00:00",
+      "completed_at": "2026-07-13T05:19:25.102333+00:00",
+      "task_hash": "35f8594d5691f86bdecff81cbc5f55976721a5d1d885f5faea1dedc946308e62",
+      "content_hash": "b775785a3416ec85b2b6d8613d14ba267c34a6a6e91b09d10cfb4bf39c538625",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_bdcd7af59fc6_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_bdcd7af59fc6",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_f59fc6_A_A",
+      "annotation_mode": "blind",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102337+00:00",
+      "completed_at": "2026-07-13T05:19:25.102337+00:00",
+      "task_hash": "58446944ba5c4971265c73deafe8503594f638308763c8c3951844500fd85ac4",
+      "content_hash": "b9d32d02173c208248b0e82e46ebe776d4584ac07484e39ca7c6139f3845d2b2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_05a49be1cfc3_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_05a49be1cfc3",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_e1cfc3_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "content_pattern",
+          "summary": "[fixture] content_pattern signal in sample gs_05a49be",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "竖屏9:16模板和横屏16:9模板的文案"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102340+00:00",
+      "completed_at": "2026-07-13T05:19:25.102340+00:00",
+      "task_hash": "752c2ad12a16ebd4c9e835c0bc4b99b47c17234629e8c131506860fbce7b0971",
+      "content_hash": "bd6928100231bd695e4d511e2ce3f87d98f84e8ff5be02268886f82d8bb71c6a",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_40802af78b09_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_40802af78b09",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_f78b09_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_40802af",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 14,
+              "text": "批量重命名功能支持正则替换吗"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102344+00:00",
+      "completed_at": "2026-07-13T05:19:25.102344+00:00",
+      "task_hash": "01766886621fe7ee6b41033f1595252a0d5a49fcd70cb173b080d71206216b5e",
+      "content_hash": "c2fc35b829b4da8ceb94bde91b57e2355b44c4005bfbdcc446f2cb0a36651ff3",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_fbee01e97b92_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_fbee01e97b92",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_e97b92_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "platform_algorithm",
+          "summary": "[fixture] platform_algorithm signal in sample gs_fbee01e",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "注意抖音新规：挂小黄车必须真人出镜60秒"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102348+00:00",
+      "completed_at": "2026-07-13T05:19:25.102348+00:00",
+      "task_hash": "49657ee9bbb446f4c1efb58694357430d8d481e62fe72917690f9648f9e72a88",
+      "content_hash": "c37547a64a0d0e3df47d11d9104614f63534ab19b6ece76bb92f3144a3e215ab",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_f9defe6a6c0b_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_f9defe6a6c0b",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_6a6c0b_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_f9defe6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "用户手册太旧了，很多功能文档里没有"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102351+00:00",
+      "completed_at": "2026-07-13T05:19:25.102351+00:00",
+      "task_hash": "7e69f71ba1b5c9a5acea42b2738ca98fc07730dfd73f450b9c61b446157a6311",
+      "content_hash": "c440a8a5c35c3a2ddd1f6a035ac597a771b83b8c8d99e688af4b9183f501207c",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_64baca458153_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_64baca458153",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_458153_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "visual_technique",
+          "summary": "[fixture] visual_technique signal in sample gs_64baca4",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用剪映自动字幕功能，配合关键字标注提升搜"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102354+00:00",
+      "completed_at": "2026-07-13T05:19:25.102354+00:00",
+      "task_hash": "d82f9b9ab2b7cf2675fd7b3f56518a3cfc52ad0d1517567bbe3ff83dd77b4f81",
+      "content_hash": "c9a8b3146f287a2e6ef60bdb6bd8f584efcbe6320d04c4f929b67e65e94e02f4",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_9a80523a132c_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_9a80523a132c",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_3a132c_A_A",
+      "annotation_mode": "blind",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102358+00:00",
+      "completed_at": "2026-07-13T05:19:25.102358+00:00",
+      "task_hash": "69dd7d178de2f55d67a79b6e63212a7f6017f492c3b8da19f0d163c53c25ba7d",
+      "content_hash": "d2b8177dd94c2679f6bae45cfb77fe335f89aa18c0362a7a0bbd7f5e40259995",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_a8fc67c099ff_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_a8fc67c099ff",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_c099ff_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_a8fc67c",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "B站弹幕的情绪分析可以用来自动优化视频节"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102360+00:00",
+      "completed_at": "2026-07-13T05:19:25.102360+00:00",
+      "task_hash": "67da5f577bbc6703d687d075808f3ccfc19fbdc54fbd6d7ac2ac65dae0df1593",
+      "content_hash": "d3c40c3e15b4a78179ae78af7ecb63dac09f3d57120481042d8aa541ca59a051",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_90299b8c3ab2_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_90299b8c3ab2",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_8c3ab2_A_A",
+      "annotation_mode": "blind",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102362+00:00",
+      "completed_at": "2026-07-13T05:19:25.102362+00:00",
+      "task_hash": "f5e889d4d9d69c4a1574cbb93747820b320c556c2760f2fe59d4e5735f3388eb",
+      "content_hash": "d722817f20d3f973e7fee34a0b6ca3680271591a346c34883154b3b07fe647a9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_d5e8359da964_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_d5e8359da964",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_9da964_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_d5e8359",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "笔记类视频的关键词优化：标题前15字包含"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102368+00:00",
+      "completed_at": "2026-07-13T05:19:25.102368+00:00",
+      "task_hash": "e522bea5722061510b25bbd061cc09083ce31a80fd3ad98bcf4e382b62515fe2",
+      "content_hash": "dd86446994874d249a19b329d958382c8419ec8c49cc3725fed818716c846474",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b195ac668b31_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b195ac668b31",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_668b31_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_b195ac6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "分享链接的过期时间只有7天，太短了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102371+00:00",
+      "completed_at": "2026-07-13T05:19:25.102371+00:00",
+      "task_hash": "2e5b6029730e8154a6c27d7c85f8111e687c5a015218488bbac329c3f1e05ad7",
+      "content_hash": "e2cfddcf1681d44e6f3b95e14e5cbf35557c6a9c564dd9c4e14e328d07e6ddaf",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_85bd3f5ffd53_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_85bd3f5ffd53",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_5ffd53_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_85bd3f5",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "附件预览只支持图片和PDF，Word和E"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102374+00:00",
+      "completed_at": "2026-07-13T05:19:25.102374+00:00",
+      "task_hash": "47f51441cecd2c8c413bf66c91f9015badbe0f3a8a966557177dc93b16f52810",
+      "content_hash": "e4c1a4b9349f6adddb5b9000bc74ddc3c2745525559ba3ab3735bb780f70ffd2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_88e2e8f63190_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_88e2e8f63190",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_f63190_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_88e2e8f",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "筛选条件不能保存，每次都要重新设置很烦"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102376+00:00",
+      "completed_at": "2026-07-13T05:19:25.102376+00:00",
+      "task_hash": "5d73023ddab16fce9db11b783d3e6a978b3a33e248f7b9e705b80aa40d43da58",
+      "content_hash": "e63b80c2bb12ea1e8c0b3a8c42f34a44f10e9cc0dbadc723a14648f24651bf4d",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_056d88bd6b7a_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_056d88bd6b7a",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_bd6b7a_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_056d88b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "导出CSV时报错500，数据太大了就崩溃"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102379+00:00",
+      "completed_at": "2026-07-13T05:19:25.102379+00:00",
+      "task_hash": "a958a9b21f46668142b27edbffee895786a244b2041cd3b514a0fbf91a1f46d0",
+      "content_hash": "e851c0f71d063e3d63d11cd95edcde7bab25ea98c99da294da8ec27ca64eebe9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_ef09ae24a721_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_ef09ae24a721",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_24a721_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_ef09ae2",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 12,
+              "text": "颜色主题能不能加个浅绿色"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102383+00:00",
+      "completed_at": "2026-07-13T05:19:25.102383+00:00",
+      "task_hash": "48293e66c6d53dd64cdddb92c232b093a3db912ed4f822fb405dd02bb972cd95",
+      "content_hash": "e98429d8802aa8e722cfe4f8fb9aa8d29562a6c4f8ffffcc53083fa45db4856e",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_9882d2cfe3cc_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_9882d2cfe3cc",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_cfe3cc_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_9882d2c",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "日历视图的周起始日不能改为周一，默认周日"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102388+00:00",
+      "completed_at": "2026-07-13T05:19:25.102388+00:00",
+      "task_hash": "1f307f56ff3d8d9ecfa8d472b1fc25d18d17beed47b47aeadfc88bc08cc50062",
+      "content_hash": "e9aa2ac3d1c4fdc85198db3a27d70b13be05fad3d27a111eb17a6c1d10b0a5d2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_0e858364c02a_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_0e858364c02a",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_64c02a_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_0e85836",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "AI配音现在可以克隆声音了，成本大降"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102391+00:00",
+      "completed_at": "2026-07-13T05:19:25.102391+00:00",
+      "task_hash": "f66286a9564990ba59c567816771a3100a7ca670ac0d3ed1787a78664ebaee40",
+      "content_hash": "ebf45b93065ea6098d395e83fa083d3fbb9f6db129092709b91b703b159116e7",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b6c8a7bb770f_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b6c8a7bb770f",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_bb770f_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_b6c8a7b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "协作编辑时经常冲突覆盖，没有锁机制"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102394+00:00",
+      "completed_at": "2026-07-13T05:19:25.102394+00:00",
+      "task_hash": "99a922e45c3f9be9c68175addc80678a46b70f177660bd819ae00f98eca2f594",
+      "content_hash": "eca67e536403b407175ecf689c35bed0633b87c1813448b47d0a887a527c8be2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_0e9c0594dd12_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_0e9c0594dd12",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_94dd12_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_0e9c059",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "API文档的示例代码过期了，跑不起来"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102398+00:00",
+      "completed_at": "2026-07-13T05:19:25.102398+00:00",
+      "task_hash": "819305ccc750cebf76f06190a76f10d9eed05ae17994326e403a8f4075b1ba33",
+      "content_hash": "ed1ab7dea4390c14ca03fd98eac17c367bab609b6a260e2787251a5d448d5da7",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_e7ce50799e1d_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e7ce50799e1d",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_799e1d_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_e7ce507",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "导入数据时需要逐条确认字段映射，批量导入"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102403+00:00",
+      "completed_at": "2026-07-13T05:19:25.102403+00:00",
+      "task_hash": "4e06e9cd4579ef4911e72fa76f2ad38c1a362607451baba790bfbc2331c778ff",
+      "content_hash": "ee47e01aebcb6d1470d3f4724130322d6ad17c5bddd50e58c92cffccaaa65122",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_01f29dfd60e5_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_01f29dfd60e5",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_fd60e5_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "praise",
+          "summary": "[fixture] praise signal in sample gs_01f29df",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用评论区置顶引导点赞+关注的做法，涨粉率"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102408+00:00",
+      "completed_at": "2026-07-13T05:19:25.102408+00:00",
+      "task_hash": "0a08bd8ca9c4c5b0d1862337888472d0335ea4da233c69f128c6d1d68e376ad6",
+      "content_hash": "ef21a9e73b4fc8ff83b6fe32fd3971ed4df5a26e99ff4e2194e91cb19a078105",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_28d67f5ce993_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_28d67f5ce993",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_5ce993_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_28d67f5",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "小红书最近扶持「生活vlog」类内容，推"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102413+00:00",
+      "completed_at": "2026-07-13T05:19:25.102413+00:00",
+      "task_hash": "d6e262434ce09aec1acec2bd5fbbd946dc161146d77affc9b239a09baa92b3eb",
+      "content_hash": "f5c90f242e1fa0dc2ee999a7110799f74ba3045a9c9f9a87edafb14b2c7de6d9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_ce7ea6049008_A",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_ce7ea6049008",
+      "annotator_slot": "A",
+      "annotator_pseudonym": "anno_fixture_049008_A_A",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_ce7ea60",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "视频带货的话术模板：痛点引入→产品展示→"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102419+00:00",
+      "completed_at": "2026-07-13T05:19:25.102419+00:00",
+      "task_hash": "6d81ffce39f877768791580975d9d2586776529eb5e846841224e72c18ade346",
+      "content_hash": "f6619c652a0c1c36c62ac18214ef1007c9e151291f1d94c8dedd291065629034",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_1fc75923a21b_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_1fc75923a21b",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_23a21b_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_1fc7592",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "优惠码输入框经常提示格式错误但格式是对的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102490+00:00",
+      "completed_at": "2026-07-13T05:19:25.102490+00:00",
+      "task_hash": "f08a42bcfd5316792b77391c46094ed1f8613107a24b9ec322640a925604d6a2",
+      "content_hash": "b70d941863bd9548e34e8baf7691b4226929498a5eea3ce8c9a82c661d2bd621",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_7c086dffc3e2_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_7c086dffc3e2",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_ffc3e2_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_7c086df",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "视频号的算法推荐偏好友圈，冷启动要做好友"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102493+00:00",
+      "completed_at": "2026-07-13T05:19:25.102493+00:00",
+      "task_hash": "7d414c4bfb88bdf3cc2a196659edd08673c306be21b84eb85c6ebc62d54c557b",
+      "content_hash": "b775785a3416ec85b2b6d8613d14ba267c34a6a6e91b09d10cfb4bf39c538625",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_bdcd7af59fc6_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_bdcd7af59fc6",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_f59fc6_B_B",
+      "annotation_mode": "blind",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102497+00:00",
+      "completed_at": "2026-07-13T05:19:25.102497+00:00",
+      "task_hash": "bc351f7b7b8996eb1c6abb100f9bec7a7e09c7b3507a46eaa261326c88bb4c48",
+      "content_hash": "b9d32d02173c208248b0e82e46ebe776d4584ac07484e39ca7c6139f3845d2b2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_05a49be1cfc3_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_05a49be1cfc3",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_e1cfc3_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "content_pattern",
+          "summary": "[fixture] content_pattern signal in sample gs_05a49be",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "竖屏9:16模板和横屏16:9模板的文案"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102499+00:00",
+      "completed_at": "2026-07-13T05:19:25.102499+00:00",
+      "task_hash": "c2bbcaad74a499445385d9c4590c9a1169847ee3976b39b0ddff658d9c2d93a7",
+      "content_hash": "bd6928100231bd695e4d511e2ce3f87d98f84e8ff5be02268886f82d8bb71c6a",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_40802af78b09_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_40802af78b09",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_f78b09_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_40802af",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 14,
+              "text": "批量重命名功能支持正则替换吗"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102503+00:00",
+      "completed_at": "2026-07-13T05:19:25.102503+00:00",
+      "task_hash": "97d57b09eecdf0a575082ac9925b1bfffe602bedc1399f8d9249c7b86f02286d",
+      "content_hash": "c2fc35b829b4da8ceb94bde91b57e2355b44c4005bfbdcc446f2cb0a36651ff3",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_fbee01e97b92_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_fbee01e97b92",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_e97b92_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "platform_algorithm",
+          "summary": "[fixture] platform_algorithm signal in sample gs_fbee01e",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "注意抖音新规：挂小黄车必须真人出镜60秒"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102507+00:00",
+      "completed_at": "2026-07-13T05:19:25.102507+00:00",
+      "task_hash": "466afe7cf43063744895bdc9058b1b68237f86748db3c558abce21e46f7c14fb",
+      "content_hash": "c37547a64a0d0e3df47d11d9104614f63534ab19b6ece76bb92f3144a3e215ab",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_f9defe6a6c0b_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_f9defe6a6c0b",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_6a6c0b_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_f9defe6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "用户手册太旧了，很多功能文档里没有"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102510+00:00",
+      "completed_at": "2026-07-13T05:19:25.102510+00:00",
+      "task_hash": "569b836ab9fab3cf38f40b9be1d79031717789bf07ceed113fd649f6031d0ba7",
+      "content_hash": "c440a8a5c35c3a2ddd1f6a035ac597a771b83b8c8d99e688af4b9183f501207c",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_64baca458153_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_64baca458153",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_458153_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "visual_technique",
+          "summary": "[fixture] visual_technique signal in sample gs_64baca4",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用剪映自动字幕功能，配合关键字标注提升搜"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102513+00:00",
+      "completed_at": "2026-07-13T05:19:25.102513+00:00",
+      "task_hash": "2754fb3439af3fc778eb8e2de2b7d1dd2c0f8d1fda61fe338a1c82b994d88771",
+      "content_hash": "c9a8b3146f287a2e6ef60bdb6bd8f584efcbe6320d04c4f929b67e65e94e02f4",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_9a80523a132c_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_9a80523a132c",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_3a132c_B_B",
+      "annotation_mode": "blind",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102517+00:00",
+      "completed_at": "2026-07-13T05:19:25.102517+00:00",
+      "task_hash": "3cce4d67c96e9fa742313806d36a56b3e3d90f0c55e284f459774dfe1197f458",
+      "content_hash": "d2b8177dd94c2679f6bae45cfb77fe335f89aa18c0362a7a0bbd7f5e40259995",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_a8fc67c099ff_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_a8fc67c099ff",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_c099ff_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[fixture] viral_hook signal in sample gs_a8fc67c",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "B站弹幕的情绪分析可以用来自动优化视频节"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102519+00:00",
+      "completed_at": "2026-07-13T05:19:25.102519+00:00",
+      "task_hash": "c63c923ac8021f2df331be8c2031b758b06db3cc6af66184905bb011f75994bc",
+      "content_hash": "d3c40c3e15b4a78179ae78af7ecb63dac09f3d57120481042d8aa541ca59a051",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_90299b8c3ab2_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_90299b8c3ab2",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_8c3ab2_B_B",
+      "annotation_mode": "blind",
+      "has_signals": false,
+      "signal_count": 0,
+      "signals": [],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102521+00:00",
+      "completed_at": "2026-07-13T05:19:25.102521+00:00",
+      "task_hash": "38165129f47a7cca1bd518eba860f7f4699c512e24822ceace20d2197fca8725",
+      "content_hash": "d722817f20d3f973e7fee34a0b6ca3680271591a346c34883154b3b07fe647a9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_d5e8359da964_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_d5e8359da964",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_9da964_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_d5e8359",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "笔记类视频的关键词优化：标题前15字包含"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102527+00:00",
+      "completed_at": "2026-07-13T05:19:25.102527+00:00",
+      "task_hash": "6f782bdb82c4b0c5507bcda4bec6b263de82b15da183fefa507c9e8625578b26",
+      "content_hash": "dd86446994874d249a19b329d958382c8419ec8c49cc3725fed818716c846474",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b195ac668b31_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b195ac668b31",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_668b31_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_b195ac6",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "分享链接的过期时间只有7天，太短了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102530+00:00",
+      "completed_at": "2026-07-13T05:19:25.102530+00:00",
+      "task_hash": "c7f77d186303613c2458f0167da64f4c3453d8c810d59ef8c1913434b37d7487",
+      "content_hash": "e2cfddcf1681d44e6f3b95e14e5cbf35557c6a9c564dd9c4e14e328d07e6ddaf",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_85bd3f5ffd53_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_85bd3f5ffd53",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_5ffd53_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_85bd3f5",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "附件预览只支持图片和PDF，Word和E"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102533+00:00",
+      "completed_at": "2026-07-13T05:19:25.102533+00:00",
+      "task_hash": "c6a9763bc75394e97df7d80deef7ae80d98ff913037d46c5f8d0a9f04fdd38ce",
+      "content_hash": "e4c1a4b9349f6adddb5b9000bc74ddc3c2745525559ba3ab3735bb780f70ffd2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_88e2e8f63190_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_88e2e8f63190",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_f63190_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[fixture] feature_request signal in sample gs_88e2e8f",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "筛选条件不能保存，每次都要重新设置很烦"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102535+00:00",
+      "completed_at": "2026-07-13T05:19:25.102535+00:00",
+      "task_hash": "779fb753015d17eed8de3afd6a57b1469e96772fe1de1e3145b86548c5159c39",
+      "content_hash": "e63b80c2bb12ea1e8c0b3a8c42f34a44f10e9cc0dbadc723a14648f24651bf4d",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_056d88bd6b7a_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_056d88bd6b7a",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_bd6b7a_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_056d88b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "导出CSV时报错500，数据太大了就崩溃"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102538+00:00",
+      "completed_at": "2026-07-13T05:19:25.102538+00:00",
+      "task_hash": "07d53ceb599096f971ddd7dd1968234ff1aba2e4e267c5aac0d20baac05ea46a",
+      "content_hash": "e851c0f71d063e3d63d11cd95edcde7bab25ea98c99da294da8ec27ca64eebe9",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_ef09ae24a721_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_ef09ae24a721",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_24a721_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_ef09ae2",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 12,
+              "text": "颜色主题能不能加个浅绿色"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102542+00:00",
+      "completed_at": "2026-07-13T05:19:25.102542+00:00",
+      "task_hash": "278e4fa6b907851c59fd0098bf6424822615308b9a6d2b2f90c83af446b1d80d",
+      "content_hash": "e98429d8802aa8e722cfe4f8fb9aa8d29562a6c4f8ffffcc53083fa45db4856e",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_9882d2cfe3cc_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_9882d2cfe3cc",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_cfe3cc_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_9882d2c",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "日历视图的周起始日不能改为周一，默认周日"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102547+00:00",
+      "completed_at": "2026-07-13T05:19:25.102547+00:00",
+      "task_hash": "52cf151c1375b72136dd29d8ec684c9cbdb74d0115bee606d729c51f21b798e4",
+      "content_hash": "e9aa2ac3d1c4fdc85198db3a27d70b13be05fad3d27a111eb17a6c1d10b0a5d2",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_0e858364c02a_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_0e858364c02a",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_64c02a_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "audio_strategy",
+          "summary": "[fixture] audio_strategy signal in sample gs_0e85836",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "AI配音现在可以克隆声音了，成本大降"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102550+00:00",
+      "completed_at": "2026-07-13T05:19:25.102550+00:00",
+      "task_hash": "2110dada1b07ec021868b2fc826d361b29fa4b3a9cdfee62e359f5f5fe59795d",
+      "content_hash": "ebf45b93065ea6098d395e83fa083d3fbb9f6db129092709b91b703b159116e7",
+      "fixture": true
+    },
+    {
+      "annotation_id": "fixann_gs_b6c8a7bb770f_B",
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b6c8a7bb770f",
+      "annotator_slot": "B",
+      "annotator_pseudonym": "anno_fixture_bb770f_B_B",
+      "annotation_mode": "blind",
+      "has_signals": true,
+      "signal_count": 1,
+      "signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[fixture] bug_report signal in sample gs_b6c8a7b",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "协作编辑时经常冲突覆盖，没有锁机制"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false,
+          "notes": null
+        }
+      ],
+      "review_action": null,
+      "started_at": "2026-07-13T05:19:25.102555+00:00",
+      "completed_at": "2026-07-13T05:19:25.102555+00:00",
+      "task_hash": "6dd6883cd9725ba32cf68f978101258c2c1035a02c62f909c667efea418a9450",
+      "content_hash": "eca67e536403b407175ecf689c35bed0633b87c1813448b47d0a887a527c8be2",
+      "fixture": true
+    }
+  ]
+}

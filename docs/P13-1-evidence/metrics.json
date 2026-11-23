@@ -1,0 +1,110 @@
+{
+  "passed": true,
+  "checks": {
+    "confidence_contract": {
+      "method": "behavior_probe-low_score",
+      "passed": true,
+      "observations": {
+        "persisted_count": 1,
+        "model_self_score": 0.01,
+        "calibrated_confidence": null,
+        "low_score_persists": true
+      }
+    },
+    "signal_type_validation": {
+      "method": "pytest-whitelist",
+      "exit_code": 0,
+      "passed": true,
+      "observations": {
+        "test_count": 4
+      }
+    },
+    "evidence_validation": {
+      "method": "pytest-evidence",
+      "exit_code": 0,
+      "passed": true,
+      "observations": {
+        "test_count": 8
+      }
+    },
+    "pseudo_embedding_blocked": {
+      "method": "behavior_probe-circuit_breaker",
+      "passed": true,
+      "observations": {
+        "no_capability": {
+          "dedup_await_count": 0,
+          "cluster_await_count": 0,
+          "asset_await_count": 0,
+          "passed": true
+        },
+        "all_real_embeddings_failed": {
+          "stored_real_count": 0,
+          "dedup_await_count": 0,
+          "cluster_await_count": 0,
+          "asset_await_count": 0,
+          "semantic_phase": "skipped",
+          "passed": true
+        }
+      }
+    },
+    "no_new_destructive_dismiss": {
+      "method": "pytest-dedup",
+      "exit_code": 0,
+      "passed": true,
+      "observations": {}
+    },
+    "frontend_semantics": {
+      "method": "behavior_probe-sse_terminal",
+      "passed": true,
+      "observations": {
+        "evidence_type": "behavior_probe_sse",
+        "terminal_status": "completed_with_skips",
+        "stream_closed": true,
+        "subscriber_removed": true
+      }
+    },
+    "regression": {
+      "method": "pytest-full-suite",
+      "exit_code": 0,
+      "passed": true,
+      "observations": {
+        "test_count": 196,
+        "stdout_tail": [
+          "-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html",
+          "196 passed, 3 warnings in 4.64s"
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "before": {
+      "signals": 1425,
+      "feedback": 1257,
+      "themes": 17,
+      "dismissed": 1408,
+      "pseudo": 1425
+    },
+    "after": {
+      "signals": 1425,
+      "feedback": 1257,
+      "themes": 17,
+      "dismissed": 1408,
+      "pseudo": 1425
+    },
+    "new_pseudo_embeddings": 0,
+    "new_dismissed": 0,
+    "new_themes": 0
+  },
+  "static_contracts": {
+    "streamlit_no_confidence_threshold_payload": true,
+    "browser_no_doSimpleVerify": true,
+    "browser_no_app_dot_js": true,
+    "browser_no_http_dot_get": true
+  },
+  "gates_completeness": {
+    "required_count": 7,
+    "present_count": 7,
+    "missing_gates": []
+  },
+  "generated_at": "2026-07-10T07:28:29.680363+00:00"
+}

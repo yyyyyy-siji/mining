@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1.0",
+  "dataset_id": "ddcfad9b574bb579",
+  "fixture": true,
+  "signer_key_id": "fixture-test-key-v1",
+  "generated_at": "2026-07-13T07:43:47.406894+00:00",
+  "packs": [
+    {
+      "path": "human_tasks_development.json",
+      "sha256": "b17da9ba54952e49a6b98732ec9979cb736f234392660607e9c1765c030a213c",
+      "bytes": 55076,
+      "task_count": 50,
+      "annotation_mode": "assisted_review",
+      "annotator_slot": "assisted",
+      "split": "development",
+      "fixture": true
+    },
+    {
+      "path": "human_tasks_calibration.json",
+      "sha256": "548e36e9f1f9f4f741a29625830bacbb5a7a408a63c50ebb2760c9b156951712",
+      "bytes": 27892,
+      "task_count": 25,
+      "annotation_mode": "assisted_review",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "fixture": true
+    },
+    {
+      "path": "human_tasks_test_A.json",
+      "sha256": "353b72a1d845101725f30fa05740f4e4d0dc31226470a2a37573cc9e7405659c",
+      "bytes": 13308,
+      "task_count": 25,
+      "annotation_mode": "blind",
+      "annotator_slot": "A",
+      "split": "test",
+      "fixture": true
+    },
+    {
+      "path": "human_tasks_test_B.json",
+      "sha256": "a79390557b10f50756826fa63ad6e3e4130fcc49bd6854efe6a556e17bda5042",
+      "bytes": 10619,
+      "task_count": 20,
+      "annotation_mode": "blind",
+      "annotator_slot": "B",
+      "split": "test",
+      "fixture": true
+    }
+  ],
+  "total_task_count": 120,
+  "canonicalization_version": "1",
+  "dataset_manifest_path": "manifest.json",
+  "dataset_manifest_sha256": "5bf92b95c12bef1a50fc3c8153594fe70f9783ae6ea0e76018c2e3005c17ecb8",
+  "fixture_only": true,
+  "signature": "7b3a14de7b067a5a4e7d5d5bc61e2564f9ffbdcbe399f511c068307b0b211da1"
+}

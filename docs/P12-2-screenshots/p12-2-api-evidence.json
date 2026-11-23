@@ -1,0 +1,19 @@
+{
+  "finalDecision": "PASS",
+  "passed": true,
+  "model_fields_present": {
+    "screenshot_path": true,
+    "ocr_text": true,
+    "source_captured_at": true,
+    "raw_payload": true
+  },
+  "route_checks": {
+    "browser_screenshot_without_evidence": {
+      "status": 422,
+      "runner_called": 0
+    },
+    "full_metadata_persisted": {
+      "passed": true
+    }
+  }
+}

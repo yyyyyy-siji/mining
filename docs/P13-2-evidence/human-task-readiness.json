@@ -1,0 +1,13 @@
+{
+  "status": "FIXTURE_PASS",
+  "passed": true,
+  "fixture": true,
+  "dataset_id": "ddcfad9b574bb579",
+  "pack_counts": {
+    "development": 50,
+    "calibration": 25,
+    "test_A": 25,
+    "test_B": 20
+  },
+  "leak_count": 0
+}

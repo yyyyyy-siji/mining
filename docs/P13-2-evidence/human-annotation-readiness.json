@@ -1,0 +1,160 @@
+{
+  "status": "FIXTURE_PASS",
+  "passed": true,
+  "checks": {
+    "task_pack_files_present": {
+      "passed": true,
+      "observations": {
+        "missing": []
+      }
+    },
+    "schema_strict": {
+      "passed": true,
+      "observations": {
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "task_identity": {
+      "passed": true,
+      "observations": {
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "signal_count_consistency": {
+      "passed": true,
+      "observations": {
+        "mismatches": []
+      }
+    },
+    "has_signals_consistency": {
+      "passed": true,
+      "observations": {
+        "errors": []
+      }
+    },
+    "evidence_offsets": {
+      "passed": true,
+      "observations": {
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "summary_and_evidence_nonempty": {
+      "passed": true,
+      "observations": {
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "signal_type_whitelist": {
+      "passed": true,
+      "observations": {
+        "error_count": 0,
+        "errors": []
+      }
+    },
+    "no_self_pairing": {
+      "passed": true,
+      "observations": {
+        "conflicts": []
+      }
+    },
+    "assisted_review_action": {
+      "passed": true,
+      "observations": {
+        "missing": []
+      }
+    },
+    "no_pii_leak": {
+      "passed": true,
+      "observations": {
+        "hit_count": 0,
+        "hits": []
+      }
+    },
+    "no_blind_leakage_in_tasks": {
+      "passed": true,
+      "observations": {
+        "leak_count": 0
+      }
+    },
+    "real_vs_fixture_count": {
+      "passed": true,
+      "observations": {
+        "real_count": 0,
+        "real_count_honest": 0,
+        "fixture_count": 120,
+        "suspicious_real_ids": []
+      }
+    },
+    "human_verified_count_de-duped": {
+      "passed": true,
+      "observations": {
+        "human_verified_count": 0
+      }
+    },
+    "double_annotation_coverage": {
+      "passed": true,
+      "observations": {
+        "declared": 20,
+        "missing_both_slots": 0,
+        "missing_samples": []
+      }
+    },
+    "readiness_thresholds": {
+      "passed": true,
+      "observations": {
+        "real_count": 0,
+        "min_real": 100,
+        "test_blind_real": 0,
+        "min_blind": 25,
+        "double_count": 0,
+        "min_double": 20,
+        "kappa": 0.0,
+        "kappa_threshold": 0.7,
+        "fixture_only_run": true
+      }
+    },
+    "kappa_non_degenerate": {
+      "passed": true,
+      "observations": {
+        "kappa": 0.0,
+        "degenerate": false,
+        "pair_count": 0
+      }
+    },
+    "disagreements_adjudicated": {
+      "passed": true,
+      "observations": {
+        "disagreement_samples": 0,
+        "unadjudicated": 0
+      }
+    },
+    "calibration_not_allowed": {
+      "passed": true,
+      "observations": {
+        "errors": [],
+        "policy_path": "docs/P13-2/stage-policy.json"
+      }
+    }
+  },
+  "annotation_count": 120,
+  "real_count": 0,
+  "fixture_count": 120,
+  "test_blind_real": 0,
+  "double_annotation_count": 0,
+  "human_verified_count": 0,
+  "human_labels_complete": false,
+  "calibration_allowed": false,
+  "agreement": {
+    "has_signals_kappa": 0.0,
+    "signal_count_exact_rate": 0.0,
+    "mean_signal_type_jaccard": 0.0,
+    "evidence_overlap_rate": 0.0,
+    "disagreement_sample_count": 0,
+    "disagreement_fields": {},
+    "pair_count": 0
+  }
+}

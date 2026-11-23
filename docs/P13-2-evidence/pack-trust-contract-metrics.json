@@ -1,0 +1,37 @@
+{
+  "run_id": "c3ebe231-a359-4a19-90e1-d9d33cee18ca",
+  "status": "COMMITTED",
+  "passed": true,
+  "started_at": "2026-07-14T15:58:10.770512+00:00",
+  "finished_at": "2026-07-14T15:58:44.517519+00:00",
+  "generated_at": "2026-07-14T15:58:44.517519+00:00",
+  "orchestrator_started_at": "2026-07-14T15:58:10.770512+00:00",
+  "orchestrator_finished_at": "2026-07-14T15:58:44.517519+00:00",
+  "phase": "orchestrator",
+  "contract_sha256": "45c134efc1e311cb53413a7fe094e323716aab954b95b55882c64b978d798d5e",
+  "contract_schema_version": "contract-1.0.0",
+  "pack_trust_mutation_gate": {
+    "exit_code": 0,
+    "passed": true,
+    "total_mutations": 23,
+    "detected_count": 23,
+    "invariant_count": 2,
+    "target_check": "pack_trust",
+    "readiness_invariants_passed": true,
+    "artifact_sha256": "41696641272a5ca1279d978a80e45088f67310bed7f6a75c9da55e16461713c9"
+  },
+  "annotation_mutation_gate": {
+    "exit_code": 0,
+    "passed": true,
+    "total_mutations": 34,
+    "detected_count": 34,
+    "readiness_invariants_passed": true,
+    "meta_negatives_passed": true,
+    "artifact_sha256": "f22770ca44e83c952b8344dc401c640432f1ee961da8adcc78bef3bd4f6894f8"
+  },
+  "fixture_only": true,
+  "human_verified_count": 0,
+  "human_labels_complete": false,
+  "calibration_allowed": false,
+  "production_blocked": true
+}

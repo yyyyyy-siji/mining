@@ -1,0 +1,21 @@
+150:function escapeHtml(str) {
+156:function createSourceLink(url, text = '查看原始来源') {
+237:        <input class="form-input" id="import-external-url" placeholder="https://...">
+262:    const externalUrl = document.getElementById('import-external-url').value.trim() || undefined;
+305:        item.external_url = item.source_url || item.url || item.video_url || item.link || undefined;
+310:      const result = await apiPost('/feedback/batch', items);
+313:          ✅ 批量导入完成：${result.ingested} 条
+345:          fbSourceHtml = `<div style="margin-top:8px"><a href="${escapeHtml(fbSourceUrl)}" target="_blank" rel="noopener noreferrer" style="color:var(--accent)">🔗 查看数据来源</a></div>`;
+413:            ${sig.source_url ? `<div style="margin-top:8px"><a href="${escapeHtml(sig.source_url)}" target="_blank" rel="noopener noreferrer" style="color:var(--accent)">🔗 查看原始来源</a></div>` : ''}
+414:            ${!sig.source_url && sig.source_type ? `<div style="margin-top:4px;font-size:12px;color:var(--text-muted)">📎 来源平台: ${escapeHtml(sig.source_type)}</div>` : ''}
+512:      header.innerHTML = `<div class="card-title">${escapeHtml(opp.jtbd_statement)}</div>`;
+520:      body.innerHTML = `<p>${escapeHtml(opp.description)}</p>
+521:         ${(opp.assumptions || []).map(a => `<div style="margin:4px 0;color:var(--warning)">⚠ 假设: ${escapeHtml(a)}</div>`).join('')}
+522:         <div style="margin-top:8px;font-size:12px;color:var(--text-muted)">优先级: ${escapeHtml(JSON.stringify(opp.priority))}</div>
+546:                  evHtml += `<div style="margin:6px 0;font-size:13px">💬 <em>${escapeHtml(quote)}</em></div>
+547:                    <div style="font-size:11px;color:var(--text-muted);margin-bottom:2px">Signal: ${escapeHtml(sigId)} [${escapeHtml(srcType)}]${ev.author_segment ? ' · ' + escapeHtml(ev.author_segment) : ''}</div>`;
+549:                    evHtml += `<div><a href="${escapeHtml(evSourceUrl)}" target="_blank" rel="noopener noreferrer" style="font-size:13px;color:var(--accent)">🔗 查看原始来源</a></div>`;
+557:              placeholder.innerHTML = `<div style="color:var(--danger);font-size:12px">加载失败: ${escapeHtml(e.message)}</div>`;
+663:          bodyEl.appendChild(createSourceLink(evSourceUrl));
+893:      document.getElementById('gh-result').innerHTML = `<div style="padding:12px;background:rgba(16,185,129,0.1);border-radius:8px;color:var(--success)">✅ 拉取完成：${result.ingested_count} 条反馈已入库</div>`;
+894:      showToast(`成功导入 ${result.ingested_count} 条 GitHub Issues`, 'success');

@@ -1,0 +1,785 @@
+{
+  "schema_version": "1.0.0",
+  "dataset_id": "ddcfad9b574bb579",
+  "split": "calibration",
+  "annotator_slot": "assisted",
+  "annotation_mode": "assisted_review",
+  "tasks": [
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_daf4c01139aa",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "建议增加文件对比功能，查看两个版本的差异",
+      "content_hash": "8208e550aa581ecdec74537a93a21481abed6b64cec9c97fe90f18b0f235624d",
+      "task_hash": "ef716959e52c52606d5b22345f6dfb0fe28e92d9c2ce142da821ea09ce30d468",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "建议增加文件对比功能，查看两个版本的差异"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3ab6568e6daa",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "版本回退功能没有，升级后出了问题只能干着急",
+      "content_hash": "85c5fd500eece0dea4ef3194505f97ed4bfae60402388cbeeffaad157b64eb32",
+      "task_hash": "bd49b23b26730b0362d44ceb518ed165d0ac99fa95281640aaf22997e9452646",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "版本回退功能没有，升级后出了问题只能干着"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e0534a26233b",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "对比三条爆款视频的共同点：都有问题式开头、数据论证中段和行动号召结尾",
+      "content_hash": "86ec56e0c757c8e5ed3127cd743c698daee1e0bf887ef63fe9bc27187dd3c478",
+      "task_hash": "aaa85fee4892b787c209d5fe93b4e4e11f6892408829351efeced7ca47f58367",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "对比三条爆款视频的共同点：都有问题式开头"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_2b44106603fb",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "抖音中视频计划的新门槛降低了，原创1000粉即可加入",
+      "content_hash": "8745c636581a1e648ed9a246766d274d9653d94e5db33d8d78c5e389907b72b3",
+      "task_hash": "f06422469d20c98ba03630153e3778f94a318ce2164f4130e4ec6111705296cb",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "抖音中视频计划的新门槛降低了，原创100"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_b39623200a7c",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "登录验证码经常收不到，短信延迟很大",
+      "content_hash": "890ccf34e4639a346da69ae6752d00216c6c3bc4569511c387baf602c5e5353f",
+      "task_hash": "33ca2bccb5814b5a972a43d7bbe41c88257c3f977600a39d32dce753cb1d612f",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "usability_issue",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 17,
+                "text": "登录验证码经常收不到，短信延迟很大"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_56c1c3c398f3",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "用CapCut的这组特效组合能提升20%完播率",
+      "content_hash": "8b39bd375e252a9e9ab4cbbd7a1159bf72299ce4876859edd12a003edcb8f188",
+      "task_hash": "c1f74a331eee08128632ecef440b0ff0d3a28e626c26c9022dc0ff5734bf0a72",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "用CapCut的这组特效组合能提升20%"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_fffc1a420586",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "AI生成的虚拟主播配真人配音，观众居然分辨不出，互动率无异",
+      "content_hash": "8d980d9871901572eb3635152d6a620ff32932a1118020cc65468c6cb60c6579",
+      "task_hash": "f7ff29582cd6fa9a2813951219e6b7518dceff8e7996af35e40e9967575a23d6",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "AI生成的虚拟主播配真人配音，观众居然分"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_40db7be44755",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "删除确认框位置不在视野内，经常误触",
+      "content_hash": "8df2b4b67aa5747becaeb38b9bd62194cc13484c61cc3fa2cfe4045c2031a7d8",
+      "task_hash": "2d2bfde57a851d9a18527967004ce96580a50e3e088955ec008753b0aa14d9d0",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 17,
+                "text": "删除确认框位置不在视野内，经常误触"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_bc978e1a3d62",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "邮件通知的格式在手机上看是乱的",
+      "content_hash": "8fcd04fe4da6099a7d213e496c4145db56766e8f3790d1ebc11d837fac003d42",
+      "task_hash": "8ebe09eea49adcd48cbc71fbd32b8df5b76c513b56f307d9c52d53a140eebddd",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 15,
+                "text": "邮件通知的格式在手机上看是乱的"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_4f8cdd6181db",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "菜单层级太深，找设置要翻四五层，很累",
+      "content_hash": "90343f029914d097146bd4fb0d587d584366b570e66c16753c5f2e01dcbe239c",
+      "task_hash": "9ca308096e5da202a44ede2de6d3d24e8c8729edc8bbdbb8e22fd092d22a4319",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 18,
+                "text": "菜单层级太深，找设置要翻四五层，很累"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_eaae227523fd",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "能不能出一份新手引导教程，刚开始用不知道从哪下手",
+      "content_hash": "9370d8c5141f22f911b91e52deb7ccdec0d9c56009e3396100773d692908822f",
+      "task_hash": "ee16368fe41f99586d1a7f26a1ef89e2e826990cb3c658ab1a97d0527cad542d",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "能不能出一份新手引导教程，刚开始用不知道"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_be306d6ec023",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "再这样频繁涨价我就考虑换竞品了",
+      "content_hash": "9395c7d17658991c77a860d8ad0206aebd919074ae68c2dd4ab4bcfd53849df4",
+      "task_hash": "f20171af571bd4c948eb6dfd7b5ee71475558e7d26359489e9696bb9f5752780",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "churn_risk",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 15,
+                "text": "再这样频繁涨价我就考虑换竞品了"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_e79d0112585f",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "每次更新都重置我的自定义配置，很烦",
+      "content_hash": "97e458e2c5814f944dacc6eba00846513f284b839fa3d389b80c27ca75e42be4",
+      "task_hash": "f89c1e38ae87cec673463e3095dfd6a965313d9304fbb64e6193604a5eb05dc0",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 17,
+                "text": "每次更新都重置我的自定义配置，很烦"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_7cac385ad1b2",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "知识付费类选题用3分钟深度解析+评论区送资料模板，引流效率翻倍",
+      "content_hash": "a2a58ddda817099e4c1483790efdb04c4731b04955748e2f9d3f777991302f2a",
+      "task_hash": "29886318996553cf5e191103cf81fe4b735c8c5ae2951f8d57a8bd257e174f83",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "知识付费类选题用3分钟深度解析+评论区送"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_5b611219c469",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "抖音热门BGM「晚风」配合慢动作转场效果极佳，收藏比达到25%",
+      "content_hash": "a2dc407cf2e53c1b8dceac849ef2966bdcd924940daeba8ce48bfbe0e79bcd7d",
+      "task_hash": "c5cfef21461a0951e5fb234c78b95a800b1f254f7616d7463ea1c0fb4821f609",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "usability_issue",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "抖音热门BGM「晚风」配合慢动作转场效果"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3acd1df3ef50",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "B站知识区选题规律：反常识标题+数据可视化封面",
+      "content_hash": "a391ee6eadab4fefeae5950978a20eca3b311e368324b4047f5908e2b1bb6e45",
+      "task_hash": "949e4801ab02e4f25d5bc58d420b9423227802e6cfc8caa960116b80e1b30d9f",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "B站知识区选题规律：反常识标题+数据可视"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_2604fb86d2ad",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "能不能加个自动保存草稿，写一半退出全没了",
+      "content_hash": "a46d3dabcac3c5455d99b10fc05cf7ec0dc8b4a3e8e929940d21bf2b3f295c71",
+      "task_hash": "01bda485b7b730522af1462dd4130e13b5a4171b5fa10c8e5465775b514a5fd1",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "能不能加个自动保存草稿，写一半退出全没了"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_9a68f5676376",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "视频开头3秒的悬念钩子公式：who+what+why=click",
+      "content_hash": "a5104c800ab88e238ca36712dd757fca5fd947f31b2bf7549f58574dea3fd2b9",
+      "task_hash": "e280bed484485f0b5723fc740e096caac67909cfe8184a76ac6ad88ac1316901",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "视频开头3秒的悬念钩子公式：who+wh"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_3f73c9100058",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "通知太多太杂，分不清重要和广告",
+      "content_hash": "a5dd2af65db14068dfb39ce163181fab7b2f66e5a128dc8fdffe594e38d0e835",
+      "task_hash": "1c10206f708e1a152e4bc0c84bf013098ab7517aa2ba1e8db5e1814f339d6cf6",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 15,
+                "text": "通知太多太杂，分不清重要和广告"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_5ab34f2f6b9e",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "快手三农赛道最近算法调整，推荐机制从完播率转向互动率",
+      "content_hash": "a8e71065105437b888e3aaeb9e5d9c53ddf51dd0be4bc48bc82863e143ec3a53",
+      "task_hash": "b8ba59ca4f3befaae749191b66d4ba485cd3139129b1575d2b94211fd17dd325",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "快手三农赛道最近算法调整，推荐机制从完播"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_6c101e924dea",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "会员开通后功能没解锁，需要重新登录",
+      "content_hash": "ad10d6b396917d8b5f910a5d343d23d7d99e18bc618381fa2a60dab14cf9699b",
+      "task_hash": "2bcfaa156e2d17df2ebc2f7d72433e87f1e1c758e1d95022ffed10cb16ae6983",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 17,
+                "text": "会员开通后功能没解锁，需要重新登录"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_98c226a01cbd",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "最近崩溃次数多了，三天闪退了四次",
+      "content_hash": "af154f3eba0d3fd8e4b0c3792e873dadbaec183994e746e6e53e5a4886afc8cc",
+      "task_hash": "5e26aa112079a96226edd4edf9d4e50fc132de72f4ea089cb95a89ec6b589706",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "viral_hook",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 16,
+                "text": "最近崩溃次数多了，三天闪退了四次"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_f01d41a3f76c",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "通知设置里面没有按时间静音的选项",
+      "content_hash": "b0118d22a1d4fae7d1c1a32f8b2acf0b4c3688e99a4b55bc2ed72a491f500237",
+      "task_hash": "54358cbc227a302673b54f9af4189c77b48428c43c5d48e2e26c8a02c46d4555",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 16,
+                "text": "通知设置里面没有按时间静音的选项"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_54325566b432",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "直播间的憋单话术：库存告急+倒计时+限购提示，转化率提升30%",
+      "content_hash": "b677969b8799f6dc9110046d41650e2bafbe54631689edc713621c30de384a75",
+      "task_hash": "4f203e3a99392dafc5693d6272b3bb248af0b12f86940f685718b553f28218ba",
+      "profile": "product_feedback",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "feature_request",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "直播间的憋单话术：库存告急+倒计时+限购"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    },
+    {
+      "dataset_id": "ddcfad9b574bb579",
+      "sample_id": "gs_1f797fbc84ad",
+      "annotator_slot": "assisted",
+      "split": "calibration",
+      "annotation_mode": "assisted_review",
+      "redacted_text": "字幕字体和颜色对观众停留时间有影响，白色描黑边效果最好",
+      "content_hash": "b6e02d87f3abed01eaebdd6891b145322aea4aeda76dfe507148d355b29a682f",
+      "task_hash": "5b5cab839f017f092649a201008790bac815e6383cbd0ed8fdfe39974139c23d",
+      "profile": "aigc_video",
+      "suggestion": {
+        "suggested_signals": [
+          {
+            "signal_type": "visual_technique",
+            "summary": "[预标注-fixture] 需要人工确认",
+            "evidence_spans": [
+              {
+                "start": 0,
+                "end": 20,
+                "text": "字幕字体和颜色对观众停留时间有影响，白色"
+              }
+            ],
+            "implicit_need": null,
+            "implicit_need_has_basis": false,
+            "hallucination": false
+          }
+        ],
+        "suggestion_label": "suggestion_only"
+      },
+      "fixture": true
+    }
+  ],
+  "fixture": true
+}

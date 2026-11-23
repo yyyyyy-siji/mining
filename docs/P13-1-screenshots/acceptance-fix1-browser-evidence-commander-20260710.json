@@ -1,0 +1,57 @@
+{
+  "verified_at": "2026-07-10T14:38:00+08:00",
+  "verifier": "commander_independent_fix1_acceptance",
+  "method": "Codex in-app browser against a newly started local service and a temporary copy of signal_miner.db",
+  "base_url": "http://127.0.0.1:8013",
+  "decision": "FAIL",
+  "pages": {
+    "signals": {
+      "url": "http://127.0.0.1:8013/#signals",
+      "screenshot": "docs/P13-1-screenshots/acceptance-fix1-signals-commander-20260710.png",
+      "observations": {
+        "visible_bare_min_confidence": false,
+        "visible_filter_text": "最低模型自评分（未校准，仅查看筛选）: 0.00",
+        "signal_card_badge_samples": [
+          "模型自评 0.95（未校准）",
+          "模型自评 0.95（未校准）",
+          "模型自评 0.95（未校准）"
+        ],
+        "signal_card_count": 200,
+        "network_request": "GET /api/v1/signals?limit=200&profile=product_feedback"
+      }
+    },
+    "pipeline": {
+      "url": "http://127.0.0.1:8013/#pipeline",
+      "screenshot": "docs/P13-1-screenshots/acceptance-fix1-pipeline-commander-20260710.png",
+      "observations": {
+        "visible_bare_min_confidence": false,
+        "visible_confidence_control": false,
+        "hidden_confidence_input_present": true,
+        "hidden_confidence_value": "0.5",
+        "main_model_status_visible": true,
+        "multimodal_status_visible": true,
+        "aigc_profile_option_visible": true
+      }
+    }
+  },
+  "dynamic_skip_flow": {
+    "passed": false,
+    "reason": "The SSE route and SPA do not treat completed_with_skips as a terminal status, so the browser flow cannot close and present a completed skip result reliably.",
+    "independent_sse_probe": {
+      "input_status": "completed_with_skips",
+      "stream_still_open": true
+    }
+  },
+  "executor_browser_evidence": {
+    "status": "BLOCKED",
+    "provided_file": "docs/P13-1-screenshots/browser-verification-evidence.txt",
+    "runtime_dom_assertions_present": false,
+    "fix1_png_files_present_before_commander_verification": false,
+    "source_only_fallback": true
+  },
+  "cleanup": {
+    "browser_tab_closed": true,
+    "local_service_stopped": true,
+    "temporary_database_removed": true
+  }
+}

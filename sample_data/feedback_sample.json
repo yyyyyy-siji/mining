@@ -1,0 +1,76 @@
+[
+  {
+    "title": "PDF导出功能无法使用",
+    "text": "我一直在尝试将月度报告导出为PDF格式，但导出按钮点击后没有任何反应。这非常令人沮丧，因为我每周都需要将报告分享给团队成员。我们购买了企业版订阅，这种基础功能不应该出问题。",
+    "author": "王明",
+    "company": "明科技术",
+    "segment": "enterprise",
+    "source": "support_ticket"
+  },
+  {
+    "title": "希望增加深色模式",
+    "text": "能否添加深色模式？我经常加班到很晚，明亮的白色界面对眼睛伤害很大。团队里好几个同事也提过同样的需求。",
+    "author": "李华",
+    "segment": "smb",
+    "source": "feature_request"
+  },
+  {
+    "title": "搜索功能太慢了",
+    "text": "当项目数量超过1000个时，搜索功能变得极其缓慢，有时候需要等待10秒以上才能看到结果。对于我们这种大规模使用的团队来说，这严重影响了工作效率。而且搜索结果的相关性也不够好，经常找不到想要的内容。",
+    "author": "张伟",
+    "company": "大数据公司",
+    "segment": "enterprise",
+    "source": "support_ticket"
+  },
+  {
+    "title": null,
+    "text": "产品很好用，继续加油！",
+    "author": "陈芳",
+    "source": "feedback_form"
+  },
+  {
+    "title": "考虑切换到竞品",
+    "text": "我们使用你们的工具已经两年了，但说实话，缺少API接口让我们开始考虑切换到CompetitorX。他们提供了REST API，可以跟我们的内部工具集成。我们的开发团队已经为此抱怨了好几个月。如果这个问题不能尽快解决，我们可能在续费时重新评估。",
+    "author": "赵军",
+    "company": "创新科技",
+    "segment": "enterprise",
+    "source": "account_manager_note"
+  },
+  {
+    "title": "移动端体验需要改善",
+    "text": "手机上使用你们的应用时，很多按钮太小了，经常点错。而且在手机上无法查看完整的数据图表，需要不断左右滑动。希望能优化移动端的响应式设计。",
+    "author": "刘洋",
+    "segment": "smb",
+    "source": "app_review"
+  },
+  {
+    "title": "数据权限管理太粗糙",
+    "text": "目前的权限系统只有管理员和普通用户两种角色，我们需要更细粒度的权限控制。比如，某些敏感项目只允许特定部门的人查看，而目前所有普通用户都能看到所有数据。这对于我们这种有合规要求的金融企业来说是不可接受的。",
+    "author": "周磊",
+    "company": "安信金融",
+    "segment": "enterprise",
+    "source": "support_ticket"
+  },
+  {
+    "title": "通知太多了",
+    "text": "每天收到几十封邮件通知，大部分跟我无关。虽然可以在设置里调整，但选项太复杂了，搞了半天也没弄明白怎么只接收跟我相关的通知。能不能有个智能推荐，自动过滤不相关的通知？",
+    "author": "吴静",
+    "segment": "smb",
+    "source": "feedback_form"
+  },
+  {
+    "title": "集成Slack后消息丢失",
+    "text": "上周我们把产品和Slack集成了，但发现有些从Slack转发过来的反馈消息会丢失。特别是包含图片或附件的消息，只能看到文字部分，图片完全没有同步过来。这个bug需要尽快修复。",
+    "author": "孙鹏",
+    "company": "云端科技",
+    "segment": "enterprise",
+    "source": "support_ticket"
+  },
+  {
+    "title": "希望支持批量操作",
+    "text": "当需要处理大量反馈时，只能一条一条操作太低效了。希望能支持批量选择、批量标记、批量分配等功能。这个在竞品ProductX里已经有了。",
+    "author": "黄丽",
+    "segment": "smb",
+    "source": "feature_request"
+  }
+]

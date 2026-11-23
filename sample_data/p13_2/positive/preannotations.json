@@ -1,0 +1,1957 @@
+{
+  "schema_version": "1.0.0",
+  "fixture_only": true,
+  "suggestions": [
+    {
+      "suggestion_id": "sg_gs_deac3f6a0d74",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "新手从零做号的路线图：第一条视频定调→前"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166587+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_329878b39d42",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "协作权限只有读和写两种，不够精细"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166599+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_5a7f4964754d",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "content_pattern",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "同一内容发抖音和B站，分别用娱乐风格和深"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166607+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_e41c9ecf3a10",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "字体大小调整后排版会乱，兼容性不好"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166612+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_55d93171e6da",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "建议增加语音输入功能，尤其是移动端打字不"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166619+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_4ff3f4be07a6",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "利用评论区神回复做续集视频，联动效果好"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166623+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_bf08ee8bcb05",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "希望支持Markdown实时预览，写文档"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166624+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_453ccf014328",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "海外TikTok宠物赛道流量红利期还在，"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166631+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_0842bc6fb44d",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "自动化规则只支持AND条件，不支持OR分"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166636+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_a4ec6563c4e1",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "抖音上这个3秒钩子太厉害了，第一帧就抛出"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166641+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_aeb937a04bd7",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "滚动加载到500条以后就开始卡顿了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166646+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_faaad9deaa8f",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "建议支持钉钉和企微的消息通知集成"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166650+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_b0461ac8aba7",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "建议增加标签颜色自定义，现在只有6种"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166655+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_05024050d9df",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 14,
+              "text": "能不能加一个夜间定时发送功能"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166659+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_47a7c3435d28",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "流程图绘制不支持自动对齐，线条歪歪扭扭"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166664+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_646e96d07251",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "分析发现每周四晚8点发布的亲子类视频互动"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166669+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_a4042bbece60",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "情感类AI视频的公式：问题-共鸣-解决方"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166673+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_8b68c55f6554",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "表单填写太麻烦，希望支持从上次填写导入"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166678+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_d1cad96bda70",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "你们的竞品支持AI总结，你们什么时候上"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166682+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_89d6ba4d8461",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "能加一个阅读进度条吗，长文章找不到位置"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166684+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_f53e5f594376",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "新版本UI改的不好看，还是老版本舒服"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166689+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_e1e00900fd59",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "历史版本对比功能在哪，找不到入口"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166693+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_3ee5f4ecb24a",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "快捷键冲突，Ctrl+S有时候是保存有时"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166695+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_4eafad8ca8f0",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "隐私设置太复杂，十几个选项分不清"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166699+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_84cc67a9677f",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "YouTube Shorts扶持政策延续"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166706+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_23ac99230f56",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "复制粘贴格式经常乱掉，表格变成纯文本"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166708+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_ed675ed87553",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "现在短视频变现新方向是知识付费加社群运营"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166712+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_bf63df0eb05c",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "数据统计面板能不能支持自定义时间范围"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166714+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_b2982d107b55",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 13,
+              "text": "请问怎么设置自动备份到网盘"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166715+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_e04c5ac164f1",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "标签页切换太慢了，明显感觉到延迟"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166719+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_3946bfca277b",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "搜索功能找不到历史记录，每次都要重新输入"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166722+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_4ba01d481bb2",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "是否支持数据导出到Notion"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166726+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_86f8632ad039",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "在线协作时光标不同步，不知道对方在编辑哪"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166733+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_81b7950718a3",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "文件上传大小限制只有10MB，太小了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166737+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_11f79d558a1b",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "visual_technique",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用AI批量生成小红书封面花的钱不到人工的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166742+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_71720d23e7ea",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "希望可以自定义快捷键，现在必须用默认的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166745+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_91b59f7e06e7",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "有没有计划支持WebDAV同步"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166749+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_346bf6b8aa58",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "能加一个离线模式吗，地铁上没信号用不了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166754+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_3f14f254e2a2",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "移动端编辑体验太差，输入框太小了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166756+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_c8a232d03efb",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "bug_report",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "导出PDF时中文会变成乱码，编码有问题"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166758+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_5dc8879a03ec",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "批量操作功能很好用，效率提高了很多"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166760+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_84e1c768b681",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "App更新后闪退频繁，iOS和Andro"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166763+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_c94f6fe2942b",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "热点话题蹭流量的最佳窗口是发布后2小时内"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166768+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_ec106f3324b2",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 14,
+              "text": "移动端加载太慢了WiFi也慢"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166773+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_808058f47c3c",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 19,
+              "text": "能不能出一个开发者API，我们自己集成"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166778+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_fdc0f762791b",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "发送确认邮件一直失败，SMTP配置是对的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166782+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_fd25e3266aac",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用AI生成文案配口播，产出一条视频时间缩"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166787+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_31eedb3c05d6",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "搜索支持正则吗？找特定格式数据很需要"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166792+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_a86a9476bf3a",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "通知叮叮当当的太吵了而且关不掉"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166796+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_7c97f5dadaaf",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用AI工具自动生成多个视频封面对比测试，"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166798+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_daf4c01139aa",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "建议增加文件对比功能，查看两个版本的差异"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166800+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_3ab6568e6daa",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "版本回退功能没有，升级后出了问题只能干着"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166801+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_e0534a26233b",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "对比三条爆款视频的共同点：都有问题式开头"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166807+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_2b44106603fb",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "抖音中视频计划的新门槛降低了，原创100"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166811+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_b39623200a7c",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "登录验证码经常收不到，短信延迟很大"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166813+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_56c1c3c398f3",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "用CapCut的这组特效组合能提升20%"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166818+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_fffc1a420586",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "AI生成的虚拟主播配真人配音，观众居然分"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166823+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_40db7be44755",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "删除确认框位置不在视野内，经常误触"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166828+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_bc978e1a3d62",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "邮件通知的格式在手机上看是乱的"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166832+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_4f8cdd6181db",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "text": "菜单层级太深，找设置要翻四五层，很累"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166833+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_eaae227523fd",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "能不能出一份新手引导教程，刚开始用不知道"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166837+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_be306d6ec023",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "churn_risk",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "再这样频繁涨价我就考虑换竞品了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166840+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_e79d0112585f",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "每次更新都重置我的自定义配置，很烦"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166844+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_7cac385ad1b2",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "知识付费类选题用3分钟深度解析+评论区送"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166847+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_5b611219c469",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "usability_issue",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "抖音热门BGM「晚风」配合慢动作转场效果"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166850+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_3acd1df3ef50",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "B站知识区选题规律：反常识标题+数据可视"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166856+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_2604fb86d2ad",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "能不能加个自动保存草稿，写一半退出全没了"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166861+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_9a68f5676376",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "视频开头3秒的悬念钩子公式：who+wh"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166864+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_3f73c9100058",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 15,
+              "text": "通知太多太杂，分不清重要和广告"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166866+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_5ab34f2f6b9e",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "快手三农赛道最近算法调整，推荐机制从完播"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166871+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_6c101e924dea",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 17,
+              "text": "会员开通后功能没解锁，需要重新登录"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166875+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_98c226a01cbd",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "viral_hook",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "最近崩溃次数多了，三天闪退了四次"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166879+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_f01d41a3f76c",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 16,
+              "text": "通知设置里面没有按时间静音的选项"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166881+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_54325566b432",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "feature_request",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "直播间的憋单话术：库存告急+倒计时+限购"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.166886+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    },
+    {
+      "suggestion_id": "sg_gs_1f797fbc84ad",
+      "suggestion_model": "fixture",
+      "suggestion_model_version": "fixture_v1",
+      "suggestion_prompt_version": "fixture_p13_2_v1",
+      "fixture_only": true,
+      "suggested_signals": [
+        {
+          "signal_type": "visual_technique",
+          "summary": "[预标注-fixture] 需要人工确认",
+          "evidence_spans": [
+            {
+              "start": 0,
+              "end": 20,
+              "text": "字幕字体和颜色对观众停留时间有影响，白色"
+            }
+          ],
+          "implicit_need": null,
+          "implicit_need_has_basis": false,
+          "hallucination": false
+        }
+      ],
+      "suggestion_created_at": "2026-07-11T15:43:53.167256+00:00",
+      "label_status": "suggestion_only",
+      "counts_as_human_verified": false
+    }
+  ],
+  "suggestion_count": 75
+}

@@ -1,0 +1,327 @@
+{
+  "passed": true,
+  "total_mutations": 40,
+  "detected_count": 40,
+  "results": [
+    {
+      "mutation": "missing_authorization",
+      "target_check": "authorization",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "invalid_authorization",
+      "target_check": "authorization",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "test_mock_record",
+      "target_check": "no_test_records",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "sensitive_email",
+      "target_check": "sensitive_content",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "evidence_offset_unicode",
+      "target_check": "evidence_offsets",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "cross_split_leak",
+      "target_check": "no_cross_split_leak",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "duplicate_double_id",
+      "target_check": "double_annotation",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "blind_pack_model_score_leak",
+      "target_check": "blind_pack_leakage",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "fake_human_verified_count",
+      "target_check": "labels_not_complete",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "split_49_26_25",
+      "target_check": "splits_valid",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "content_hash_tampered",
+      "target_check": "manifest_hash_valid",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "dataset_id_tampered",
+      "target_check": "manifest_identity",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "calibration_without_labels",
+      "target_check": "calibration_not_allowed",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "suggestion_leak_to_test",
+      "target_check": "suggestion_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "suggestion_offset_mismatch",
+      "target_check": "evidence_offsets",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "unknown_schema_field",
+      "target_check": "schema_validation",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "sensitive_redaction_false",
+      "target_check": "sensitive_content",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "ab_packs_missing",
+      "target_check": "files_exist",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "dataset_id_zero",
+      "target_check": "manifest_identity",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "blind_pack_hash_tampered",
+      "target_check": "manifest_hash_valid",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "double_ratio_tampered",
+      "target_check": "double_annotation",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "annotation_modes_tampered",
+      "target_check": "annotation_modes",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "schema_version_tampered",
+      "target_check": "schema_validation",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "suggestion_unknown_sample",
+      "target_check": "suggestion_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "preannotations_missing",
+      "target_check": "files_exist",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "b_pack_header_a_cleared",
+      "target_check": "pack_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "split_49_26_25_v2",
+      "target_check": "splits_valid",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "source_platform_missing",
+      "target_check": "source_balance",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "dev_pack_missing",
+      "target_check": "files_exist",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "ordered_hash_tampered",
+      "target_check": "manifest_hash_valid",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "capture_method_invalid",
+      "target_check": "capture_method_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "profile_minimum_violation",
+      "target_check": "profile_minimum",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "invalid_signal_type",
+      "target_check": "suggestion_signal_types",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "ab_slot_none",
+      "target_check": "pack_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "dev_pack_content_drift",
+      "target_check": "pack_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "single_source_empty_synced",
+      "target_check": "source_platform_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "capture_dist_tampered",
+      "target_check": "manifest_hash_valid",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "fixture_disguised_as_deepseek",
+      "target_check": "suggestion_contract",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "blind_generic_model_field",
+      "target_check": "blind_pack_leakage",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    },
+    {
+      "mutation": "frozen_manifest_sha_invariant",
+      "target_check": "manifest_identity",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true
+    }
+  ]
+}

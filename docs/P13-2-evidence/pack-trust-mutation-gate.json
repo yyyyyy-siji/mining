@@ -1,0 +1,289 @@
+{
+  "run_id": "c3ebe231-a359-4a19-90e1-d9d33cee18ca",
+  "generated_at": "2026-07-14T15:58:26.487343+00:00",
+  "phase": "pack_trust_mutation_gate",
+  "contract_sha256": "45c134efc1e311cb53413a7fe094e323716aab954b95b55882c64b978d798d5e",
+  "contract_schema_version": "contract-1.0.0",
+  "exit_code": 0,
+  "command": "pack-trust-mutation-gate",
+  "passed": true,
+  "total_mutations": 23,
+  "detected_count": 23,
+  "target_check": "pack_trust",
+  "results": [
+    {
+      "mutation": "env_production_fixture_test_key_rejected",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "production",
+        "ANNOTATION_PACK_TEST_SIGNING_KEY": "test-key-for-ci-pipeline",
+        "PATH": "/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.workbuddy/binaries/node/versions/22.22.2/bin:/Users/developer/.workbuddy/binaries/python/versions/3.13.12/bin:/Users/developer/.workbuddy/binaries/node/cli-connector-packages/bin:/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/Users/developer/.local/bin"
+      }
+    },
+    {
+      "mutation": "env_development_fixture_test_key_rejected",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "development",
+        "ANNOTATION_PACK_TEST_SIGNING_KEY": "test-key-for-ci-pipeline",
+        "PATH": "/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.workbuddy/binaries/node/versions/22.22.2/bin:/Users/developer/.workbuddy/binaries/python/versions/3.13.12/bin:/Users/developer/.workbuddy/binaries/node/cli-connector-packages/bin:/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/Users/developer/.local/bin"
+      }
+    },
+    {
+      "mutation": "env_empty_fixture_test_key_rejected",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "PATH": "/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.workbuddy/binaries/node/versions/22.22.2/bin:/Users/developer/.workbuddy/binaries/python/versions/3.13.12/bin:/Users/developer/.workbuddy/binaries/node/cli-connector-packages/bin:/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/Users/developer/.local/bin"
+      }
+    },
+    {
+      "mutation": "env_unknown_fixture_test_key_rejected",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "staging",
+        "ANNOTATION_PACK_TEST_SIGNING_KEY": "test-key-for-ci-pipeline",
+        "PATH": "/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.workbuddy/binaries/node/versions/22.22.2/bin:/Users/developer/.workbuddy/binaries/python/versions/3.13.12/bin:/Users/developer/.workbuddy/binaries/node/cli-connector-packages/bin:/Applications/WorkBuddy.app/Contents/Resources/app.asar.unpacked/cli/vendor/shim/safe-bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Users/developer/.mimocode/bin:/Users/developer/.npm-global/bin:/Users/developer/.local/bin"
+      }
+    },
+    {
+      "mutation": "test_env_fixture_no_manifest_rejected",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_manifest_omitted",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_manifest_file_missing",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_manifest_declared_path_mismatch",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "pack_content_tampered_sha_stale",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "pack_replaced_with_another",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "extra_pack_added",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "pack_removed",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "path_traversal_manifest",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "signature_truncated",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "signature_wrong_key",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "signature_missing",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_manifest_content_changed",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_manifest_sha_mismatch",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_manifest_path_traversal",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "dataset_id_mismatch",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "manifest_corrupt_json",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "schema_version_wrong",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    },
+    {
+      "mutation": "manifest_forged_passed_field",
+      "target_check": "pack_trust",
+      "child_exit": 1,
+      "check_exists": true,
+      "target_passed": false,
+      "detected": true,
+      "env": {
+        "APP_ENVIRONMENT": "test"
+      }
+    }
+  ],
+  "readiness_invariants": [
+    {
+      "name": "production_no_key_blocked_exit2",
+      "child_exit": 2,
+      "expected_exit": 2,
+      "passed": true
+    },
+    {
+      "name": "test_env_no_injected_key_blocked_exit2",
+      "child_exit": 2,
+      "expected_exit": 2,
+      "passed": true
+    }
+  ],
+  "readiness_invariants_passed": true
+}
