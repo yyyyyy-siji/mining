@@ -14,11 +14,11 @@ from typing import TYPE_CHECKING
 
 import numpy as np
 from sklearn.cluster import AgglomerativeClustering
-from sqlalchemy import select
+from sqlalchemy import or_, select
 import structlog
 
 from signal_miner.db import get_session_factory
-from signal_miner.db.models import SignalRow, ThemeRow
+from signal_miner.db.models import RawFeedbackRow, SignalRow, ThemeRow
 from signal_miner.models import new_id
 from signal_miner.services.audit import log_pipeline_event
 
@@ -65,10 +65,18 @@ async def cluster_signals_into_themes(
     session_factory = get_session_factory()
 
     async with session_factory() as session:
-        # 1. Fetch signals that have embeddings
-        stmt = select(SignalRow).where(
-            SignalRow.embedding.is_not(None),
-            SignalRow.processing_state != "dismissed",
+        # 1. Fetch signals that have embeddings, scoped to pipeline_profile and version_id
+        stmt = (
+            select(SignalRow)
+            .outerjoin(RawFeedbackRow, RawFeedbackRow.id == SignalRow.raw_feedback_id)
+            .where(
+                SignalRow.embedding.is_not(None),
+                SignalRow.processing_state != "dismissed",
+                or_(
+                    RawFeedbackRow.id.is_(None),
+                    RawFeedbackRow.pipeline_profile == pipeline_profile,
+                ),
+            )
         )
         if version_id:
             stmt = stmt.where(SignalRow.version_id == version_id)
@@ -86,7 +94,7 @@ async def cluster_signals_into_themes(
             )
 
         # 2. Exclude signals already assigned to a theme (idempotency)
-        existing_themes_stmt = select(ThemeRow)
+        existing_themes_stmt = select(ThemeRow).where(ThemeRow.pipeline_profile == pipeline_profile)
         if version_id:
             existing_themes_stmt = existing_themes_stmt.where(ThemeRow.version_id == version_id)
         existing_result = await session.execute(existing_themes_stmt)
@@ -108,14 +116,16 @@ async def cluster_signals_into_themes(
 
         # 2. Run clustering (Agglomerative with cosine distance)
         # Using cosine distance: 1 - cosine_similarity
-        clustering = AgglomerativeClustering(
-            n_clusters=None,
-            metric="cosine",
-            linkage="average",
-            distance_threshold=distance_threshold
-        )
-
-        labels = clustering.fit_predict(embeddings)
+        if len(signals) == 1:
+            labels = [0]
+        else:
+            clustering = AgglomerativeClustering(
+                n_clusters=None,
+                metric="cosine",
+                linkage="average",
+                distance_threshold=distance_threshold
+            )
+            labels = clustering.fit_predict(embeddings)
 
         # 3. Group signals by cluster label
         clusters: dict[int, list[SignalRow]] = {}

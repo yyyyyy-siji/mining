@@ -13,11 +13,12 @@ from __future__ import annotations
 import json
 from typing import TYPE_CHECKING
 
-from fastapi import APIRouter, BackgroundTasks, HTTPException, Query, Request, status
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Query, Request, status
 from pydantic import BaseModel, Field
-from sqlalchemy import select
+from sqlalchemy import select, update
 from sse_starlette.sse import EventSourceResponse
 
+from signal_miner.auth import require_same_origin
 from signal_miner.db import get_session_factory
 from signal_miner.db.models import PipelineRunRow, RawFeedbackRow
 from signal_miner.models import ProcessingState, new_id
@@ -70,6 +71,7 @@ class RunPipelineResponse(BaseModel):
     "/pipeline/run",
     response_model=RunPipelineResponse,
     status_code=status.HTTP_202_ACCEPTED,
+    dependencies=[Depends(require_same_origin)],
     summary="Trigger the full mining pipeline",
 )
 async def run_pipeline(
@@ -101,6 +103,18 @@ async def run_pipeline(
             )
             result = await session.execute(stmt)
             feedback_ids = [row[0] for row in result.all()]
+            if feedback_ids:
+                # Atomically claim pending items (PENDING -> READY_FOR_EXTRACTION) so
+                # concurrent triggers cannot double-process the same pending batch.
+                await session.execute(
+                    update(RawFeedbackRow)
+                    .where(
+                        RawFeedbackRow.id.in_(feedback_ids),
+                        RawFeedbackRow.processing_state == ProcessingState.PENDING,
+                    )
+                    .values(processing_state=ProcessingState.READY_FOR_EXTRACTION)
+                )
+                await session.commit()
 
     if not feedback_ids:
         raise HTTPException(

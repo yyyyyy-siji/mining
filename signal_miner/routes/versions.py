@@ -5,10 +5,11 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from typing import Literal
 
-from fastapi import APIRouter, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status
 from pydantic import BaseModel, Field
 from sqlalchemy import delete, func, select
 
+from signal_miner.auth import require_same_origin
 from signal_miner.db import get_session_factory
 from signal_miner.db.models import (
     DEFAULT_VERSION_ID,
@@ -139,7 +140,7 @@ async def list_versions(include_archived: bool = True) -> dict:
         return {"versions": items, "default_version_id": DEFAULT_VERSION_ID}
 
 
-@router.post("/versions", status_code=status.HTTP_201_CREATED, summary="Create a new dataset version")
+@router.post("/versions", status_code=status.HTTP_201_CREATED, dependencies=[Depends(require_same_origin)], summary="Create a new dataset version")
 async def create_version(body: CreateVersionRequest) -> dict:
     name = body.name.strip()
     if not name:
@@ -162,7 +163,7 @@ async def create_version(body: CreateVersionRequest) -> dict:
         return _serialize_version(row, stats)
 
 
-@router.patch("/versions/{version_id}", summary="Update a dataset version")
+@router.patch("/versions/{version_id}", dependencies=[Depends(require_same_origin)], summary="Update a dataset version")
 async def update_version(version_id: str, body: UpdateVersionRequest) -> dict:
     session_factory = get_session_factory()
     async with session_factory() as session:
@@ -187,7 +188,7 @@ async def update_version(version_id: str, body: UpdateVersionRequest) -> dict:
         return _serialize_version(row, stats)
 
 
-@router.delete("/versions/{version_id}", summary="Delete a dataset version and its scoped records")
+@router.delete("/versions/{version_id}", dependencies=[Depends(require_same_origin)], summary="Delete a dataset version and its scoped records")
 async def delete_version(version_id: str) -> dict:
     if version_id == DEFAULT_VERSION_ID:
         raise HTTPException(status_code=400, detail="内置默认版本不可删除。")

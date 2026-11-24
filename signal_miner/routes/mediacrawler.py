@@ -1,13 +1,14 @@
 """Authenticated explicit local collection; no feedback writes or model calls."""
 from typing import Literal
 
-from fastapi import APIRouter, HTTPException, Request
+from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
+from signal_miner.auth import require_same_origin
 from signal_miner.connectors.mediacrawler_adapter import validate_item_url
 from signal_miner.connectors.mediacrawler_runner import RunnerError
 
-router = APIRouter(prefix="/mediacrawler")
+router = APIRouter(prefix="/mediacrawler", dependencies=[Depends(require_same_origin)])
 
 
 class CollectionTaskRequest(BaseModel):

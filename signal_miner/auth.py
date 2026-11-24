@@ -8,13 +8,29 @@ from __future__ import annotations
 
 from typing import TYPE_CHECKING
 
-from fastapi import HTTPException, Security, status
+from fastapi import HTTPException, Request, Security, status
 from fastapi.security import APIKeyHeader
 
 if TYPE_CHECKING:
     from signal_miner.settings import AppSettings
 
 _api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
+
+
+async def require_same_origin(request: Request) -> None:
+    """Reject cross-origin browser requests to local mutating endpoints."""
+    origin = request.headers.get("origin")
+    if origin is not None and (
+        origin != str(request.base_url).rstrip("/")
+        or request.base_url.hostname not in {"127.0.0.1", "localhost", "::1"}
+    ):
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail={
+                "code": "cross_origin_forbidden",
+                "message": "该操作仅接受 MINING 页面同源请求。",
+            },
+        )
 
 
 def get_api_key_dependency(settings: AppSettings):

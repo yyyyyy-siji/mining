@@ -223,7 +223,8 @@ async def list_pain_points(
             stmt = stmt.where(PainPointRow.severity == severity)
         if version_id and version_id != "all":
             stmt = stmt.where(PainPointRow.version_id == version_id)
-        stmt = stmt.limit(limit)
+        if allowed_theme_ids is None:
+            stmt = stmt.limit(limit)
         result = await session.execute(stmt)
         rows = result.scalars().all()
 
@@ -231,7 +232,7 @@ async def list_pain_points(
             rows = [
                 r for r in rows
                 if any(tid in allowed_theme_ids for tid in (r.theme_ids or []))
-            ]
+            ][:limit]
         return [
             PainPointSummary(
                 id=r.id, user_segment=r.user_segment, description=r.description,
@@ -341,12 +342,16 @@ async def list_opportunities(
         stmt = select(OpportunityRow).order_by(OpportunityRow.created_at.desc())
         if version_id and version_id != "all":
             stmt = stmt.where(OpportunityRow.version_id == version_id)
-        stmt = stmt.limit(limit)
+        if allowed_theme_ids is None:
+            stmt = stmt.limit(limit)
         result = await session.execute(stmt)
         rows = result.scalars().all()
 
         if allowed_theme_ids is not None:
-            all_pps = (await session.execute(select(PainPointRow))).scalars().all()
+            pp_stmt = select(PainPointRow)
+            if version_id and version_id != "all":
+                pp_stmt = pp_stmt.where(PainPointRow.version_id == version_id)
+            all_pps = (await session.execute(pp_stmt)).scalars().all()
             allowed_pp_ids = {
                 pp.id for pp in all_pps
                 if any(tid in allowed_theme_ids for tid in (pp.theme_ids or []))
@@ -354,7 +359,7 @@ async def list_opportunities(
             rows = [
                 r for r in rows
                 if any(pid in allowed_pp_ids for pid in (r.pain_point_ids or []))
-            ]
+            ][:limit]
         return [
             OpportunitySummary(
                 id=r.id, jtbd_statement=r.jtbd_statement, description=r.description,
@@ -423,17 +428,23 @@ async def list_requirements(
         stmt = select(RequirementAssetRow).order_by(RequirementAssetRow.created_at.desc())
         if version_id and version_id != "all":
             stmt = stmt.where(RequirementAssetRow.version_id == version_id)
-        stmt = stmt.limit(limit)
+        if allowed_theme_ids is None:
+            stmt = stmt.limit(limit)
         result = await session.execute(stmt)
         rows = result.scalars().all()
 
         if allowed_theme_ids is not None:
-            all_pps = (await session.execute(select(PainPointRow))).scalars().all()
+            pp_stmt = select(PainPointRow)
+            opp_stmt = select(OpportunityRow)
+            if version_id and version_id != "all":
+                pp_stmt = pp_stmt.where(PainPointRow.version_id == version_id)
+                opp_stmt = opp_stmt.where(OpportunityRow.version_id == version_id)
+            all_pps = (await session.execute(pp_stmt)).scalars().all()
             allowed_pp_ids = {
                 pp.id for pp in all_pps
                 if any(tid in allowed_theme_ids for tid in (pp.theme_ids or []))
             }
-            all_opps = (await session.execute(select(OpportunityRow))).scalars().all()
+            all_opps = (await session.execute(opp_stmt)).scalars().all()
             allowed_opp_ids = {
                 op.id for op in all_opps
                 if any(pid in allowed_pp_ids for pid in (op.pain_point_ids or []))
@@ -441,7 +452,7 @@ async def list_requirements(
             rows = [
                 r for r in rows
                 if any(oid in allowed_opp_ids for oid in (r.opportunity_ids or []))
-            ]
+            ][:limit]
         summaries = []
         for r in rows:
             evidence_trail = await _enrich_evidence_links(

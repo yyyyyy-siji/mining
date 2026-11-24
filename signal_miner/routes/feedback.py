@@ -5,10 +5,11 @@ from __future__ import annotations
 from datetime import datetime  # noqa: TC003 (required by Pydantic at runtime)
 from typing import Literal
 
-from fastapi import APIRouter, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status
 from pydantic import BaseModel, Field, field_validator, model_validator
 from sqlalchemy import func, select
 
+from signal_miner.auth import require_same_origin
 from signal_miner.db import get_session_factory
 from signal_miner.db.models import RawFeedbackRow, SignalRow
 from signal_miner.utils.source_evidence import (
@@ -235,6 +236,7 @@ class BatchIngestResponse(BaseModel):
     "/feedback/ingest",
     response_model=IngestResponse,
     status_code=status.HTTP_201_CREATED,
+    dependencies=[Depends(require_same_origin)],
     summary="Ingest a single feedback item",
 )
 async def ingest_feedback(request: IngestRequest) -> IngestResponse:
@@ -255,6 +257,7 @@ async def ingest_feedback(request: IngestRequest) -> IngestResponse:
     "/feedback/batch",
     response_model=BatchIngestResponse,
     status_code=status.HTTP_201_CREATED,
+    dependencies=[Depends(require_same_origin)],
     summary="Batch ingest feedback items",
 )
 async def batch_ingest(
@@ -333,11 +336,20 @@ async def list_feedback(
         result = await session.execute(stmt)
         rows = result.scalars().all()
 
+        row_ids = [row.id for row in rows]
+        sig_counts: dict[str, int] = {}
+        if row_ids:
+            count_stmt = (
+                select(SignalRow.raw_feedback_id, func.count())
+                .where(SignalRow.raw_feedback_id.in_(row_ids))
+                .group_by(SignalRow.raw_feedback_id)
+            )
+            sig_counts = {str(fid): int(cnt) for fid, cnt in (await session.execute(count_stmt)).all()}
+
         summaries = []
         for row in rows:
             content = row.content or {}
-            sig_stmt = select(func.count()).where(SignalRow.raw_feedback_id == row.id)
-            sig_count = (await session.execute(sig_stmt)).scalar() or 0
+            sig_count = sig_counts.get(row.id, 0)
 
             summaries.append(FeedbackSummary(
                 id=row.id,

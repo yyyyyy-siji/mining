@@ -1282,14 +1282,14 @@ async function renderSignalsPage(container) {
         card.innerHTML = `
           <div class="card-header">
             <div>
-              <div class="card-title">${sig.summary}</div>
-              <div class="card-subtitle">${sig.signal_type} · ${sig.source_type || '—'}</div>
+              <div class="card-title">${escapeHtml(sig.summary || '')}</div>
+              <div class="card-subtitle">${escapeHtml(sig.signal_type || '')} · ${escapeHtml(sig.source_type || '—')}</div>
             </div>
-            <span class="badge" style="color:${confColor};background:${confColor}15">${confLabel}</span>
+            <span class="badge" style="color:${confColor};background:${confColor}15">${escapeHtml(confLabel)}</span>
           </div>
           <div class="card-body">
-            ${evidence ? `<div style="margin-bottom:8px"><strong>证据:</strong> «${evidence}» ${evidenceBadge}</div>` : ''}
-            ${sig.implicit_need ? `<div style="color:var(--accent-secondary)"><strong>隐含需求:</strong> ${sig.implicit_need}</div>` : ''}
+            ${evidence ? `<div style="margin-bottom:8px"><strong>证据:</strong> «${escapeHtml(evidence)}» ${evidenceBadge}</div>` : ''}
+            ${sig.implicit_need ? `<div style="color:var(--accent-secondary)"><strong>隐含需求:</strong> ${escapeHtml(sig.implicit_need)}</div>` : ''}
             ${sourceStatusHtml(sig.source_url, sig.external_url, '查看原始来源')}
             ${!sig.source_url && !sig.external_url && sig.source_type ? `<div style="margin-top:4px;font-size:12px;color:var(--text-muted)">📎 来源平台: ${escapeHtml(sig.source_type)}</div>` : ''}
           </div>
@@ -1322,14 +1322,14 @@ async function renderThemesPage(container) {
       card.innerHTML = `
         <div class="card-header">
           <div style="flex:1">
-            <div class="card-title">${theme.name}</div>
-            <div class="card-subtitle">${theme.signal_count} 个信号 · ${theme.status}</div>
+            <div class="card-title">${escapeHtml(theme.name || '')}</div>
+            <div class="card-subtitle">${Number(theme.signal_count) || 0} 个信号 · ${escapeHtml(theme.status || '')}</div>
           </div>
           <button class="expand-toggle">▼</button>
         </div>
         <div class="card-body">
-          <p>${theme.description}</p>
-          ${(theme.representative_quotes || []).map(q => `<div class="evidence-quote">«${q}»</div>`).join('')}
+          <p>${escapeHtml(theme.description || '')}</p>
+          ${(theme.representative_quotes || []).map(q => `<div class="evidence-quote">«${escapeHtml(q)}»</div>`).join('')}
         </div>
       `;
       const toggle = card.querySelector('.expand-toggle');
@@ -1359,8 +1359,8 @@ async function renderPainPointsPage(container) {
       data.filter(pp => !sevFilter || pp.severity === sevFilter).forEach(pp => {
         const badge = createBadge(`${sevIcon[pp.severity] || ''} ${pp.severity}`, pp.severity === 'critical' ? 'danger' : pp.severity === 'high' ? 'warning' : 'info');
         const card = createExpandableCard(
-          `<div><div class="card-title">${pp.description}</div><div class="card-subtitle">${pp.user_segment} · ${pp.frequency}</div></div>${badge.outerHTML}`,
-          `<p><strong>业务影响:</strong> ${pp.business_impact}</p>${(pp.evidence_quotes || []).map(q => `<div class="evidence-quote">«${q}»</div>`).join('')}`
+          `<div><div class="card-title">${escapeHtml(pp.description || '')}</div><div class="card-subtitle">${escapeHtml(pp.user_segment || '')} · ${escapeHtml(pp.frequency || '')}</div></div>${badge.outerHTML}`,
+          `<p><strong>业务影响:</strong> ${escapeHtml(pp.business_impact || '')}</p>${(pp.evidence_quotes || []).map(q => `<div class="evidence-quote">«${escapeHtml(q)}»</div>`).join('')}`
         );
         listEl.appendChild(card);
       });
@@ -1777,7 +1777,7 @@ async function renderRequirementsPage(container) {
 
     data.forEach(req => {
       const stories = (req.user_stories || []).map(s =>
-        `<tr><td>${s.role}</td><td>${s.action}</td><td>${s.benefit}</td></tr>`
+        `<tr><td>${escapeHtml(s.role || '')}</td><td>${escapeHtml(s.action || '')}</td><td>${escapeHtml(s.benefit || '')}</td></tr>`
       ).join('');
 
       // Build evidence chain preview
@@ -1785,20 +1785,25 @@ async function renderRequirementsPage(container) {
       const evPreview = evidenceCount > 0
         ? `<span class="badge badge-info">📎 ${evidenceCount} 条证据</span>`
         : '<span class="badge badge-default">无证据</span>';
+      const safeReqId = escapeHtml(String(req.id || ''));
 
       const card = createExpandableCard(
         `<div style="flex:1">
-          <div class="card-title">${req.title}</div>
+          <div class="card-title">${escapeHtml(req.title || '')}</div>
           <div class="card-subtitle">${(req.acceptance_criteria || []).length} 条验收标准 · ${stories ? '含用户故事' : '无用户故事'}</div>
         </div>
-        <div style="display:flex;align-items:center;gap:8px">${evPreview}<button class="btn btn-sm btn-secondary" onclick="event.stopPropagation(); loadEvidenceChain('${req.id}', this)" title="查看证据链">🔗 追溯</button></div>`,
+        <div style="display:flex;align-items:center;gap:8px">${evPreview}<button class="btn btn-sm btn-secondary btn-evidence-trace" type="button" title="查看证据链">🔗 追溯</button></div>`,
         `<div class="section-title" style="font-size:14px">📋 用户故事</div>
          <div class="table-container"><table class="table"><thead><tr><th>角色</th><th>行为</th><th>价值</th></tr></thead><tbody>${stories || '<tr><td colspan="3">—</td></tr>'}</tbody></table></div>
          <div class="section-title" style="font-size:14px;margin-top:16px">✅ 验收标准</div>
-         <ul style="padding-left:20px">${(req.acceptance_criteria || []).map(a => `<li style="margin-bottom:4px">${a}</li>`).join('') || '<li>—</li>'}</ul>
-         ${req.decision_reasoning ? `<div class="section-title" style="font-size:14px;margin-top:16px">🧠 决策理由</div><p>${req.decision_reasoning}</p>` : ''}
-         <div id="evidence-chain-${req.id}" style="margin-top:16px"></div>`
+         <ul style="padding-left:20px">${(req.acceptance_criteria || []).map(a => `<li style="margin-bottom:4px">${escapeHtml(a)}</li>`).join('') || '<li>—</li>'}</ul>
+         ${req.decision_reasoning ? `<div class="section-title" style="font-size:14px;margin-top:16px">🧠 决策理由</div><p>${escapeHtml(req.decision_reasoning)}</p>` : ''}
+         <div id="evidence-chain-${safeReqId}" style="margin-top:16px"></div>`
       );
+      const traceBtn = card.querySelector('.btn-evidence-trace');
+      if (traceBtn) {
+        traceBtn.onclick = (e) => { e.stopPropagation(); window.loadEvidenceChain(String(req.id || ''), traceBtn); };
+      }
       listEl.appendChild(card);
     });
   } catch (e) { showToast(`加载失败: ${e.message}`, 'danger'); }

@@ -76,7 +76,7 @@ def _validate_base_url(value: str) -> str:
 
 
 def _env_path() -> Path:
-    return Path(".env").resolve()
+    return Path(__file__).resolve().parents[2] / ".env"
 
 
 def _persist_env_updates(updates: dict[str, str]) -> None:

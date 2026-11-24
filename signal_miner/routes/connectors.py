@@ -9,10 +9,11 @@ import threading
 import time
 from typing import Literal
 
-from fastapi import APIRouter, Body, HTTPException, Request, status
+from fastapi import APIRouter, Body, Depends, HTTPException, Request, status
 import httpx
 from pydantic import BaseModel, ConfigDict, Field, SecretStr, field_validator
 
+from signal_miner.auth import require_same_origin
 from signal_miner.connectors import list_connectors
 from signal_miner.connectors.community_samples import (
     CollectionError,
@@ -249,6 +250,7 @@ async def zhihu_status(request: Request) -> dict:
 @router.post(
     "/connectors/zhihu/preview", response_model=ZhihuPreviewResponse,
     summary="Preview official Zhihu search excerpts as leads without importing",
+    dependencies=[Depends(require_same_origin)],
 )
 async def zhihu_preview(body: ZhihuPreviewRequest, request: Request) -> dict:
     secret = _zhihu_secret(request)
@@ -278,6 +280,7 @@ async def zhihu_preview(body: ZhihuPreviewRequest, request: Request) -> dict:
     "/connectors/community/preview",
     response_model=CommunityPreviewResponse,
     summary="Preview bounded community source materials without importing",
+    dependencies=[Depends(require_same_origin)],
 )
 async def preview_community(body: CommunityPreviewRequest) -> dict:
     if not _community_preview_lock.acquire(blocking=False):
@@ -315,6 +318,7 @@ async def list_available_connectors() -> dict:
     response_model=GitHubFetchResponse,
     summary="Fetch GitHub Issues into feedback database",
     status_code=status.HTTP_200_OK,
+    dependencies=[Depends(require_same_origin)],
 )
 async def github_fetch(
     request: GitHubFetchRequest,
