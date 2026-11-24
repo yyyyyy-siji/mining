@@ -119,6 +119,10 @@ alembic downgrade -1
 # 运行全部 90 项单元与集成测试
 pytest
 
+# 前端模块化源码构建与一致性校验（修改 frontend/src/*.js 后运行）
+node scripts/build_frontend.mjs
+node scripts/build_frontend.mjs --check
+
 # 代码格式化与 Lint 检查 (使用 Ruff 进行极致的代码整洁度保障)
 ruff check --fix
 ruff format

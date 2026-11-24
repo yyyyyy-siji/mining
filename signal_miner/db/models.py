@@ -94,6 +94,7 @@ class RawFeedbackRow(Base):
     __table_args__ = (
         Index("raw_feedback_dedupe_idx", "version_id", "source_id", "dedupe_key", unique=True),
         Index("raw_feedback_created_idx", "created_at"),
+        Index("raw_feedback_ver_profile_state_idx", "version_id", "pipeline_profile", "processing_state"),
     )
 
 
@@ -162,6 +163,10 @@ class ThemeRow(Base):
     )
     updated_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), nullable=False, server_default=func.now(), onupdate=func.now()
+    )
+
+    __table_args__ = (
+        Index("themes_ver_profile_idx", "version_id", "pipeline_profile"),
     )
 
 

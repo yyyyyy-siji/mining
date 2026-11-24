@@ -480,25 +480,25 @@ window.loadEvidenceChain = async function (reqId, trigger) {
     // Requirement header
     const reqNode = document.createElement('div');
     reqNode.className = 'evidence-node level-requirement';
-    reqNode.innerHTML = `<div class="evidence-node-header">📝 需求: ${data.title}</div>`;
+    reqNode.innerHTML = `<div class="evidence-node-header">📝 需求: ${escapeHtml(data.title || '')}</div>`;
     chain.appendChild(reqNode);
 
     links.forEach(link => {
       const node = document.createElement('div');
       node.className = `evidence-node level-signal`;
-      const conf = link.confidence || 0;
+      const conf = Number(link.confidence) || 0;
       const confColor = confidenceColor(conf);
       node.innerHTML = `
         <div class="evidence-node-header">
-          🔬 <span style="flex:1">${link.signal_summary || '信号'}</span>
+          🔬 <span style="flex:1">${escapeHtml(link.signal_summary || '信号')}</span>
           <span class="badge" style="color:${confColor};background:${confColor}15">模型自评 ${conf.toFixed(2)}</span>
         </div>
         <div class="evidence-node-body">
-          <div><strong>类型:</strong> ${link.signal_type || '—'} · <strong>来源:</strong> ${link.source_type || '—'}</div>
-          ${link.author_segment ? `<div><strong>用户:</strong> ${link.author_segment}</div>` : ''}
-          ${link.quote ? `<div class="evidence-quote">«${link.quote}»</div>` : ''}
+          <div><strong>类型:</strong> ${escapeHtml(link.signal_type || '—')} · <strong>来源:</strong> ${escapeHtml(link.source_type || '—')}</div>
+          ${link.author_segment ? `<div><strong>用户:</strong> ${escapeHtml(link.author_segment)}</div>` : ''}
+          ${link.quote ? `<div class="evidence-quote">«${escapeHtml(link.quote)}»</div>` : ''}
           <div style="margin-top:4px;font-size:11px;color:var(--text-muted)">
-            ${link.raw_feedback_preview ? `原文预览: ${link.raw_feedback_preview.slice(0, 100)}…` : ''}
+            ${link.raw_feedback_preview ? `原文预览: ${escapeHtml(link.raw_feedback_preview.slice(0, 100))}…` : ''}
           </div>
         </div>
       `;
@@ -526,7 +526,7 @@ window.loadEvidenceChain = async function (reqId, trigger) {
     container.appendChild(chain);
     container.dataset.loaded = 'true';
   } catch (e) {
-    container.innerHTML = `<p style="color:var(--danger)">证据链加载失败: ${e.message}</p>`;
+    container.innerHTML = `<p style="color:var(--danger)">证据链加载失败: ${escapeHtml(e.message || String(e))}</p>`;
   } finally {
     delete container.dataset.loading;
     if (trigger) {

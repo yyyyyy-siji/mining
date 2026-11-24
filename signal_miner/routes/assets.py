@@ -7,10 +7,11 @@ from __future__ import annotations
 
 from datetime import datetime  # noqa: TC003 (required by Pydantic at runtime)
 
-from fastapi import APIRouter, HTTPException, Request, status
+from fastapi import APIRouter, Depends, HTTPException, Request, status
 from pydantic import BaseModel, Field
 from sqlalchemy import select
 
+from signal_miner.auth import require_same_origin
 from signal_miner.db import get_session_factory
 from signal_miner.db.models import (
     OpportunityRow,
@@ -281,6 +282,7 @@ class DiscoverOpportunitiesRequest(BaseModel):
 @router.post(
     "/opportunities/discover",
     response_model=DiscoveryPreview,
+    dependencies=[Depends(require_same_origin)],
     summary="Preview opportunities from explicitly selected product feedback",
 )
 async def discover_selected_opportunities(
@@ -644,6 +646,7 @@ class PRDJsonResponse(BaseModel):
 @router.post(
     "/requirements/{req_id}/generate-prd",
     response_model=GeneratePRDResponse,
+    dependencies=[Depends(require_same_origin)],
     summary="Generate PRD for a requirement asset",
 )
 async def generate_prd(req_id: str, http_request: Request) -> GeneratePRDResponse:

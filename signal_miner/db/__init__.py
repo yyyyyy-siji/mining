@@ -63,7 +63,12 @@ _VERSIONED_TABLES = (
 
 async def _ensure_version_schema(conn, database_url: str) -> None:
     """Idempotently add version_id columns, upgrade dedupe index, and seed default version."""
+    from sqlalchemy.ext.asyncio import AsyncConnection
+
+    if not isinstance(conn, AsyncConnection):
+        return
     is_sqlite = "sqlite" in database_url
+    table_cols: dict[str, set[str]] = {}
     for table in _VERSIONED_TABLES:
         if is_sqlite:
             cols = {
@@ -74,6 +79,8 @@ async def _ensure_version_schema(conn, database_url: str) -> None:
                 await conn.execute(
                     text(f"ALTER TABLE {table} ADD COLUMN version_id VARCHAR(40) NOT NULL DEFAULT 'default'")
                 )
+                cols.add("version_id")
+            table_cols[table] = cols
             await conn.execute(
                 text(f"CREATE INDEX IF NOT EXISTS ix_{table}_version_id ON {table} (version_id)")
             )
@@ -84,6 +91,22 @@ async def _ensure_version_schema(conn, database_url: str) -> None:
             await conn.execute(
                 text(f"CREATE INDEX IF NOT EXISTS ix_{table}_version_id ON {table} (version_id)")
             )
+
+    # Composite indexes for hot profile+version+state queries on existing databases
+    if not is_sqlite or {"version_id", "pipeline_profile", "processing_state"} <= table_cols.get("raw_feedback_items", set()):
+        await conn.execute(
+            text(
+                "CREATE INDEX IF NOT EXISTS raw_feedback_ver_profile_state_idx "
+                "ON raw_feedback_items (version_id, pipeline_profile, processing_state)"
+            )
+        )
+    if not is_sqlite or {"version_id", "pipeline_profile"} <= table_cols.get("themes", set()):
+        await conn.execute(
+            text(
+                "CREATE INDEX IF NOT EXISTS themes_ver_profile_idx "
+                "ON themes (version_id, pipeline_profile)"
+            )
+        )
 
     if is_sqlite:
         idx_cols = [
