@@ -171,3 +171,15 @@ async def test_pipeline_run_claims_pending_feedback_atomically(tmp_path, monkeyp
         assert second.status_code == 404
 
     await engine.dispose()
+
+
+def test_frontend_src_bundle_is_in_sync():
+    from pathlib import Path
+
+    root = Path(__file__).resolve().parents[1]
+    src_dir = root / "frontend" / "src"
+    bundle = (root / "frontend" / "static" / "app.js").read_text(encoding="utf-8")
+    parts = sorted(src_dir.glob("*.js"))
+    assert len(parts) >= 5
+    assembled = "".join(p.read_text(encoding="utf-8") for p in parts)
+    assert bundle == assembled, "frontend/static/app.js is out of sync with frontend/src/*.js; run `node scripts/build_frontend.mjs`"
